@@ -1,4 +1,5 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Party,Percent,Acronym
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.26,ΣΥΡΙΖΑ
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.261,ΣΥΡΙΖΑ
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.243,ΣΥΡΙΖΑ
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.249,ΣΥΡΙΖΑ
@@ -264,6 +265,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.215,ΣΥΡΙΖΑ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.22899999999999998,ΣΥΡΙΖΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.25,ΣΥΡΙΖΑ
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.36200000000000004,ΝΔ
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.373,ΝΔ
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.368,ΝΔ
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.373,ΝΔ
@@ -529,6 +531,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Νέα Δημοκρατία,0.37,ΝΔ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Νέα Δημοκρατία,0.35100000000000003,ΝΔ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Νέα Δημοκρατία,0.365,ΝΔ
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
@@ -794,6 +797,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Χρυσή Αυγή,0.08,ΧΑ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Χρυσή Αυγή,0.081,ΧΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Χρυσή Αυγή,0.085,ΧΑ
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.158,ΚΙΝΑΛ
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.166,ΚΙΝΑΛ
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.163,ΚΙΝΑΛ
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.17300000000000001,ΚΙΝΑΛ
@@ -1059,6 +1063,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Κίνημα Αλλαγής,0.13,ΚΙΝΑΛ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Κίνημα Αλλαγής,0.11,ΚΙΝΑΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Κίνημα Αλλαγής,0.1,ΚΙΝΑΛ
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.055999999999999994,ΚΚΕ
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.061,ΚΚΕ
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.057,ΚΚΕ
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.062,ΚΚΕ
@@ -1324,6 +1329,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Κομμουνιστικό Κόμμα Ελλάδας,0.075,ΚΚΕ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.077,ΚΚΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Κομμουνιστικό Κόμμα Ελλάδας,0.065,ΚΚΕ
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
@@ -1589,6 +1595,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Το Ποτάμι,0.01,ΠΟΤΑΜΙ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Το Ποτάμι,,ΠΟΤΑΜΙ
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
@@ -1854,6 +1861,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Ανεξάρτητοι Έλληνες,0.02,ΑΝΕΛ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Ανεξάρτητοι Έλληνες,0.028999999999999998,ΑΝΕΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Ανεξάρτητοι Έλληνες,0.025,ΑΝΕΛ
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
@@ -2119,6 +2127,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Ένωση Κεντρώων,0.02,ΕΚ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Ένωση Κεντρώων,0.034,ΕΚ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Ένωση Κεντρώων,0.025,ΕΚ
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
@@ -2384,6 +2393,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Λαϊκή Ενότητα,,ΛΑΕ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Λαϊκή Ενότητα,0.022000000000000002,ΛΑΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Λαϊκή Ενότητα,,ΛΑΕ
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,,ΠΕ
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,0.013000000000000001,ΠΕ
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,,ΠΕ
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,,ΠΕ
@@ -2649,6 +2659,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Πλεύση Ελευθερίας,,ΠΕ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Πλεύση Ελευθερίας,0.015,ΠΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Πλεύση Ελευθερίας,,ΠΕ
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Ελληνική Λύση,0.045,ΕΛ
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Ελληνική Λύση,0.042,ΕΛ
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Ελληνική Λύση,0.055999999999999994,ΕΛ
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Ελληνική Λύση,0.054000000000000006,ΕΛ
@@ -2914,6 +2925,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Ελληνική Λύση,,ΕΛ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Ελληνική Λύση,,ΕΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Ελληνική Λύση,,ΕΛ
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.034,ΜέΡΑ25
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.035,ΜέΡΑ25
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.033,ΜέΡΑ25
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.03,ΜέΡΑ25
@@ -3179,6 +3191,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,,ΜέΡΑ25
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,,ΜέΡΑ25
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,,ΜέΡΑ25
+Pulse RC,ΣΚΑΪ,2022-02-25,2022-02-28,National,1205,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
 Alco,Open TV,2022-02-14,2022-02-18,National,1000,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
 Interview,Politic.gr,2022-02-10,2022-02-14,National,1406,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
 Marc,ANT1,2022-02-08,2022-02-12,National,1037,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
