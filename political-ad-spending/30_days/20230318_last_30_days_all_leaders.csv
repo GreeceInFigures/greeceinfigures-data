@@ -1,0 +1,221 @@
+"party","value","num_ads","total_spend_pct","type","location_type","is_exclusion","total_num_ads","total_spend_formatted","custom_audience_type","detailed_type"
+"Τσίπρας","All",15,0.93813820245777,"gender",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","Women",2,0.061861797542234,"gender",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","Men",0,0,"gender",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","Greece",16,0.94645391020321,"location","countries",FALSE,17,"€3,735",NA,NA
+"Τσίπρας","Karditsa, Greece",1,0.053546089796793,"location","CITY",FALSE,17,"€3,735",NA,NA
+"Τσίπρας","13",0,0,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","14",0,0,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","15",0,0,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","16",0,0,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","17",0,0,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","18",4,0.1261652967792,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","19",4,0.1261652967792,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","20",4,0.1261652967792,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","21",4,0.1261652967792,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","22",4,0.1261652967792,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","23",4,0.1261652967792,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","24",4,0.1261652967792,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","25",4,0.1261652967792,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","26",4,0.1261652967792,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","27",4,0.1261652967792,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","28",4,0.1261652967792,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","29",4,0.1261652967792,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","30",13,0.48455730770261,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","31",13,0.48455730770261,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","32",13,0.48455730770261,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","33",13,0.48455730770261,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","34",14,0.88459211266097,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","35",15,0.93813820245777,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","36",15,0.93813820245777,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","37",15,0.93813820245777,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","38",15,0.93813820245777,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","39",15,0.93813820245777,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","40",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","41",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","42",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","43",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","44",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","45",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","46",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","47",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","48",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","49",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","50",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","51",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","52",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","53",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","54",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","55",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","56",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","57",17,1,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","58",16,0.94645391020321,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","59",16,0.94645391020321,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","60",16,0.94645391020321,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","61",13,0.29824904286364,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","62",13,0.29824904286364,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","63",13,0.29824904286364,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","64",13,0.29824904286364,"age",NA,NA,17,"€3,735",NA,NA
+"Τσίπρας","65+",11,0.23638724532141,"age",NA,NA,17,"€3,735",NA,NA
+"Ανδρουλάκης","All",9,0.93114891800525,"gender",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","Women",1,0.068851081994754,"gender",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","Men",0,0,"gender",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","English (UK)",2,0.058716202725126,"language",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","Greek",2,0.058716202725126,"language",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","English (US)",2,0.058716202725126,"language",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","Alexándria, Imathia, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Thérmi, Thessaloniki, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Polýkastro, Kilkis, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Thessaloníki, Greece",2,0.46815293202333,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Metamórfosi, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Kilkís, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Loutrópolis Thermís, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Políchni, Thessaloniki, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Polýgyros, Khalkidhiki, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Peloponnese (region), Greece",2,0.45566334574948,"location","regions",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Lagkadás, Thessaloniki, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Athens, Greece",1,0.41310649196852,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Sérres, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Greece",5,0.47025977513237,"location","countries",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Veria, Imathia, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Édessa, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Litóchoro, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Alexándreia, Imathia, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Koufalia, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Crete, Greece",3,0.47102402214251,"location","regions",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Prosotsáni, Drama, Greece",1,0.0036697626703204,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Dráma, Greece",1,0.0036697626703204,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Kavála, Greece",1,0.0036697626703204,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Kalambáki, Kavala, Greece",1,0.0036697626703204,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Chrysoúpoli, Kavala, Greece",1,0.0036697626703204,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Kateríni, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Potamoi, Drama, Greece",1,0.0036697626703204,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Aridaia, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Irakleia, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Ampelokipoi, Thessaloniki, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Lakhanás, Kilkis, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Giannitsa, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Évosmo, Thessaloniki, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Panórama, Thessaloniki, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Serres, Greece",1,0.055046440054805,"location","REGION",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Iráklia, Kikladhes, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Stavroúpoli, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Rodholívos, Kavala, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Sidirókastro, Serrai, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Eleftheroúpoli, Kavala, Greece",1,0.0036697626703204,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Néa Zíchni, Serrai, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Aigínio, Pieria, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Oraiókastro, Thessaloniki, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Náousa, Kikladhes, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Langadas, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Véroia, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Libanovo, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Náousa, Imathia, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Nigrita, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Triandría, Thessaloniki, Greece",1,0.055046440054805,"location","NEIGHBORHOOD",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Skýdra, Pella, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Kalamariá, Greece",1,0.055046440054805,"location","CITY",FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","13",0,0,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","14",0,0,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","15",0,0,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","16",0,0,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","17",0,0,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","18",8,0.54433665425052,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","19",8,0.54433665425052,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","20",8,0.54433665425052,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","21",8,0.54433665425052,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","22",8,0.54433665425052,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","23",8,0.54433665425052,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","24",8,0.54433665425052,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","25",8,0.54433665425052,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","26",8,0.54433665425052,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","27",8,0.54433665425052,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","28",8,0.54433665425052,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","29",8,0.54433665425052,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","30",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","31",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","32",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","33",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","34",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","35",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","36",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","37",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","38",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","39",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","40",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","41",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","42",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","43",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","44",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","45",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","46",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","47",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","48",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","49",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","50",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","51",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","52",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","53",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","54",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","55",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","56",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","57",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","58",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","59",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","60",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","61",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","62",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","63",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","64",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","65+",10,1,"age",NA,NA,10,"€1,452",NA,NA
+"Ανδρουλάκης","Custom audience",2,0.29124696194601,"custom_audience",NA,FALSE,10,"€1,452","HAS_CA_INCLUSION",NA
+"Ανδρουλάκης","Custom audience",0,0,"custom_audience",NA,TRUE,10,"€1,452","HAS_CA_EXCLUSION",NA
+"Ανδρουλάκης","Customer list custom audience",1,0.20655324598426,"custom_audience",NA,FALSE,10,"€1,452","HAS_DFCA_INCLUSION",NA
+"Ανδρουλάκης","Customer list custom audience",0,0,"custom_audience",NA,TRUE,10,"€1,452","HAS_DFCA_EXCLUSION",NA
+"Ανδρουλάκης","Lookalike audience",1,0.20655324598426,"lookalike_audience",NA,FALSE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Lookalike audience",0,0,"lookalike_audience",NA,TRUE,10,"€1,452",NA,NA
+"Ανδρουλάκης","Protective Services",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Politics",3,0.060341088260202,"detailed",NA,FALSE,10,"€1,452",NA,"INTERESTS"
+"Ανδρουλάκης","Architecture and Engineering",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Healthcare and Medical Services",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Arts, Entertainment, Sports and Media",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Parents with preschoolers (03-05 years) ",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Parents with preteens (09-12 years)",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Legal Services",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Computation and Mathematics",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Construction and Extraction",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Production",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Small business-to-business enterprise employees (10-200 employees)",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Management",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Parents with teenagers (13-17 years)",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Volunteering",1,0.01536067639303,"detailed",NA,FALSE,10,"€1,452",NA,"INTERESTS"
+"Ανδρουλάκης","Society",1,0.01536067639303,"detailed",NA,FALSE,10,"€1,452",NA,"INTERESTS"
+"Ανδρουλάκης","Parents with adult children (18-26 years) ",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Administrative Services",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Finance",1,0.01536067639303,"detailed",NA,FALSE,10,"€1,452",NA,"INTERESTS"
+"Ανδρουλάκης","Sales",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Community and Social Services",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","IT and Technical Services",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Cleaning and Maintenance Services",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Parents (All)",2,0.13770216398951,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Business and Finance",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Military (Global)",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Farming, Fishing and Forestry",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Politics and social issues",1,0.01536067639303,"detailed",NA,FALSE,10,"€1,452",NA,"INTERESTS"
+"Ανδρουλάκης","Community issues",2,0.01903043906335,"detailed",NA,FALSE,10,"€1,452",NA,"INTERESTS"
+"Ανδρουλάκης","Business decision maker titles and interests",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Parents with toddlers (01-02 years) ",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Law",2,0.056671325589882,"detailed",NA,FALSE,10,"€1,452",NA,"INTERESTS"
+"Ανδρουλάκης","Parents (up to 12 months)",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Transportation and Moving",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Europe",1,0.01536067639303,"detailed",NA,FALSE,10,"€1,452",NA,"INTERESTS"
+"Ανδρουλάκης","Education and Libraries",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Charity and causes",1,0.01536067639303,"detailed",NA,FALSE,10,"€1,452",NA,"INTERESTS"
+"Ανδρουλάκης","Government Employees (Global)",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Life, Physical and Social Sciences",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Business Decision Makers",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Food and Restaurants",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","Medium business-to-business enterprise employees (200 - 500 employees)",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","European Union",1,0.01536067639303,"detailed",NA,FALSE,10,"€1,452",NA,"INTERESTS"
+"Ανδρουλάκης","Parents with early school-age children (06-08 years) ",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
+"Ανδρουλάκης","IT Decision Makers",1,0.068851081994754,"detailed",NA,FALSE,10,"€1,452",NA,"DEMOGRAPHICS"
