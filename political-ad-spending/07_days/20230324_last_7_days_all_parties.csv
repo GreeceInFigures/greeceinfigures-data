@@ -1,0 +1,65 @@
+"party","value","num_ads","total_spend_pct","type","location_type","is_exclusion","custom_audience_type","total_num_ads","total_spend_formatted","detailed_type"
+"ΝΔ","All",1,1,"gender",NA,NA,NA,1,"€192",NA
+"ΝΔ","Women",0,0,"gender",NA,NA,NA,1,"€192",NA
+"ΝΔ","Men",0,0,"gender",NA,NA,NA,1,"€192",NA
+"ΝΔ","Greek",1,1,"language",NA,NA,NA,1,"€192",NA
+"ΝΔ","Greece",1,1,"location","countries",FALSE,NA,1,"€192",NA
+"ΝΔ","13",0,0,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","14",0,0,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","15",0,0,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","16",0,0,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","17",0,0,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","18",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","19",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","20",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","21",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","22",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","23",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","24",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","25",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","26",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","27",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","28",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","29",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","30",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","31",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","32",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","33",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","34",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","35",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","36",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","37",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","38",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","39",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","40",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","41",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","42",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","43",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","44",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","45",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","46",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","47",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","48",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","49",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","50",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","51",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","52",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","53",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","54",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","55",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","56",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","57",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","58",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","59",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","60",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","61",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","62",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","63",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","64",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","65+",1,1,"age",NA,NA,NA,1,"€192",NA
+"ΝΔ","Custom audience",1,1,"custom_audience",NA,FALSE,"HAS_CA_INCLUSION",1,"€192",NA
+"ΝΔ","Custom audience",0,0,"custom_audience",NA,TRUE,"HAS_CA_EXCLUSION",1,"€192",NA
+"ΝΔ","Customer list custom audience",0,0,"custom_audience",NA,FALSE,"HAS_DFCA_INCLUSION",1,"€192",NA
+"ΝΔ","Customer list custom audience",0,0,"custom_audience",NA,TRUE,"HAS_DFCA_EXCLUSION",1,"€192",NA
+"ΝΔ","Lookalike audience",1,1,"lookalike_audience",NA,FALSE,NA,1,"€192",NA
+"ΝΔ","Lookalike audience",0,0,"lookalike_audience",NA,TRUE,NA,1,"€192",NA
