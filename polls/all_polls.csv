@@ -1,4 +1,13 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Party,Percent,Acronym
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.303,ΣΥΡΙΖΑ
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.29,ΣΥΡΙΖΑ
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.297,ΣΥΡΙΖΑ
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.28600000000000003,ΣΥΡΙΖΑ
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.303,ΣΥΡΙΖΑ
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.28,ΣΥΡΙΖΑ
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.281,ΣΥΡΙΖΑ
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.307,ΣΥΡΙΖΑ
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.292,ΣΥΡΙΖΑ
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.304,ΣΥΡΙΖΑ
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.3,ΣΥΡΙΖΑ
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.3,ΣΥΡΙΖΑ
@@ -393,6 +402,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.215,ΣΥΡΙΖΑ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.22899999999999998,ΣΥΡΙΖΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Συνασπισμός Ριζοσπαστικής Αριστεράς,0.25,ΣΥΡΙΖΑ
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.361,ΝΔ
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.364,ΝΔ
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.38,ΝΔ
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.358,ΝΔ
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.37200000000000005,ΝΔ
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.354,ΝΔ
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.358,ΝΔ
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.379,ΝΔ
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.368,ΝΔ
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.37200000000000005,ΝΔ
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.376,ΝΔ
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Νέα Δημοκρατία,0.35,ΝΔ
@@ -787,6 +805,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Νέα Δημοκρατία,0.37,ΝΔ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Νέα Δημοκρατία,0.35100000000000003,ΝΔ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Νέα Δημοκρατία,0.365,ΝΔ
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Χρυσή Αυγή,,ΧΑ
@@ -1181,6 +1208,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Χρυσή Αυγή,0.08,ΧΑ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Χρυσή Αυγή,0.081,ΧΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Χρυσή Αυγή,0.085,ΧΑ
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.095,ΚΙΝΑΛ
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.09699999999999999,ΚΙΝΑΛ
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.08800000000000001,ΚΙΝΑΛ
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.095,ΚΙΝΑΛ
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.09699999999999999,ΚΙΝΑΛ
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.091,ΚΙΝΑΛ
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.107,ΚΙΝΑΛ
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.099,ΚΙΝΑΛ
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.09300000000000001,ΚΙΝΑΛ
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.10300000000000001,ΚΙΝΑΛ
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.102,ΚΙΝΑΛ
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Κίνημα Αλλαγής,0.106,ΚΙΝΑΛ
@@ -1575,6 +1611,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Κίνημα Αλλαγής,0.13,ΚΙΝΑΛ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Κίνημα Αλλαγής,0.11,ΚΙΝΑΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Κίνημα Αλλαγής,0.1,ΚΙΝΑΛ
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.064,ΚΚΕ
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.068,ΚΚΕ
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.065,ΚΚΕ
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.067,ΚΚΕ
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.073,ΚΚΕ
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.067,ΚΚΕ
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.071,ΚΚΕ
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.061,ΚΚΕ
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.068,ΚΚΕ
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.07400000000000001,ΚΚΕ
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.068,ΚΚΕ
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.078,ΚΚΕ
@@ -1969,6 +2014,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Κομμουνιστικό Κόμμα Ελλάδας,0.075,ΚΚΕ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Κομμουνιστικό Κόμμα Ελλάδας,0.077,ΚΚΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Κομμουνιστικό Κόμμα Ελλάδας,0.065,ΚΚΕ
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
@@ -2363,6 +2417,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Το Ποτάμι,0.01,ΠΟΤΑΜΙ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Το Ποτάμι,,ΠΟΤΑΜΙ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Το Ποτάμι,,ΠΟΤΑΜΙ
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Ανεξάρτητοι Έλληνες,,ΑΝΕΛ
@@ -2757,6 +2820,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Ανεξάρτητοι Έλληνες,0.02,ΑΝΕΛ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Ανεξάρτητοι Έλληνες,0.028999999999999998,ΑΝΕΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Ανεξάρτητοι Έλληνες,0.025,ΑΝΕΛ
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Ένωση Κεντρώων,,ΕΚ
@@ -3151,6 +3223,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Ένωση Κεντρώων,0.02,ΕΚ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Ένωση Κεντρώων,0.034,ΕΚ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Ένωση Κεντρώων,0.025,ΕΚ
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Λαϊκή Ενότητα,,ΛΑΕ
@@ -3545,6 +3626,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Λαϊκή Ενότητα,,ΛΑΕ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Λαϊκή Ενότητα,0.022000000000000002,ΛΑΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Λαϊκή Ενότητα,,ΛΑΕ
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,0.017,ΠΕ
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,0.017,ΠΕ
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,0.026000000000000002,ΠΕ
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,0.016,ΠΕ
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,0.013999999999999999,ΠΕ
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,0.027999999999999997,ΠΕ
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,0.017,ΠΕ
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,,ΠΕ
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,0.02,ΠΕ
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,,ΠΕ
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,0.018000000000000002,ΠΕ
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Πλεύση Ελευθερίας,,ΠΕ
@@ -3939,6 +4029,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Πλεύση Ελευθερίας,,ΠΕ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Πλεύση Ελευθερίας,0.015,ΠΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Πλεύση Ελευθερίας,,ΠΕ
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Ελληνική Λύση,0.037000000000000005,ΕΛ
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Ελληνική Λύση,0.04,ΕΛ
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Ελληνική Λύση,0.038,ΕΛ
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Ελληνική Λύση,0.034,ΕΛ
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Ελληνική Λύση,0.039,ΕΛ
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Ελληνική Λύση,0.037000000000000005,ΕΛ
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Ελληνική Λύση,0.046,ΕΛ
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Ελληνική Λύση,0.039,ΕΛ
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Ελληνική Λύση,0.042,ΕΛ
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Ελληνική Λύση,0.037000000000000005,ΕΛ
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Ελληνική Λύση,0.038,ΕΛ
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Ελληνική Λύση,0.033,ΕΛ
@@ -4333,6 +4432,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Ελληνική Λύση,,ΕΛ
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Ελληνική Λύση,,ΕΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Ελληνική Λύση,,ΕΛ
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.036000000000000004,ΜέΡΑ25
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.045,ΜέΡΑ25
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.04,ΜέΡΑ25
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.037000000000000005,ΜέΡΑ25
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.04,ΜέΡΑ25
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.044000000000000004,ΜέΡΑ25
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.039,ΜέΡΑ25
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.044000000000000004,ΜέΡΑ25
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.037000000000000005,ΜέΡΑ25
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.04,ΜέΡΑ25
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.037000000000000005,ΜέΡΑ25
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,0.039,ΜέΡΑ25
@@ -4727,6 +4835,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,,ΜέΡΑ25
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,,ΜέΡΑ25
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,,ΜέΡΑ25
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
@@ -5121,6 +5238,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Εθνικό Κόμμα - Έλληνες,,
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Εθνικό Κόμμα - Έλληνες,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Εθνικό Κόμμα - Έλληνες,,
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Εθνική Δημιουργία,0.011000000000000001,
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Εθνική Δημιουργία,0.017,
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Εθνική Δημιουργία,0.011000000000000001,
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Εθνική Δημιουργία,,
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Εθνική Δημιουργία,0.013000000000000001,
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Εθνική Δημιουργία,0.017,
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Εθνική Δημιουργία,,
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Εθνική Δημιουργία,0.022000000000000002,
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Εθνική Δημιουργία,0.011000000000000001,
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Εθνική Δημιουργία,0.013000000000000001,
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Εθνική Δημιουργία,,
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Εθνική Δημιουργία,,
@@ -5515,16 +5641,25 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Εθνική Δημιουργία,,
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Εθνική Δημιουργία,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Εθνική Δημιουργία,,
-GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,ΕΑΝ…,,
-Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,ΕΑΝ…,,
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,ΕΑΝ…,,
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,ΕΑΝ…,,
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,ΕΑΝ…,0.011000000000000001,
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,ΕΑΝ…,,
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,ΕΑΝ…,0.011000000000000001,
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,ΕΑΝ…,,
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,ΕΑΝ…,,
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,ΕΑΝ…,,
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,ΕΑΝ…,,
+GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,ΕΑΝ…,0.013999999999999999,
+Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,ΕΑΝ…,0.013999999999999999,
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,ΕΑΝ…,,
 Metron Analysis,Mega TV,2023-05-04,2023-05-11,National,2105,Provided,Not Available,0.1%,ΕΑΝ…,,
-Κάπα Research,,2022-05-05,2023-05-09,National,1202,Provided,Not Available,0.1%,ΕΑΝ…,,
-Marc,ΑΝΤ1,2023-05-05,2023-05-09,National,1286,Provided,Not Available,0.1%,ΕΑΝ…,,
+Κάπα Research,,2022-05-05,2023-05-09,National,1202,Provided,Not Available,0.1%,ΕΑΝ…,0.012,
+Marc,ΑΝΤ1,2023-05-05,2023-05-09,National,1286,Provided,Not Available,0.1%,ΕΑΝ…,0.013999999999999999,
 Pulse RC,ΣΚΑΪ,2023-05-04,2023-05-07,National,1064,Provided,Not Available,0.1%,ΕΑΝ…,,
-Alco,Alpha TV,2023-05-03,2023-05-06,National,1000,Provided,Not Available,0.1%,ΕΑΝ…,,
+Alco,Alpha TV,2023-05-03,2023-05-06,National,1000,Provided,Not Available,0.1%,ΕΑΝ…,0.011000000000000001,
 Metron Analysis,Mega TV,2023-04-25,2023-05-05,National,1305,Provided,Not Available,0.1%,ΕΑΝ…,,
-GPO,Τα Νέα,2023-05-02,2023-05-03,National,1000,Provided,Not Available,0.1%,ΕΑΝ…,,
+GPO,Τα Νέα,2023-05-02,2023-05-03,National,1000,Provided,Not Available,0.1%,ΕΑΝ…,0.021,
 Prorata,Attica TV,2023-04-27,2023-04-30,National,1147,Provided,Not Available,0.1%,ΕΑΝ…,,
 Interview,Politic.gr,2023-04-27,2023-04-30,National,1705,Provided,Not Available,0.1%,ΕΑΝ…,,
 Rass,iefimerida,2023-03-24,2023-03-27,National,1030,Provided,Not Available,0.1%,ΕΑΝ…,,
@@ -5909,13 +6044,22 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ΕΑΝ…,,
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,ΕΑΝ…,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ΕΑΝ…,,
-GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
-Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.026000000000000002,
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.023,
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.023,
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.015,
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.011000000000000001,
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.012,
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.013999999999999999,
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.021,
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.019,
+GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.011000000000000001,
+Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.015,
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
-Metron Analysis,Mega TV,2023-05-04,2023-05-11,National,2105,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
-Κάπα Research,,2022-05-05,2023-05-09,National,1202,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
-Marc,ΑΝΤ1,2023-05-05,2023-05-09,National,1286,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
-Pulse RC,ΣΚΑΪ,2023-05-04,2023-05-07,National,1064,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
+Metron Analysis,Mega TV,2023-05-04,2023-05-11,National,2105,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.013000000000000001,
+Κάπα Research,,2022-05-05,2023-05-09,National,1202,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.012,
+Marc,ΑΝΤ1,2023-05-05,2023-05-09,National,1286,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.017,
+Pulse RC,ΣΚΑΪ,2023-05-04,2023-05-07,National,1064,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,0.016,
 Alco,Alpha TV,2023-05-03,2023-05-06,National,1000,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
 Metron Analysis,Mega TV,2023-04-25,2023-05-05,National,1305,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
 GPO,Τα Νέα,2023-05-02,2023-05-03,National,1000,Provided,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
@@ -6303,6 +6447,15 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
 Marc,Πρώτο ΘΕΜΑ,2018-01-13,2018-01-13,National,1000,Estimated/Assumed,Not Available,0.1%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ,,
+MRB,Open TV,2023-05-16,2023-05-19,National,1100,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
+Pulse RC,ΣΚΑΪ,2023-05-14,2023-05-19,National,1425,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
+Marc,ΑΝΤ1,2023-05-16,2023-05-18,National,1266,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
+Rass,iefimerida,2023-05-15,2023-05-18,National,1221,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
+GPO,Παραπολιτικά,2023-05-15,2023-05-17,National,1200,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
+Palmos Analysis,Tvxs.gr,2023-05-13,2023-05-17,National,1306,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
+Metron Analysis,Mega TV,2023-05-12,2023-05-17,National,1500,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
+Interview,Politic.gr,2023-05-12,2023-05-17,National,2405,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
+Alco,Alpha TV,2023-05-11,2023-05-16,National,1200,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
 GPO,Παραπολιτικά,2023-05-10,2023-05-11,National,1120,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
 Marc,Πρώτο ΘΕΜΑ,2023-05-09,2023-05-11,National,1212,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
 Prorata,Η Εφημερίδα των Συντακτών,2023-05-28,2023-05-11,National,1000,Provided,Not Available,0.1%,Other,,ΑΛΛΟ
