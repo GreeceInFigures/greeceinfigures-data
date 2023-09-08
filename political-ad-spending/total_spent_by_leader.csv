@@ -1,4 +1,4 @@
-party,total_ads_90days,total_spent_90days,total_ads_30days,total_spent_30days,latest_date
-Μητσοτάκης,84,187136.0,21,82752.0,2023-07-01
-Τσίπρας,228,119969.0,86,37807.0,2023-07-01
-Ανδρουλάκης,122,78988.0,77,34846.0,2023-07-01
+party,total_ads_90days,total_spent_90days,total_ads_30days,total_spent_30days,total_ads_7days,total_spent_7days,latest_date
+Μητσοτάκης,18,69006.0,,,,,2023-09-06
+Τσίπρας,78,33951.0,,,,,2023-09-06
+Ανδρουλάκης,74,33098.0,1.0,500.0,1.0,500.0,2023-09-06

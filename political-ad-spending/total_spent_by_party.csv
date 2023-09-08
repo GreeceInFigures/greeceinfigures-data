@@ -1,4 +1,4 @@
-party,total_ads_90days,total_spent_90days,total_ads_30days,total_spent_30days,latest_date
-ΝΔ,303,252182.0,87,114680.0,2023-07-01
-ΣΥΡΙΖΑ,87,49768.0,37,16478.0,2023-07-01
-ΜέΡΑ25,90,25410.0,66,21422.0,2023-07-01
+party,total_ads_90days,total_spent_90days,total_ads_30days,total_spent_30days,total_ads_7days,total_spent_7days,latest_date
+ΝΔ,87,104426.0,,,,,2023-09-06
+ΜέΡΑ25,65,21290.0,,,,,2023-09-06
+ΣΥΡΙΖΑ,37,15970.0,1.0,132.0,1.0,132.0,2023-09-06
