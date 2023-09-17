@@ -1,0 +1,64 @@
+"party","value","num_ads","total_spend_pct","type","location_type","is_exclusion","custom_audience_type","total_num_ads","total_spend_formatted","detailed_type"
+"ΣΥΡΙΖΑ","All",4,1,"gender",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","Women",0,0,"gender",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","Men",0,0,"gender",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","Greece",4,1,"location","countries",FALSE,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","13",0,0,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","14",0,0,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","15",0,0,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","16",0,0,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","17",0,0,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","18",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","19",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","20",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","21",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","22",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","23",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","24",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","25",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","26",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","27",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","28",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","29",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","30",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","31",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","32",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","33",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","34",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","35",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","36",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","37",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","38",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","39",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","40",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","41",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","42",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","43",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","44",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","45",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","46",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","47",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","48",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","49",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","50",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","51",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","52",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","53",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","54",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","55",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","56",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","57",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","58",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","59",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","60",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","61",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","62",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","63",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","64",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","65+",4,1,"age",NA,NA,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","Custom audience",4,1,"custom_audience",NA,FALSE,"HAS_CA_INCLUSION",4,"€218",NA
+"ΣΥΡΙΖΑ","Custom audience",0,0,"custom_audience",NA,TRUE,"HAS_CA_EXCLUSION",4,"€218",NA
+"ΣΥΡΙΖΑ","Customer list custom audience",0,0,"custom_audience",NA,FALSE,"HAS_DFCA_INCLUSION",4,"€218",NA
+"ΣΥΡΙΖΑ","Customer list custom audience",0,0,"custom_audience",NA,TRUE,"HAS_DFCA_EXCLUSION",4,"€218",NA
+"ΣΥΡΙΖΑ","Lookalike audience",4,1,"lookalike_audience",NA,FALSE,NA,4,"€218",NA
+"ΣΥΡΙΖΑ","Lookalike audience",0,0,"lookalike_audience",NA,TRUE,NA,4,"€218",NA
