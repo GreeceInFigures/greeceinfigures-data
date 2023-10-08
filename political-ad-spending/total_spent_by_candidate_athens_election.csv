@@ -1,4 +1,4 @@
-total_ads_90days,total_spent_90days,total_ads_30days,total_spent_30days,total_ads_7days,total_spent_7days
-66,15564.0,62,12623.0,35,5186.0
-111,7945.0,98,6554.0,39,3696.0
-9,666.0,9,666.0,9,658.0
+party,total_ads_90days,total_spent_90days,total_ads_30days,total_spent_30days,total_ads_7days,total_spent_7days,latest_date
+Μπακογιάννης,66,15564.0,62,12623.0,35,5186.0,2023-10-06
+Δούκας,111,7945.0,98,6554.0,39,3696.0,2023-10-06
+Ζαχαριάδης,9,666.0,9,666.0,9,658.0,2023-10-06
