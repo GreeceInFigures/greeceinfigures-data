@@ -1,0 +1,361 @@
+"party","value","num_ads","total_spend_pct","type","location_type","is_exclusion","detailed_type","total_num_ads","total_spend_formatted","custom_audience_type"
+"Αχτσιόγλου","All",18,0.88603124901423,"gender",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","Women",1,0.04998978953153,"gender",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","Men",1,0.063978961454236,"gender",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","Patras, Greece",1,0.058108357143924,"location","CITY",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Greece",12,0.65127016567523,"location","countries",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Sérres, Greece",1,0.034232463312874,"location","CITY",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Alexandroúpoli, Greece",1,0.034232463312874,"location","CITY",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Thessaloníki, Greece",1,0.034232463312874,"location","CITY",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Kaballa, Kavala, Greece",1,0.034232463312874,"location","CITY",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Ioánnina, Greece",1,0.046046722439621,"location","CITY",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Xánthi, Greece",1,0.034232463312874,"location","CITY",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Dráma, Greece",1,0.034232463312874,"location","CITY",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Komotini, Greece",1,0.034232463312874,"location","CITY",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Attica (region), Greece",2,0.074710744899331,"location","regions",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Thessaly, Greece",1,0.068901569423715,"location","regions",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Lárisa, Greece",1,0.049807163266221,"location","CITY",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Kalamáta, Greece",1,0.016922813839086,"location","CITY",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Vólos, Greece",1,0.049807163266221,"location","CITY",FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","13",0,0,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","14",0,0,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","15",0,0,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","16",0,0,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","17",0,0,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","18",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","19",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","20",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","21",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","22",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","23",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","24",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","25",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","26",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","27",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","28",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","29",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","30",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","31",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","32",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","33",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","34",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","35",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","36",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","37",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","38",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","39",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","40",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","41",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","42",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","43",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","44",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","45",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","46",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","47",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","48",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","49",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","50",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","51",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","52",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","53",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","54",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","55",20,1,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","56",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","57",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","58",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","59",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","60",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","61",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","62",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","63",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","64",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","65+",19,0.93602103854576,"age",NA,NA,NA,20,"€6,023",NA
+"Αχτσιόγλου","Lookalike audience",1,0.064457110221592,"lookalike_audience",NA,FALSE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Lookalike audience",0,0,"lookalike_audience",NA,TRUE,NA,20,"€6,023",NA
+"Αχτσιόγλου","Social movement",12,0.55309194568363,"detailed",NA,FALSE,"INTERESTS",20,"€6,023",NA
+"Αχτσιόγλου","Solidarity",19,0.93554288977841,"detailed",NA,FALSE,"INTERESTS",20,"€6,023",NA
+"Αχτσιόγλου","Activism",6,0.23002110163484,"detailed",NA,FALSE,"INTERESTS",20,"€6,023",NA
+"Αχτσιόγλου","Animal rights",14,0.62807330950337,"detailed",NA,FALSE,"INTERESTS",20,"€6,023",NA
+"Αχτσιόγλου","Human rights",11,0.52757739618112,"detailed",NA,FALSE,"DEMOGRAPHICS",20,"€6,023",NA
+"Αχτσιόγλου","Social change",10,0.50030631405409,"detailed",NA,FALSE,"INTERESTS",20,"€6,023",NA
+"Αχτσιόγλου","Animal rights movement",2,0.099539615787543,"detailed",NA,FALSE,"INTERESTS",20,"€6,023",NA
+"Αχτσιόγλου","Social Work",3,0.12694849773294,"detailed",NA,FALSE,"DEMOGRAPHICS",20,"€6,023",NA
+"Αχτσιόγλου","Community issues",5,0.27686971940304,"detailed",NA,FALSE,"INTERESTS",20,"€6,023",NA
+"Αχτσιόγλου","Women's studies",13,0.58704382864344,"detailed",NA,FALSE,"DEMOGRAPHICS",20,"€6,023",NA
+"Αχτσιόγλου","Community and Social Services",2,0.074710744899331,"detailed",NA,FALSE,"DEMOGRAPHICS",20,"€6,023",NA
+"Αχτσιόγλου","Animal rescue group",1,0.053492893347921,"detailed",NA,FALSE,"INTERESTS",20,"€6,023",NA
+"Αχτσιόγλου","Human rights",19,0.93554288977841,"detailed",NA,FALSE,"DEMOGRAPHICS",20,"€6,023",NA
+"Αχτσιόγλου","Gender studies",5,0.21256369091003,"detailed",NA,FALSE,"DEMOGRAPHICS",20,"€6,023",NA
+"Αχτσιόγλου","Social Work",1,0.080287486946373,"detailed",NA,FALSE,"DEMOGRAPHICS",20,"€6,023",NA
+"Αχτσιόγλου","Science",1,0.063978961454236,"detailed",NA,FALSE,"INTERESTS",20,"€6,023",NA
+"Αχτσιόγλου","Animal Equality",1,0.034232463312874,"detailed",NA,FALSE,"INTERESTS",20,"€6,023",NA
+"Αχτσιόγλου","Wage",1,0.062258954082776,"detailed",NA,FALSE,"INTERESTS",20,"€6,023",NA
+"Αχτσιόγλου","Philanthropy",1,0.046046722439621,"detailed",NA,FALSE,"INTERESTS",20,"€6,023",NA
+"Αχτσιόγλου","Salaryman",1,0.062258954082776,"detailed",NA,FALSE,"DEMOGRAPHICS",20,"€6,023",NA
+"Κασσελάκης","All",34,1,"gender",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","Women",0,0,"gender",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","Men",0,0,"gender",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","Greece",28,0.93758452029024,"location","countries",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Kárpathos, Dhodhekanisos, Greece",1,0.0048793335124966,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Ionian Islands (region), Greece",1,0.0033141628594464,"location","regions",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Sími, Dhodhekanisos, Greece",1,0.0048793335124966,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Astipálaia, Dhodhekanisos, Greece",1,0.0048793335124966,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Attica (region), Greece",2,0.035563558183284,"location","regions",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Ágios Nikólaos, Lasithi, Greece",1,0.0058478903520559,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Pátmos, Dhodhekanisos, Greece",1,0.0048793335124966,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Peloponnese (region), Greece",1,0.0033141628594464,"location","regions",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Rhodes, Greece",2,0.015629131953776,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Chaniá, Greece",2,0.011222789572696,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Kántanos, Khania, Greece",1,0.0058478903520559,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Central Macedonia, Greece",1,0.0033141628594464,"location","regions",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Eastern Macedonia and Thrace, Greece",1,0.0033141628594464,"location","regions",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Khálki, Dhodhekanisos, Greece",1,0.0048793335124966,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Western Macedonia, Greece",1,0.0033141628594464,"location","regions",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Central Greece (region), Greece",1,0.0033141628594464,"location","regions",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Kos, Dhodhekanisos, Greece",1,0.0048793335124966,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Lero, Dhodhekanisos, Greece",1,0.0048793335124966,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Western Greece, Greece",1,0.0033141628594464,"location","regions",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Northern Aegean, Greece",1,0.0033141628594464,"location","regions",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Réthimnon, Greece",1,0.0058478903520559,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Kálimnos, Dhodhekanisos, Greece",1,0.0048793335124966,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Epirus (region), Greece",1,0.0033141628594464,"location","regions",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Southern Aegean, Greece",1,0.0033141628594464,"location","regions",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Seteia, Lasithi, Greece",1,0.0058478903520559,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Crete, Greece",1,0.0033141628594464,"location","regions",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Hierapetra, Lasithi, Greece",1,0.0058478903520559,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Heraklion, Greece",1,0.0058478903520559,"location","CITY",FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","13",0,0,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","14",0,0,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","15",0,0,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","16",0,0,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","17",0,0,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","18",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","19",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","20",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","21",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","22",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","23",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","24",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","25",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","26",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","27",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","28",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","29",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","30",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","31",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","32",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","33",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","34",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","35",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","36",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","37",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","38",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","39",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","40",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","41",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","42",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","43",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","44",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","45",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","46",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","47",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","48",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","49",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","50",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","51",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","52",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","53",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","54",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","55",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","56",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","57",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","58",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","59",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","60",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","61",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","62",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","63",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","64",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","65+",34,1,"age",NA,NA,NA,34,"€9,303",NA
+"Κασσελάκης","Custom audience",14,0.32237570545552,"custom_audience",NA,FALSE,NA,34,"€9,303","HAS_CA_INCLUSION"
+"Κασσελάκης","Custom audience",0,0,"custom_audience",NA,TRUE,NA,34,"€9,303","HAS_CA_EXCLUSION"
+"Κασσελάκης","Customer list custom audience",0,0,"custom_audience",NA,FALSE,NA,34,"€9,303","HAS_DFCA_INCLUSION"
+"Κασσελάκης","Customer list custom audience",0,0,"custom_audience",NA,TRUE,NA,34,"€9,303","HAS_DFCA_EXCLUSION"
+"Κασσελάκης","Lookalike audience",15,0.38722386455254,"lookalike_audience",NA,FALSE,NA,34,"€9,303",NA
+"Κασσελάκης","Lookalike audience",0,0,"lookalike_audience",NA,TRUE,NA,34,"€9,303",NA
+"Κασσελάκης","Sedan (automobile)",2,0.080762160709487,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Arts, Entertainment, Sports and Media",1,0.016124697661919,"detailed",NA,FALSE,"DEMOGRAPHICS",34,"€9,303",NA
+"Κασσελάκης","Harley Owners Group",2,0.080762160709487,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Photography",1,0.016124697661919,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Island",2,0.080762160709487,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Jogging",2,0.080762160709487,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","SUVs",2,0.080762160709487,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Life, Physical and Social Sciences",1,0.016124697661919,"detailed",NA,FALSE,"DEMOGRAPHICS",34,"€9,303",NA
+"Κασσελάκης","Community issues",1,0.016124697661919,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Politics",1,0.016124697661919,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Law",1,0.016124697661919,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","College grad",1,0.016124697661919,"detailed",NA,FALSE,"DEMOGRAPHICS",34,"€9,303",NA
+"Κασσελάκης","Writing",1,0.016124697661919,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Campsite",2,0.080762160709487,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Camping",2,0.080762160709487,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Indian (motorcycle)",2,0.080762160709487,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Doctorate degree",1,0.016124697661919,"detailed",NA,FALSE,"DEMOGRAPHICS",34,"€9,303",NA
+"Κασσελάκης","Travel trailer",2,0.080762160709487,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Community and Social Services",1,0.016124697661919,"detailed",NA,FALSE,"DEMOGRAPHICS",34,"€9,303",NA
+"Κασσελάκης","Volunteering",1,0.016124697661919,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Outdoor recreation",2,0.080762160709487,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Dance",1,0.016124697661919,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Mountaineering",2,0.080762160709487,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Road running",2,0.080762160709487,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Charity and causes",1,0.016124697661919,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Open Relationship",1,0.016124697661919,"detailed",NA,FALSE,"DEMOGRAPHICS",34,"€9,303",NA
+"Κασσελάκης","Fine art",1,0.016124697661919,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Painting",1,0.016124697661919,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Κασσελάκης","Acting",1,0.016124697661919,"detailed",NA,FALSE,"INTERESTS",34,"€9,303",NA
+"Παππάς","All",109,1,"gender",NA,NA,NA,109,"€6,045",NA
+"Παππάς","Women",0,0,"gender",NA,NA,NA,109,"€6,045",NA
+"Παππάς","Men",0,0,"gender",NA,NA,NA,109,"€6,045",NA
+"Παππάς","Andravídha, Greece",1,0.0066175752873268,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Tripoli, Greece",1,0.0066175752873268,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Krokeaí, Lakonia, Greece",1,0.0066175752873268,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Néa Kíos, Greece",1,0.00011580756752822,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Greece",101,0.97144185384754,"location","countries",FALSE,NA,109,"€6,045",NA
+"Παππάς","Káto Mazarákion, Akhaia, Greece",1,0.0029795632731189,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Corinth, Greece",1,0.0066175752873268,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Alíartos, Voiotia, Greece",1,0.0033087876436634,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Terpsithéa, Larisa, Greece",1,0.00020679922772896,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Alexándria, Imathia, Greece",1,0.0054694259749756,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Feneós, Akhaia, Greece",1,0.0066175752873268,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Athens, Greece",1,0.0032426118907902,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Kranídion, Greece",1,0.00011580756752822,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Náfplion, Argolis, Greece",1,0.00011580756752822,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Argos, Argolis, Greece",1,0.00011580756752822,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","Ermióni, Greece",1,0.00011580756752822,"location","CITY",FALSE,NA,109,"€6,045",NA
+"Παππάς","13",1,0.00011580756752822,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","14",1,0.00011580756752822,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","15",1,0.00011580756752822,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","16",1,0.00011580756752822,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","17",2,0.0034245952111916,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","18",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","19",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","20",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","21",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","22",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","23",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","24",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","25",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","26",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","27",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","28",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","29",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","30",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","31",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","32",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","33",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","34",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","35",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","36",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","37",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","38",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","39",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","40",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","41",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","42",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","43",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","44",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","45",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","46",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","47",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","48",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","49",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","50",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","51",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","52",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","53",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","54",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","55",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","56",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","57",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","58",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","59",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","60",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","61",109,1,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","62",108,0.99702043672688,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","63",108,0.99702043672688,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","64",108,0.99702043672688,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","65+",108,0.99702043672688,"age",NA,NA,NA,109,"€6,045",NA
+"Παππάς","Custom audience",57,0.56032995230383,"custom_audience",NA,FALSE,NA,109,"€6,045","HAS_CA_INCLUSION"
+"Παππάς","Custom audience",0,0,"custom_audience",NA,TRUE,NA,109,"€6,045","HAS_CA_EXCLUSION"
+"Παππάς","Customer list custom audience",20,0.22355823714412,"custom_audience",NA,FALSE,NA,109,"€6,045","HAS_DFCA_INCLUSION"
+"Παππάς","Customer list custom audience",0,0,"custom_audience",NA,TRUE,NA,109,"€6,045","HAS_DFCA_EXCLUSION"
+"Παππάς","Lookalike audience",27,0.22530362262615,"lookalike_audience",NA,FALSE,NA,109,"€6,045",NA
+"Παππάς","Lookalike audience",0,0,"lookalike_audience",NA,TRUE,NA,109,"€6,045",NA
+"Τζουμάκας","All",3,1,"gender",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","Women",0,0,"gender",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","Men",0,0,"gender",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","Epirus (region), Greece",1,0.28767123287671,"location","regions",FALSE,NA,3,"≤€100",NA
+"Τζουμάκας","Patras, Greece",1,0.50468637346792,"location","CITY",FALSE,NA,3,"≤€100",NA
+"Τζουμάκας","Thessaloníki, Greece",1,0.50468637346792,"location","CITY",FALSE,NA,3,"≤€100",NA
+"Τζουμάκας","Athens, Greece",1,0.20764239365537,"location","CITY",FALSE,NA,3,"≤€100",NA
+"Τζουμάκας","Kavála, Greece",1,0.50468637346792,"location","CITY",FALSE,NA,3,"≤€100",NA
+"Τζουμάκας","13",0,0,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","14",0,0,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","15",0,0,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","16",0,0,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","17",0,0,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","18",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","19",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","20",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","21",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","22",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","23",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","24",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","25",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","26",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","27",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","28",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","29",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","30",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","31",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","32",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","33",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","34",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","35",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","36",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","37",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","38",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","39",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","40",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","41",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","42",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","43",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","44",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","45",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","46",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","47",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","48",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","49",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","50",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","51",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","52",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","53",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","54",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","55",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","56",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","57",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","58",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","59",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","60",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","61",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","62",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","63",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","64",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","65+",3,1,"age",NA,NA,NA,3,"≤€100",NA
+"Τζουμάκας","Cyclades",3,1,"detailed",NA,FALSE,"INTERESTS",3,"≤€100",NA
+"Τζουμάκας","Skroutz.gr",3,1,"detailed",NA,FALSE,"INTERESTS",3,"≤€100",NA
+"Τζουμάκας","Newspapers",3,1,"detailed",NA,FALSE,"INTERESTS",3,"≤€100",NA
+"Τζουμάκας","Athens",3,1,"detailed",NA,FALSE,"INTERESTS",3,"≤€100",NA
+"Τζουμάκας","Culture",1,0.50468637346792,"detailed",NA,FALSE,"INTERESTS",3,"≤€100",NA
+"Τζουμάκας","News media",3,1,"detailed",NA,FALSE,"INTERESTS",3,"≤€100",NA
+"Τζουμάκας","Online newspaper",3,1,"detailed",NA,FALSE,"INTERESTS",3,"≤€100",NA
+"Τζουμάκας","Politics and social issues",1,0.50468637346792,"detailed",NA,FALSE,"INTERESTS",3,"≤€100",NA
