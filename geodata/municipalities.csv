@@ -1,173 +1,173 @@
-Name_EN,Name_GR,FullName_GR,Area,Population_2011,Population_2021,Population_Change_2011_2021,Population_Change_Pct_2011_2021,Pop_km2_2011,Pop_km2_2021,Seat,Region_EN,Region_GR,Prefecture_EN,Prefecture_GR,Municipal units
-Abdera,Άβδηρα,Δήμος Αβδήρων,352.3,19005,17860,-1145,-0.060,54,51,Genissea,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Xanthis,Ξάνθης,"Abdera
+Name_EN,Name_GR,FullName_GR,Area,Population_2011,Population_2021,Population_Change_2011_2021,Population_Change_Decimal_2011_2021,Population_Change_Pct_2011_2021,Pop_km2_2011,Pop_km2_2021,Seat,Region_EN,Region_GR,Prefecture_EN,Prefecture_GR,Municipal units
+Abdera,Άβδηρα,Δήμος Αβδήρων,352.3,19005,17860,-1145,-0.060,-6.025,54,51,Genissea,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Xanthis,Ξάνθης,"Abdera
 Selero
 Vistonida"
-Alexandroupoli,Αλεξανδρούπολη,Δήμος Αλεξανδρούπολης,1215.5,72959,71601,-1358,-0.019,60,59,Alexandroupoli,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Evrou,Έβρου,"Alexandroupoli
+Alexandroupoli,Αλεξανδρούπολη,Δήμος Αλεξανδρούπολης,1215.5,72959,71601,-1358,-0.019,-1.861,60,59,Alexandroupoli,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Evrou,Έβρου,"Alexandroupoli
 Feres
 Traianoupoli"
-Arriana,Αρριανά,Δήμος Αρριανών,773.2,16577,14944,-1633,-0.099,21,19,Fillyra,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Rodopis,Ροδόπης,"Arriana
+Arriana,Αρριανά,Δήμος Αρριανών,773.2,16577,14944,-1633,-0.099,-9.851,21,19,Fillyra,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Rodopis,Ροδόπης,"Arriana
 Kechros
 Organi
 Fillyra"
-Didymoteicho,Διδυμότειχο,Δήμος Διδυμοτείχου,565.7,19493,16161,-3332,-0.171,34,29,Didymoteicho,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Evrou,Έβρου,"Didymoteicho
+Didymoteicho,Διδυμότειχο,Δήμος Διδυμοτείχου,565.7,19493,16161,-3332,-0.171,-17.093,34,29,Didymoteicho,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Evrou,Έβρου,"Didymoteicho
 Metaxades"
-Doxato,Δοξάτο,Δήμος Δοξάτου,242.9,14516,12109,-2407,-0.166,60,50,Kalampaki,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Drama,Δράμας,"Doxato
+Doxato,Δοξάτο,Δήμος Δοξάτου,242.9,14516,12109,-2407,-0.166,-16.582,60,50,Kalampaki,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Drama,Δράμας,"Doxato
 Kalampaki"
-Drama,Δράμα,Δήμος Δράμας,839.9,58944,55593,-3351,-0.057,70,66,Drama,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Drama,Δράμας,"Drama
+Drama,Δράμα,Δήμος Δράμας,839.9,58944,55593,-3351,-0.057,-5.685,70,66,Drama,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Drama,Δράμας,"Drama
 Sidironero"
-Thasos,Θάσος,Δήμος Θάσου,385.1,13770,13055,-715,-0.052,36,34,Thasos (town),Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Kavala,Καβάλας,Thasos
-Iasmos,Ίασμος,Δήμος Ιάσμου,487.2,13810,12346,-1464,-0.106,28,25,Iasmos,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Rodopis,Ροδόπης,"Amaxades
+Thasos,Θάσος,Δήμος Θάσου,385.1,13770,13055,-715,-0.052,-5.192,36,34,Thasos (town),Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Kavala,Καβάλας,Thasos
+Iasmos,Ίασμος,Δήμος Ιάσμου,487.2,13810,12346,-1464,-0.106,-10.601,28,25,Iasmos,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Rodopis,Ροδόπης,"Amaxades
 Iasmos
 Sostis"
-Kavala,Καβάλα,Δήμος Καβάλας,356.4,70501,65857,-4644,-0.066,198,185,Kavala,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Kavala,Καβάλας,"Filippoi
+Kavala,Καβάλα,Δήμος Καβάλας,356.4,70501,65857,-4644,-0.066,-6.587,198,185,Kavala,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Kavala,Καβάλας,"Filippoi
 Kavala"
-Kato Nevrokopi,Κάτω Νευροκόπι,Δήμος Κάτω Νευροκοπίου,872.4,7860,5323,-2537,-0.323,9,6,Kato Nevrokopi,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Drama,Δράμας,Kato Nevrokopi
-Komotini,Κομοτηνή,Δήμος Κομοτηνής,646.6,66919,65107,-1812,-0.027,103,101,Komotini,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Rodopis,Ροδόπης,"Aigeiros
+Kato Nevrokopi,Κάτω Νευροκόπι,Δήμος Κάτω Νευροκοπίου,872.4,7860,5323,-2537,-0.323,-32.277,9,6,Kato Nevrokopi,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Drama,Δράμας,Kato Nevrokopi
+Komotini,Κομοτηνή,Δήμος Κομοτηνής,646.6,66919,65107,-1812,-0.027,-2.708,103,101,Komotini,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Rodopis,Ροδόπης,"Aigeiros
 Komotini
 Neo Sidirochori"
-Maroneia-Sapes,Μαρώνεια-Σάπες,Δήμος Μαρώνειας-Σαπών,644.0,14733,11983,-2750,-0.187,23,19,Sapes,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Rodopis,Ροδόπης,"Maroneia
+Maroneia-Sapes,Μαρώνεια-Σάπες,Δήμος Μαρώνειας-Σαπών,644.0,14733,11983,-2750,-0.187,-18.666,23,19,Sapes,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Rodopis,Ροδόπης,"Maroneia
 Sapes"
-Myki,Μύκη,Δήμος Μύκης,632.1,15540,14521,-1019,-0.066,25,23,Sminthi,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Xanthis,Ξάνθης,"Myki
+Myki,Μύκη,Δήμος Μύκης,632.1,15540,14521,-1019,-0.066,-6.557,25,23,Sminthi,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Xanthis,Ξάνθης,"Myki
 Kotyli
 Satres
 Thermes"
-Nestos,Νέστος,Δήμος Νέστου,681.7,22331,20525,-1806,-0.081,33,30,Chrysoupoli,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Kavala,Καβάλας,"Chrysoupoli
+Nestos,Νέστος,Δήμος Νέστου,681.7,22331,20525,-1806,-0.081,-8.087,33,30,Chrysoupoli,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Kavala,Καβάλας,"Chrysoupoli
 Keramoti
 Oreino"
-Xanthi,Ξάνθη,Δήμος Ξάνθης,501.6,65133,66162,1029,0.016,130,132,Xanthi,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Xanthis,Ξάνθης,"Stavroupoli
+Xanthi,Ξάνθη,Δήμος Ξάνθης,501.6,65133,66162,1029,0.016,1.580,130,132,Xanthi,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Xanthis,Ξάνθης,"Stavroupoli
 Xanthi"
-Orestiada,Ορεστιάδα,Δήμος Ορεστιάδας,957.3,37695,31694,-6001,-0.159,39,33,Orestiada,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Evrou,Έβρου,"Kyprinos
+Orestiada,Ορεστιάδα,Δήμος Ορεστιάδας,957.3,37695,31694,-6001,-0.159,-15.920,39,33,Orestiada,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Evrou,Έβρου,"Kyprinos
 Orestiada
 Trigono
 Vyssa"
-Pangaio,Παγγαίο,Δήμος Παγγαίου,698.4,32085,29592,-2493,-0.078,46,42,Eleftheroupoli,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Kavala,Καβάλας,"Eleftheres
+Pangaio,Παγγαίο,Δήμος Παγγαίου,698.4,32085,29592,-2493,-0.078,-7.770,46,42,Eleftheroupoli,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Kavala,Καβάλας,"Eleftheres
 Eleftheroupoli
 Orfani
 Pangaio
 Piereis"
-Paranesti,Παρανέστι,Δήμος Παρανεστίου,1028.4,3901,2852,-1049,-0.269,4,3,Paranesti,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Drama,Δράμας,"Nikiforos
+Paranesti,Παρανέστι,Δήμος Παρανεστίου,1028.4,3901,2852,-1049,-0.269,-26.891,4,3,Paranesti,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Drama,Δράμας,"Nikiforos
 Paranesti"
-Prosotsani,Προσοτσάνη,Δήμος Προσοτσάνης,481.1,13066,10744,-2322,-0.178,27,22,Prosotsani,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Drama,Δράμας,"Prosotsani
+Prosotsani,Προσοτσάνη,Δήμος Προσοτσάνης,481.1,13066,10744,-2322,-0.178,-17.771,27,22,Prosotsani,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Drama,Δράμας,"Prosotsani
 Sitagroi"
-Samothrace,Σαμoθράκη,Δήμος Σαμοθράκης,180.5,2859,2622,-237,-0.083,16,15,Samothrace,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Evrou,Έβρου,Samothrace
-Soufli,Σουφλί,Δήμος Σουφλίου,1327.1,14941,11784,-3157,-0.211,11,9,Soufli,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Evrou,Έβρου,"Soufli
+Samothrace,Σαμoθράκη,Δήμος Σαμοθράκης,180.5,2859,2622,-237,-0.083,-8.290,16,15,Samothrace,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Evrou,Έβρου,Samothrace
+Soufli,Σουφλί,Δήμος Σουφλίου,1327.1,14941,11784,-3157,-0.211,-21.130,11,9,Soufli,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Evrou,Έβρου,"Soufli
 Orfeas
 Tychero"
-Topeiros,Τόπειρος,Δήμος Τοπείρου,309.7,11544,9634,-1910,-0.165,37,31,Evlalo,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Xanthis,Ξάνθης,Topeiros
-Agia Varvara,Αγία Βαρβάρα,Δήμος Αγίας Βαρβάρας,2.2,26550,26759,209,0.008,12224,12163,Agia Varvara,Attica,Αττική,Attica,Αττικής,Agia Varvara
-Agia Paraskevi,Αγία Παρασκευή,Δήμος Αγίας Παρασκευής,8.4,59704,62157,2453,0.041,7125,7400,Agia Paraskevi,Attica,Αττική,Attica,Αττικής,Agia Paraskevi
-Agios Dimitrios,Άγιος Δημήτριος,Δήμος Αγίου Δημητρίου,5.0,71294,71474,180,0.003,14307,14295,Agios Dimitrios,Attica,Αττική,Attica,Αττικής,Agios Dimitrios
-Agioi Anargyroi-Kamatero,Άγιοι Ανάργυροι-Καματερό,Δήμος Αγίων Αναργύρων-Καματερού,9.5,62529,61427,-1102,-0.018,6562,6466,Agioi Anargyroi,Attica,Αττική,Attica,Αττικής,"Agioi Anargyroi
+Topeiros,Τόπειρος,Δήμος Τοπείρου,309.7,11544,9634,-1910,-0.165,-16.545,37,31,Evlalo,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη,Xanthis,Ξάνθης,Topeiros
+Agia Varvara,Αγία Βαρβάρα,Δήμος Αγίας Βαρβάρας,2.2,26550,26759,209,0.008,0.787,12224,12163,Agia Varvara,Attica,Αττική,Attica,Αττικής,Agia Varvara
+Agia Paraskevi,Αγία Παρασκευή,Δήμος Αγίας Παρασκευής,8.4,59704,62157,2453,0.041,4.109,7125,7400,Agia Paraskevi,Attica,Αττική,Attica,Αττικής,Agia Paraskevi
+Agios Dimitrios,Άγιος Δημήτριος,Δήμος Αγίου Δημητρίου,5.0,71294,71474,180,0.003,0.252,14307,14295,Agios Dimitrios,Attica,Αττική,Attica,Αττικής,Agios Dimitrios
+Agioi Anargyroi-Kamatero,Άγιοι Ανάργυροι-Καματερό,Δήμος Αγίων Αναργύρων-Καματερού,9.5,62529,61427,-1102,-0.018,-1.762,6562,6466,Agioi Anargyroi,Attica,Αττική,Attica,Αττικής,"Agioi Anargyroi
 Kamatero"
-Agistri,Αγκίστρι,Δήμος Αγκιστρίου,13.5,1142,1107,-35,-0.031,84,82,Agistri,Attica,Αττική,Attica,Αττικής,Agistri
-Athens,Αθήνα,Δήμος Αθηναίων,39.0,664046,637798,-26248,-0.040,17036,16354,Athens,Attica,Αττική,Attica,Αττικής,Athens
-Aigaleo,Αιγάλεω,Δήμος Αιγάλεω,6.4,69946,64828,-5118,-0.073,10893,10129,Aigaleo,Attica,Αττική,Attica,Αττικής,Aigaleo
-Aegina,Αίγινα,Δήμος Αίγινας,88.8,13056,12938,-118,-0.009,147,146,Aegina,Attica,Αττική,Attica,Αττικής,Aegina
-Alimos,Άλιμος,Δήμος Αλίμου,6.0,41720,42872,1152,0.028,6973,7145,Alimos,Attica,Αττική,Attica,Αττικής,Alimos
-Marousi,Αμαρούσιο,Δήμος Αμαρουσίου,13.4,72333,70519,-1814,-0.025,5381,5263,Marousi,Attica,Αττική,Attica,Αττικής,Marousi
-Aspropyrgos,Ασπρόπυργος,Δήμος Ασπροπύργου,104.8,30251,31420,1169,0.039,289,300,Aspropyrgos,Attica,Αττική,Attica,Αττικής,Aspropyrgos
-Acharnes,Αχαρνές,Δήμος Αχαρνών,108.0,106943,108130,1187,0.011,990,1001,Acharnes,Attica,Αττική,Attica,Αττικής,"Acharnes
+Agistri,Αγκίστρι,Δήμος Αγκιστρίου,13.5,1142,1107,-35,-0.031,-3.065,84,82,Agistri,Attica,Αττική,Attica,Αττικής,Agistri
+Athens,Αθήνα,Δήμος Αθηναίων,39.0,664046,637798,-26248,-0.040,-3.953,17036,16354,Athens,Attica,Αττική,Attica,Αττικής,Athens
+Aigaleo,Αιγάλεω,Δήμος Αιγάλεω,6.4,69946,64828,-5118,-0.073,-7.317,10893,10129,Aigaleo,Attica,Αττική,Attica,Αττικής,Aigaleo
+Aegina,Αίγινα,Δήμος Αίγινας,88.8,13056,12938,-118,-0.009,-0.904,147,146,Aegina,Attica,Αττική,Attica,Αττικής,Aegina
+Alimos,Άλιμος,Δήμος Αλίμου,6.0,41720,42872,1152,0.028,2.761,6973,7145,Alimos,Attica,Αττική,Attica,Αττικής,Alimos
+Marousi,Αμαρούσιο,Δήμος Αμαρουσίου,13.4,72333,70519,-1814,-0.025,-2.508,5381,5263,Marousi,Attica,Αττική,Attica,Αττικής,Marousi
+Aspropyrgos,Ασπρόπυργος,Δήμος Ασπροπύργου,104.8,30251,31420,1169,0.039,3.864,289,300,Aspropyrgos,Attica,Αττική,Attica,Αττικής,Aspropyrgos
+Acharnes,Αχαρνές,Δήμος Αχαρνών,108.0,106943,108130,1187,0.011,1.110,990,1001,Acharnes,Attica,Αττική,Attica,Αττικής,"Acharnes
 Thrakomakedones"
-Vari-Voula-Vouliagmeni,Βάρη-Βούλα-Βουλιαγμένη,Δήμος Βάρης-Βούλας-Βουλιαγμένης,29.1,48399,50585,2186,0.045,1664,1738,Voula,Attica,Αττική,Attica,Αττικής,"Vari
+Vari-Voula-Vouliagmeni,Βάρη-Βούλα-Βουλιαγμένη,Δήμος Βάρης-Βούλας-Βουλιαγμένης,29.1,48399,50585,2186,0.045,4.517,1664,1738,Voula,Attica,Αττική,Attica,Αττικής,"Vari
 Voula
 Vouliagmeni"
-Vrilissia,Βριλήσσια,Δήμος Βριλησσίων,3.5,30741,32422,1681,0.055,8674,9263,Vrilissia,Attica,Αττική,Attica,Αττικής,Vrilissia
-Vyronas,Βύρωνας,Δήμος Βύρωνος,9.6,61308,59134,-2174,-0.035,6356,6160,Vyronas,Attica,Αττική,Attica,Αττικής,Vyronas
-Galatsi,Γαλάτσι,Δήμος Γαλατσίου,4.2,59345,57917,-1428,-0.024,14208,13790,Galatsi,Attica,Αττική,Attica,Αττικής,Galatsi
-Glyfada,Γλυφάδα,Δήμος Γλυφάδας,25.6,87305,89605,2300,0.026,3412,3500,Glyfada,Attica,Αττική,Attica,Αττικής,Glyfada
-Dafni-Ymittos,Δάφνη-Υμηττός,Δήμος Δάφνης-Υμηττού,2.4,33628,33850,222,0.007,13822,14104,Dafni,Attica,Αττική,Attica,Αττικής,"Dafni
+Vrilissia,Βριλήσσια,Δήμος Βριλησσίων,3.5,30741,32422,1681,0.055,5.468,8674,9263,Vrilissia,Attica,Αττική,Attica,Αττικής,Vrilissia
+Vyronas,Βύρωνας,Δήμος Βύρωνος,9.6,61308,59134,-2174,-0.035,-3.546,6356,6160,Vyronas,Attica,Αττική,Attica,Αττικής,Vyronas
+Galatsi,Γαλάτσι,Δήμος Γαλατσίου,4.2,59345,57917,-1428,-0.024,-2.406,14208,13790,Galatsi,Attica,Αττική,Attica,Αττικής,Galatsi
+Glyfada,Γλυφάδα,Δήμος Γλυφάδας,25.6,87305,89605,2300,0.026,2.634,3412,3500,Glyfada,Attica,Αττική,Attica,Αττικής,Glyfada
+Dafni-Ymittos,Δάφνη-Υμηττός,Δήμος Δάφνης-Υμηττού,2.4,33628,33850,222,0.007,0.660,13822,14104,Dafni,Attica,Αττική,Attica,Αττικής,"Dafni
 Ymittos"
-Dionysos,Διόνυσος,Δήμος Διονύσου,109.1,40193,41748,1555,0.039,369,383,Agios Stefanos,Attica,Αττική,Attica,Αττικής,"Agios Stefanos
+Dionysos,Διόνυσος,Δήμος Διονύσου,109.1,40193,41748,1555,0.039,3.869,369,383,Agios Stefanos,Attica,Αττική,Attica,Αττικής,"Agios Stefanos
 Anoixi
 Dionysos
 Drosia
 Kryoneri
 Rodopoli
 Stamata"
-Elefsina,Ελευσίνα,Δήμος Ελευσίνας,35.0,29902,29619,-283,-0.009,854,846,Elefsina,Attica,Αττική,Attica,Αττικής,"Elefsina
+Elefsina,Ελευσίνα,Δήμος Ελευσίνας,35.0,29902,29619,-283,-0.009,-0.946,854,846,Elefsina,Attica,Αττική,Attica,Αττικής,"Elefsina
 Magoula"
-Elliniko-Argyroupoli,Ελληνικό-Αργυρούπολη,Δήμος Ελληνικού-Αργυρούπολης,15.7,51356,49722,-1634,-0.032,3281,3167,Argyroupoli,Attica,Αττική,Attica,Αττικής,"Argyroupoli
+Elliniko-Argyroupoli,Ελληνικό-Αργυρούπολη,Δήμος Ελληνικού-Αργυρούπολης,15.7,51356,49722,-1634,-0.032,-3.182,3281,3167,Argyroupoli,Attica,Αττική,Attica,Αττικής,"Argyroupoli
 Elliniko"
-Zografou,Ζωγράφου,Δήμος Ζωγράφου,8.6,71026,69857,-1169,-0.016,8257,8123,Zografou,Attica,Αττική,Attica,Αττικής,Zografou
-Ilioupoli,Ηλιούπολη,Δήμος Ηλιουπόλεως,12.9,78153,76708,-1445,-0.018,6072,5946,Ilioupoli,Attica,Αττική,Attica,Αττικής,Ilioupoli
-Irakleio,Ηράκλειο,Δήμος Ηρακλείου,4.7,49642,50495,853,0.017,10598,10744,Irakleio,Attica,Αττική,Attica,Αττικής,Irakleio
-Ilio,Ίλιο (Νέα Λιόσια),Δήμος Ιλίου,8.1,84793,83523,-1270,-0.015,10470,10311,Ilio,Attica,Αττική,Attica,Αττικής,Ilio
-Kaisariani,Καισαριανή,Δήμος Καισαριανής,7.8,26458,26260,-198,-0.007,3400,3367,Kaisariani,Attica,Αττική,Attica,Αττικής,Kaisariani
-Kallithea,Καλλιθέα,Δήμος Καλλιθέας,4.7,100641,96118,-4523,-0.045,21386,20451,Kallithea,Attica,Αττική,Attica,Αττικής,Kallithea
-Keratsini-Drapetsona,Κερατσίνι-Δραπετσώνα,Δήμος Κερατσινίου-Δραπετσώνας,9.6,91045,89386,-1659,-0.018,9502,9311,Keratsini,Attica,Αττική,Attica,Αττικής,"Drapetsona
+Zografou,Ζωγράφου,Δήμος Ζωγράφου,8.6,71026,69857,-1169,-0.016,-1.646,8257,8123,Zografou,Attica,Αττική,Attica,Αττικής,Zografou
+Ilioupoli,Ηλιούπολη,Δήμος Ηλιουπόλεως,12.9,78153,76708,-1445,-0.018,-1.849,6072,5946,Ilioupoli,Attica,Αττική,Attica,Αττικής,Ilioupoli
+Irakleio,Ηράκλειο,Δήμος Ηρακλείου,4.7,49642,50495,853,0.017,1.718,10598,10744,Irakleio,Attica,Αττική,Attica,Αττικής,Irakleio
+Ilio,Ίλιο (Νέα Λιόσια),Δήμος Ιλίου,8.1,84793,83523,-1270,-0.015,-1.498,10470,10311,Ilio,Attica,Αττική,Attica,Αττικής,Ilio
+Kaisariani,Καισαριανή,Δήμος Καισαριανής,7.8,26458,26260,-198,-0.007,-0.748,3400,3367,Kaisariani,Attica,Αττική,Attica,Αττικής,Kaisariani
+Kallithea,Καλλιθέα,Δήμος Καλλιθέας,4.7,100641,96118,-4523,-0.045,-4.494,21386,20451,Kallithea,Attica,Αττική,Attica,Αττικής,Kallithea
+Keratsini-Drapetsona,Κερατσίνι-Δραπετσώνα,Δήμος Κερατσινίου-Δραπετσώνας,9.6,91045,89386,-1659,-0.018,-1.822,9502,9311,Keratsini,Attica,Αττική,Attica,Αττικής,"Drapetsona
 Keratsini"
-Kifisia,Κηφισιά,Δήμος Κηφισιάς,35.5,71259,72860,1601,0.022,2009,2052,Kifisia,Attica,Αττική,Attica,Αττικής,"Ekali
+Kifisia,Κηφισιά,Δήμος Κηφισιάς,35.5,71259,72860,1601,0.022,2.247,2009,2052,Kifisia,Attica,Αττική,Attica,Αττικής,"Ekali
 Kifisia
 Nea Erythraia"
-Korydallos,Κορυδαλλός,Δήμος Κορυδαλλού,4.4,63445,61247,-2198,-0.035,14306,13920,Korydallos,Attica,Αττική,Attica,Αττικής,Korydallos
-Kropia,Κωρωπί,Δήμος Κρωπίας,114.3,30307,29432,-875,-0.029,265,257,Koropi,Attica,Αττική,Attica,Αττικής,Kropia
-Cythera,Κύθηρα,Δήμος Κυθήρων,298.7,4041,3659,-382,-0.095,14,12,Cythera,Attica,Αττική,Attica,Αττικής,"Antikythera
+Korydallos,Κορυδαλλός,Δήμος Κορυδαλλού,4.4,63445,61247,-2198,-0.035,-3.464,14306,13920,Korydallos,Attica,Αττική,Attica,Αττικής,Korydallos
+Kropia,Κωρωπί,Δήμος Κρωπίας,114.3,30307,29432,-875,-0.029,-2.887,265,257,Koropi,Attica,Αττική,Attica,Αττικής,Kropia
+Cythera,Κύθηρα,Δήμος Κυθήρων,298.7,4041,3659,-382,-0.095,-9.453,14,12,Cythera,Attica,Αττική,Attica,Αττικής,"Antikythera
 Kythira"
-Lavreotiki,Λαυρεωτική,Δήμος Λαυρεωτικής,175.4,25102,25608,506,0.020,143,146,Laurium,Attica,Αττική,Attica,Αττικής,"Agios Konstantinos
+Lavreotiki,Λαυρεωτική,Δήμος Λαυρεωτικής,175.4,25102,25608,506,0.020,2.016,143,146,Laurium,Attica,Αττική,Attica,Αττικής,"Agios Konstantinos
 Keratea
 Lavreotiki"
-Lykovrysi-Pefki,Λυκόβρυση-Πεύκη,Δήμος Λυκόβρυσης-Πεύκης,4.1,31153,30996,-157,-0.005,7589,7560,Pefki,Attica,Αττική,Attica,Αττικής,"Lykovrysi
+Lykovrysi-Pefki,Λυκόβρυση-Πεύκη,Δήμος Λυκόβρυσης-Πεύκης,4.1,31153,30996,-157,-0.005,-0.504,7589,7560,Pefki,Attica,Αττική,Attica,Αττικής,"Lykovrysi
 Pefki"
-Mandra-Eidyllia,Μάνδρα-Ειδυλλία,Δήμος Μάνδρας-Ειδυλλίας,427.0,17885,17524,-361,-0.020,42,41,Mandra,Attica,Αττική,Attica,Αττικής,"Erythres
+Mandra-Eidyllia,Μάνδρα-Ειδυλλία,Δήμος Μάνδρας-Ειδυλλίας,427.0,17885,17524,-361,-0.020,-2.018,42,41,Mandra,Attica,Αττική,Attica,Αττικής,"Erythres
 Oinoi
 Mandra
 Vilia"
-Marathon,Μαραθώνα,Δήμος Μαραθώνος,226.8,33423,31448,-1975,-0.059,147,139,Marathon,Attica,Αττική,Attica,Αττικής,"Grammatiko
+Marathon,Μαραθώνα,Δήμος Μαραθώνος,226.8,33423,31448,-1975,-0.059,-5.909,147,139,Marathon,Attica,Αττική,Attica,Αττικής,"Grammatiko
 Marathon
 Nea Makri
 Varnavas"
-Markopoulo Mesogaias,Μαρκόπουλο Μεσογαίας,Δήμος Μαρκοπούλου Μεσογαίας,82.0,20040,21284,1244,0.062,244,260,Markopoulo,Attica,Αττική,Attica,Αττικής,Markopoulo Mesogaias
-Megara,Μέγαρα,Δήμος Μεγαρέων,330.9,36924,38046,1122,0.030,112,115,Megara,Attica,Αττική,Attica,Αττικής,"Megara
+Markopoulo Mesogaias,Μαρκόπουλο Μεσογαίας,Δήμος Μαρκοπούλου Μεσογαίας,82.0,20040,21284,1244,0.062,6.208,244,260,Markopoulo,Attica,Αττική,Attica,Αττικής,Markopoulo Mesogaias
+Megara,Μέγαρα,Δήμος Μεγαρέων,330.9,36924,38046,1122,0.030,3.039,112,115,Megara,Attica,Αττική,Attica,Αττικής,"Megara
 Nea Peramos"
-Metamorfosi,Μεταμόρφωση,Δήμος Μεταμορφώσεως,5.3,29891,30170,279,0.009,5595,5692,Metamorfosi,Attica,Αττική,Attica,Αττικής,Metamorfosi
-Moschato-Tavros,Μοσχάτο-Ταύρος,Δήμος Μοσχάτου-Ταύρου,5.0,40413,39507,-906,-0.022,8146,7901,Moschato,Attica,Αττική,Attica,Αττικής,"Moschato
+Metamorfosi,Μεταμόρφωση,Δήμος Μεταμορφώσεως,5.3,29891,30170,279,0.009,0.933,5595,5692,Metamorfosi,Attica,Αττική,Attica,Αττικής,Metamorfosi
+Moschato-Tavros,Μοσχάτο-Ταύρος,Δήμος Μοσχάτου-Ταύρου,5.0,40413,39507,-906,-0.022,-2.242,8146,7901,Moschato,Attica,Αττική,Attica,Αττικής,"Moschato
 Tavros"
-Nea Ionia,Νέα Ιωνία,Δήμος Νέας Ιωνίας,4.4,67134,64107,-3027,-0.045,15258,14570,Nea Ionia,Attica,Αττική,Attica,Αττικής,Nea Ionia
-Nea Smyrni,Νέα Σμύρνης,Δήμος Νέας Σμύρνης,3.5,73076,72546,-530,-0.007,20861,20727,Nea Smyrni,Attica,Αττική,Attica,Αττικής,Nea Smyrni
-Filadelfeia-Chalkidona,Φιλαδέλφεια-Χαλκηδόνα,Δήμος Νέας Φιλαδελφείας- Νέας Χαλκηδόνος,3.6,35556,34759,-797,-0.022,9949,9655,Nea Filadelfia,Attica,Αττική,Attica,Αττικής,"Nea Chalkidona
+Nea Ionia,Νέα Ιωνία,Δήμος Νέας Ιωνίας,4.4,67134,64107,-3027,-0.045,-4.509,15258,14570,Nea Ionia,Attica,Αττική,Attica,Αττικής,Nea Ionia
+Nea Smyrni,Νέα Σμύρνης,Δήμος Νέας Σμύρνης,3.5,73076,72546,-530,-0.007,-0.725,20861,20727,Nea Smyrni,Attica,Αττική,Attica,Αττικής,Nea Smyrni
+Filadelfeia-Chalkidona,Φιλαδέλφεια-Χαλκηδόνα,Δήμος Νέας Φιλαδελφείας- Νέας Χαλκηδόνος,3.6,35556,34759,-797,-0.022,-2.242,9949,9655,Nea Filadelfia,Attica,Αττική,Attica,Αττικής,"Nea Chalkidona
 Nea Filadelfeia"
-Nikaia-Agios Ioannis Rentis,Νίκαια-Άγιος Ιωάννης Ρέντης,Δήμος Νίκαιας-Αγίου Ιωάννη Ρέντη,11.2,105430,103355,-2075,-0.020,9417,9228,Nikaia,Attica,Αττική,Attica,Αττικής,"Agios Ioannis Rentis
+Nikaia-Agios Ioannis Rentis,Νίκαια-Άγιος Ιωάννης Ρέντης,Δήμος Νίκαιας-Αγίου Ιωάννη Ρέντη,11.2,105430,103355,-2075,-0.020,-1.968,9417,9228,Nikaia,Attica,Αττική,Attica,Αττικής,"Agios Ioannis Rentis
 Nikaia"
-Paiania,Παιανία,Δήμος Παιανίας,51.9,26668,27916,1248,0.047,514,538,Paiania,Attica,Αττική,Attica,Αττικής,"Glyka Nera
+Paiania,Παιανία,Δήμος Παιανίας,51.9,26668,27916,1248,0.047,4.680,514,538,Paiania,Attica,Αττική,Attica,Αττικής,"Glyka Nera
 Paiania"
-Palaio Faliro,Παλαιό Φάληρο,Δήμος Παλαιού Φαλήρου,4.8,64021,64879,858,0.013,13368,13516,Palaio Faliro,Attica,Αττική,Attica,Αττικής,Palaio Faliro
-Pallini,Παλλήνη,Δήμος Παλλήνης,33.5,54415,60435,6020,0.111,1625,1804,Gerakas,Attica,Αττική,Attica,Αττικής,"Anthousa
+Palaio Faliro,Παλαιό Φάληρο,Δήμος Παλαιού Φαλήρου,4.8,64021,64879,858,0.013,1.340,13368,13516,Palaio Faliro,Attica,Αττική,Attica,Αττικής,Palaio Faliro
+Pallini,Παλλήνη,Δήμος Παλλήνης,33.5,54415,60435,6020,0.111,11.063,1625,1804,Gerakas,Attica,Αττική,Attica,Αττικής,"Anthousa
 Gerakas
 Pallini"
-Papagou-Cholargos,Παπάγου-Χολαργός,Δήμος Παπάγου-Χολαργού,7.2,44539,45164,625,0.014,6228,6273,Cholargos,Attica,Αττική,Attica,Αττικής,"Cholargos
+Papagou-Cholargos,Παπάγου-Χολαργός,Δήμος Παπάγου-Χολαργού,7.2,44539,45164,625,0.014,1.403,6228,6273,Cholargos,Attica,Αττική,Attica,Αττικής,"Cholargos
 Papagou"
-Piraeus,Πειραιάς,Δήμος Πειραιώς,11.2,163688,163572,-116,-0.001,14624,14605,Piraeus,Attica,Αττική,Attica,Αττικής,Piraeus
-Penteli,Πεντέλη,Δήμος Πεντέλης,31.1,34931,35439,508,0.015,1125,1140,Melissia,Attica,Αττική,Attica,Αττικής,"Melissia
+Piraeus,Πειραιάς,Δήμος Πειραιώς,11.2,163688,163572,-116,-0.001,-0.071,14624,14605,Piraeus,Attica,Αττική,Attica,Αττικής,Piraeus
+Penteli,Πεντέλη,Δήμος Πεντέλης,31.1,34931,35439,508,0.015,1.454,1125,1140,Melissia,Attica,Αττική,Attica,Αττικής,"Melissia
 Nea Penteli
 Penteli"
-Perama,Πέραμα,Δήμος Περάματος,14.9,25389,25636,247,0.010,1705,1721,Perama,Attica,Αττική,Attica,Αττικής,Perama
-Peristeri,Περιστέρι,Δήμος Περιστερίου,10.8,139981,132123,-7858,-0.056,12942,12234,Peristeri,Attica,Αττική,Attica,Αττικής,Peristeri
-Petroupoli,Πετρούπολη,Δήμος Πετρουπόλεως,7.5,58979,60166,1187,0.020,7819,8022,Petroupoli,Attica,Αττική,Attica,Αττικής,Petroupoli
-Poros,Πόρος,Δήμος Πόρου,49.1,3993,3237,-756,-0.189,81,66,Poros,Attica,Αττική,Attica,Αττικής,Poros
-Rafina-Pikermi,Ραφήνα-Πικέρμι,Δήμος Ραφήνας-Πικερμίου,38.3,20266,22230,1964,0.097,529,580,Rafina,Attica,Αττική,Attica,Αττικής,"Pikermi
+Perama,Πέραμα,Δήμος Περάματος,14.9,25389,25636,247,0.010,0.973,1705,1721,Perama,Attica,Αττική,Attica,Αττικής,Perama
+Peristeri,Περιστέρι,Δήμος Περιστερίου,10.8,139981,132123,-7858,-0.056,-5.614,12942,12234,Peristeri,Attica,Αττική,Attica,Αττικής,Peristeri
+Petroupoli,Πετρούπολη,Δήμος Πετρουπόλεως,7.5,58979,60166,1187,0.020,2.013,7819,8022,Petroupoli,Attica,Αττική,Attica,Αττικής,Petroupoli
+Poros,Πόρος,Δήμος Πόρου,49.1,3993,3237,-756,-0.189,-18.933,81,66,Poros,Attica,Αττική,Attica,Αττικής,Poros
+Rafina-Pikermi,Ραφήνα-Πικέρμι,Δήμος Ραφήνας-Πικερμίου,38.3,20266,22230,1964,0.097,9.691,529,580,Rafina,Attica,Αττική,Attica,Αττικής,"Pikermi
 Rafina"
-Salamis Island,Σαλαμίνα,Δήμος Σαλαμίνος,96.3,39283,37175,-2108,-0.054,408,386,Salamina,Attica,Αττική,Attica,Αττικής,"Ampelakia
+Salamis Island,Σαλαμίνα,Δήμος Σαλαμίνος,96.3,39283,37175,-2108,-0.054,-5.366,408,386,Salamina,Attica,Αττική,Attica,Αττικής,"Ampelakia
 Salamina (city)"
-Saronikos,Σαρωνικός,Δήμος Σαρωνικού,135.7,29002,29703,701,0.024,214,219,Kalyvia Thorikou,Attica,Αττική,Attica,Αττικής,"Anavyssos
+Saronikos,Σαρωνικός,Δήμος Σαρωνικού,135.7,29002,29703,701,0.024,2.417,214,219,Kalyvia Thorikou,Attica,Αττική,Attica,Αττικής,"Anavyssos
 Kalyvia Thorikou
 Kouvaras
 Palaia Fokaia
 Saronida"
-Spata-Artemida,Σπάτα-Άρτεμη,Δήμος Σπάτων-Αρτέμιδος,73.6,33821,34053,232,0.007,460,463,Spata,Attica,Αττική,Attica,Αττικής,"Spata
+Spata-Artemida,Σπάτα-Άρτεμη,Δήμος Σπάτων-Αρτέμιδος,73.6,33821,34053,232,0.007,0.686,460,463,Spata,Attica,Αττική,Attica,Αττικής,"Spata
 Artemida"
-Spetses,Σπέτσες,Δήμος Σπετσών,25.5,4027,3680,-347,-0.086,158,144,Spetses,Attica,Αττική,Attica,Αττικής,Spetses
-Troizinia-Methana,Τροιζηνία-Μέθανα,Δήμος Τροιζηνίας-Μεθάνων,241.1,7143,6118,-1025,-0.143,30,25,Galatas,Attica,Αττική,Attica,Αττικής,"Methana
+Spetses,Σπέτσες,Δήμος Σπετσών,25.5,4027,3680,-347,-0.086,-8.617,158,144,Spetses,Attica,Αττική,Attica,Αττικής,Spetses
+Troizinia-Methana,Τροιζηνία-Μέθανα,Δήμος Τροιζηνίας-Μεθάνων,241.1,7143,6118,-1025,-0.143,-14.350,30,25,Galatas,Attica,Αττική,Attica,Αττικής,"Methana
 Troizina"
-Hydra,Ύδρα,Δήμος Ύδρας,65.5,1966,2011,45,0.023,30,31,Hydra,Attica,Αττική,Attica,Αττικής,Hydra
-Filothei-Psychiko,Φιλοθέη-Ψυχικό,Δήμος Φιλοθέης-Ψυχικού,6.0,26968,27400,432,0.016,4478,335,Psychiko,Attica,Αττική,Attica,Αττικής,"Filothei
+Hydra,Ύδρα,Δήμος Ύδρας,65.5,1966,2011,45,0.023,2.289,30,31,Hydra,Attica,Αττική,Attica,Αττικής,Hydra
+Filothei-Psychiko,Φιλοθέη-Ψυχικό,Δήμος Φιλοθέης-Ψυχικού,6.0,26968,27400,432,0.016,1.602,4478,335,Psychiko,Attica,Αττική,Attica,Αττικής,"Filothei
 Neo Psychiko
 Psychiko"
-Fyli,Φυλή,Δήμος Φυλής,104.6,45965,48255,2290,0.050,439,461,Ano Liosia,Attica,Αττική,Attica,Αττικής,"Ano Liosia
+Fyli,Φυλή,Δήμος Φυλής,104.6,45965,48255,2290,0.050,4.982,439,461,Ano Liosia,Attica,Αττική,Attica,Αττικής,"Ano Liosia
 Fyli
 Zefyri"
-Chaidari,Χαϊδάρι,Δήμος Χαϊδαρίου,23.1,46897,46983,86,0.002,2026,2034,Chaidari,Attica,Αττική,Attica,Αττικής,Chaidari
-Chalandri,Χαλάνδρι,Δήμος Χαλανδρίου,10.3,74192,77118,2926,0.039,7229,7487,Chalandri,Attica,Αττική,Attica,Αττικής,Chalandri
-Oropos,Ωρωπός,Δήμος Ωρωπού,339.6,33769,33977,208,0.006,99,100,Oropos,Attica,Αττική,Attica,Αττικής,"Afidnes
+Chaidari,Χαϊδάρι,Δήμος Χαϊδαρίου,23.1,46897,46983,86,0.002,0.183,2026,2034,Chaidari,Attica,Αττική,Attica,Αττικής,Chaidari
+Chalandri,Χαλάνδρι,Δήμος Χαλανδρίου,10.3,74192,77118,2926,0.039,3.944,7229,7487,Chalandri,Attica,Αττική,Attica,Αττικής,Chalandri
+Oropos,Ωρωπός,Δήμος Ωρωπού,339.6,33769,33977,208,0.006,0.616,99,100,Oropos,Attica,Αττική,Attica,Αττικής,"Afidnes
 Avlonas
 Kalamos
 Kapandriti
@@ -176,33 +176,33 @@ Markopoulo Oropou
 Oropioi
 Polydendri
 Sykamino"
-Agios Efstratios,Άγιος Ευστράτιος,Δήμος Αγίου Ευστρατίου,42.1,270,257,-13,-0.048,6,6,Agios Efstratios,North Aegean,Βόρειο Αιγαίο,Lesvos,Λέσβου,Agios Efstratios
-East Samos,Ανατολική Σάμος,Δήμος Ανατολικής Σάμου,292.6,20513,20025,-488,-0.024,70,68,Samos,North Aegean,Βόρειο Αιγαίο,Samos,Σάμου,"Pythagoreio
+Agios Efstratios,Άγιος Ευστράτιος,Δήμος Αγίου Ευστρατίου,42.1,270,257,-13,-0.048,-4.815,6,6,Agios Efstratios,North Aegean,Βόρειο Αιγαίο,Lesvos,Λέσβου,Agios Efstratios
+East Samos,Ανατολική Σάμος,Δήμος Ανατολικής Σάμου,292.6,20513,20025,-488,-0.024,-2.379,70,68,Samos,North Aegean,Βόρειο Αιγαίο,Samos,Σάμου,"Pythagoreio
 Vathy"
-West Lesbos,Δυτική Λέσβος,Δήμος Δυτικής Λέσβου,1072.5,28564,24783,-3781,-0.132,27,23,Kalloni,North Aegean,Βόρειο Αιγαίο,Lesvos,Λέσβου,"Agia Paraskevi
+West Lesbos,Δυτική Λέσβος,Δήμος Δυτικής Λέσβου,1072.5,28564,24783,-3781,-0.132,-13.237,27,23,Kalloni,North Aegean,Βόρειο Αιγαίο,Lesvos,Λέσβου,"Agia Paraskevi
 Eresos-Antissa
 Kalloni
 Mantamados
 Mithymna
 Petra
 Polichnitos"
-West Samos,Δυτική Σάμος,Δήμος Δυτικής Σάμου,187.5,12464,12608,144,0.012,66,67,Karlovasi,North Aegean,Βόρειο Αιγαίο,Samos,Σάμου,"Karlovasi
+West Samos,Δυτική Σάμος,Δήμος Δυτικής Σάμου,187.5,12464,12608,144,0.012,1.155,66,67,Karlovasi,North Aegean,Βόρειο Αιγαίο,Samos,Σάμου,"Karlovasi
 Marathokampos"
-Icaria,Ικαριά,Δήμος Ικαριάς,254.7,8423,8555,132,0.016,33,34,Agios Kirykos,North Aegean,Βόρειο Αιγαίο,Samos,Σάμου,"Agios Kirykos
+Icaria,Ικαριά,Δήμος Ικαριάς,254.7,8423,8555,132,0.016,1.567,33,34,Agios Kirykos,North Aegean,Βόρειο Αιγαίο,Samos,Σάμου,"Agios Kirykos
 Evdilos
 Raches"
-Lemnos,Λήμνος,Δήμος Λήμνου,478.6,16992,16458,-534,-0.031,36,34,Myrina,North Aegean,Βόρειο Αιγαίο,Lesvos,Λέσβου,"Atsiki
+Lemnos,Λήμνος,Δήμος Λήμνου,478.6,16992,16458,-534,-0.031,-3.143,36,34,Myrina,North Aegean,Βόρειο Αιγαίο,Lesvos,Λέσβου,"Atsiki
 Moudros
 Myrina
 Nea Koutali"
-Mytilini,Μυτιλήνη,Δήμος Μυτιλήνης,566.7,57872,58285,413,0.007,102,103,Mytilini,North Aegean,Βόρειο Αιγαίο,Lesvos,Λέσβου,"Agiasos
+Mytilini,Μυτιλήνη,Δήμος Μυτιλήνης,566.7,57872,58285,413,0.007,0.714,102,103,Mytilini,North Aegean,Βόρειο Αιγαίο,Lesvos,Λέσβου,"Agiasos
 Gera
 Evergetoulas
 Loutropoli Thermis
 Plomari"
-Oinousses,Οινούσσες,Δήμος Οινουσσών,17.8,826,916,90,0.109,46,51,Oinousses,North Aegean,Βόρειο Αιγαίο,Chios,Χίου,Oinousses
-Fournoi Korseon,Φούρνοι,Δήμος Φούρνων Κορσεών,45.9,1459,1346,-113,-0.077,32,20,Fournoi,North Aegean,Βόρειο Αιγαίο,Samos,Σάμου,Fournoi Korseon
-Chios,Χίος,Δήμος Χίου,844.7,51390,50483,-907,-0.018,61,60,Chios (town),North Aegean,Βόρειο Αιγαίο,Chios,Χίου,"Agios Minas
+Oinousses,Οινούσσες,Δήμος Οινουσσών,17.8,826,916,90,0.109,10.896,46,51,Oinousses,North Aegean,Βόρειο Αιγαίο,Chios,Χίου,Oinousses
+Fournoi Korseon,Φούρνοι,Δήμος Φούρνων Κορσεών,45.9,1459,1346,-113,-0.077,-7.745,32,20,Fournoi,North Aegean,Βόρειο Αιγαίο,Samos,Σάμου,Fournoi Korseon
+Chios,Χίος,Δήμος Χίου,844.7,51390,50483,-907,-0.018,-1.765,61,60,Chios (town),North Aegean,Βόρειο Αιγαίο,Chios,Χίου,"Agios Minas
 Amani
 Chios (town)
 Ionia
@@ -210,8 +210,8 @@ Kampochora
 Kardamyla
 Mastichochoria
 Omiroupoli"
-Psara,Ψαρά,Δήμος Ψαρών,44.8,458,420,-38,-0.083,10,9,Psara,North Aegean,Βόρειο Αιγαίο,Chios,Χίου,Psara
-Agrinio,Αγρίνιο,Δήμος Αγρινίου,1232.2,94181,88971,-5210,-0.055,76,72,Agrinio,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,"Agrinio
+Psara,Ψαρά,Δήμος Ψαρών,44.8,458,420,-38,-0.083,-8.297,10,9,Psara,North Aegean,Βόρειο Αιγαίο,Chios,Χίου,Psara
+Agrinio,Αγρίνιο,Δήμος Αγρινίου,1232.2,94181,88971,-5210,-0.055,-5.532,76,72,Agrinio,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,"Agrinio
 Angelokastro
 Arakynthos
 Makryneia
@@ -221,85 +221,85 @@ Paravola
 Parakampylia
 Stratos
 Thestieis"
-Aigialeia,Αιγιάλεια,Δήμος Αιγιαλείας,725.1,49872,47225,-2647,-0.053,69,65,Aigio,West Greece,Δυτική Ελλάδα,Achaias,Αχαΐας,"Akrata
+Aigialeia,Αιγιάλεια,Δήμος Αιγιαλείας,725.1,49872,47225,-2647,-0.053,-5.308,69,65,Aigio,West Greece,Δυτική Ελλάδα,Achaias,Αχαΐας,"Akrata
 Diakopto
 Aigio
 Aigeira
 Erineos
 Sympoliteia"
-Aktio-Vonitsa,Άκτιο-Βόνιτσα,Δήμος Άκτιου-Βόνιτσας,659.4,17370,14656,-2714,-0.156,26,22,Vonitsa,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,"Anaktorio
+Aktio-Vonitsa,Άκτιο-Βόνιτσα,Δήμος Άκτιου-Βόνιτσας,659.4,17370,14656,-2714,-0.156,-15.625,26,22,Vonitsa,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,"Anaktorio
 Medeon
 Palairos"
-Amfilochia,Αμφιλοχία,Δήμος Αμφιλοχίας,1090.9,17056,15073,-1983,-0.116,16,14,Amfilochia,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,"Amfilochia
+Amfilochia,Αμφιλοχία,Δήμος Αμφιλοχίας,1090.9,17056,15073,-1983,-0.116,-11.626,16,14,Amfilochia,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,"Amfilochia
 Inachos
 Menidi"
-Andravida-Kyllini,Ανδραβίδα-Κυλλήνη,Δήμος Ανδραβίδας – Κυλλήνης,356.6,21581,22615,1034,0.048,61,63,Lechaina,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Andravida
+Andravida-Kyllini,Ανδραβίδα-Κυλλήνη,Δήμος Ανδραβίδας – Κυλλήνης,356.6,21581,22615,1034,0.048,4.791,61,63,Lechaina,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Andravida
 Kastro-Kyllini
 Lechaina
 Vouprasia"
-Andritsaina-Krestena,Ανδρίτσαινα-Κρέστενα,Δήμος Ανδριτσαίνας-Κρεστένων,420.9,14109,11273,-2836,-0.201,34,27,Krestena,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Alifeira
+Andritsaina-Krestena,Ανδρίτσαινα-Κρέστενα,Δήμος Ανδριτσαίνας-Κρεστένων,420.9,14109,11273,-2836,-0.201,-20.101,34,27,Krestena,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Alifeira
 Andritsaina
 Skillounta"
-Archaia Olympia,Αρχαία Ολυμπία,Δήμος Αρχαίας Ολυμπίας,543.4,13409,11307,-2102,-0.157,25,21,Archaia Olympia,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Archaia Olympia
+Archaia Olympia,Αρχαία Ολυμπία,Δήμος Αρχαίας Ολυμπίας,543.4,13409,11307,-2102,-0.157,-15.676,25,21,Archaia Olympia,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Archaia Olympia
 Foloi
 Lampeia
 Lasiona"
-West Achaea,Δυτική Αχαΐα,Δήμος Δυτικής Αχαΐας,572.6,25916,25900,-16,-0.001,45,45,Kato Achaia,West Greece,Δυτική Ελλάδα,Attica,Αττικής,"Dymi
+West Achaea,Δυτική Αχαΐα,Δήμος Δυτικής Αχαΐας,572.6,25916,25900,-16,-0.001,-0.062,45,45,Kato Achaia,West Greece,Δυτική Ελλάδα,Attica,Αττικής,"Dymi
 Larissos
 Movri
 Olenia"
-Erymanthos,Ερύμανθος,Δήμος Ερυμάνθου,585.2,8877,8273,-604,-0.068,15,14,Chalandritsa,West Greece,Δυτική Ελλάδα,Attica,Αττικής,"Farres
+Erymanthos,Ερύμανθος,Δήμος Ερυμάνθου,585.2,8877,8273,-604,-0.068,-6.804,15,14,Chalandritsa,West Greece,Δυτική Ελλάδα,Attica,Αττικής,"Farres
 Kalentzi
 Leontio
 Tritaia"
-Zacharo,Ζαχάρω,Δήμος Ζαχάρως,276.7,8953,8606,-347,-0.039,32,31,Zacharo,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Figaleia
+Zacharo,Ζαχάρω,Δήμος Ζαχάρως,276.7,8953,8606,-347,-0.039,-3.876,32,31,Zacharo,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Figaleia
 Zacharo"
-Ilida,Ηλίδα,Δήμος Ηλίδας,401.0,32219,29409,-2810,-0.087,80,73,Amaliada,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Amaliada
+Ilida,Ηλίδα,Δήμος Ηλίδας,401.0,32219,29409,-2810,-0.087,-8.722,80,73,Amaliada,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Amaliada
 Pineia"
-Thermo,Θέρμο,Δήμος Θέρμου,334.6,8242,5742,-2500,-0.303,25,17,Thermo,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,Thermo
-Missolonghi,Μεσολόγγι,Δήμος Ιεράς Πόλης Μεσολογγίου,638.0,34416,31944,-2472,-0.072,54,50,Missolonghi,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,"Aitoliko
+Thermo,Θέρμο,Δήμος Θέρμου,334.6,8242,5742,-2500,-0.303,-30.332,25,17,Thermo,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,Thermo
+Missolonghi,Μεσολόγγι,Δήμος Ιεράς Πόλης Μεσολογγίου,638.0,34416,31944,-2472,-0.072,-7.183,54,50,Missolonghi,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,"Aitoliko
 Oiniades
 Missolonghi"
-Kalavryta,Καλάβρυτα,Δήμος Καλαβρύτων,1058.3,11045,9281,-1764,-0.160,10,9,Kalavryta,West Greece,Δυτική Ελλάδα,Attica,Αττικής,"Aroania
+Kalavryta,Καλάβρυτα,Δήμος Καλαβρύτων,1058.3,11045,9281,-1764,-0.160,-15.971,10,9,Kalavryta,West Greece,Δυτική Ελλάδα,Attica,Αττικής,"Aroania
 Kalavryta
 Kleitoria
 Paion"
-Nafpaktia,Ναυπακτία,Δήμος Ναυπακτίας,876.9,27800,25121,-2679,-0.096,32,29,Nafpaktos,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,"Antirrio
+Nafpaktia,Ναυπακτία,Δήμος Ναυπακτίας,876.9,27800,25121,-2679,-0.096,-9.637,32,29,Nafpaktos,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,"Antirrio
 Apodotia
 Chalkeia
 Nafpaktos
 Platanos
 Pyllini"
-Xiromero,Ξηρόμερο,Δήμος Ξηρομέρου,590.7,11737,10220,-1517,-0.129,20,17,Astakos,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,"Alyzia
+Xiromero,Ξηρόμερο,Δήμος Ξηρομέρου,590.7,11737,10220,-1517,-0.129,-12.925,20,17,Astakos,West Greece,Δυτική Ελλάδα,Aitoloakarnanias,Αιτωλοακαρνανίας,"Alyzia
 Astakos
 Fyteies"
-Patras,Πάτρα,Δήμος Πατρέων,333.7,213984,211593,-2391,-0.011,641,634,Patras,West Greece,Δυτική Ελλάδα,Attica,Αττικής,"Messatida
+Patras,Πάτρα,Δήμος Πατρέων,333.7,213984,211593,-2391,-0.011,-1.117,641,634,Patras,West Greece,Δυτική Ελλάδα,Attica,Αττικής,"Messatida
 Paralia
 Patras
 Rio
 Vrachnaiika"
-Pineios,Πηνειός,Δήμος Πηνειού,160.9,21034,21658,624,0.030,131,135,Gastouni,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Gastouni
+Pineios,Πηνειός,Δήμος Πηνειού,160.9,21034,21658,624,0.030,2.967,131,135,Gastouni,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Gastouni
 Tragano
 Vartholomio"
-Pyrgos,Πύργος,Δήμος Πύργου,459.2,47995,44482,-3513,-0.073,105,97,Pyrgos,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Iardanos
+Pyrgos,Πύργος,Δήμος Πύργου,459.2,47995,44482,-3513,-0.073,-7.320,105,97,Pyrgos,West Greece,Δυτική Ελλάδα,Elis,Ηλείας,"Iardanos
 Oleni
 Pyrgos
 Volakas"
-Amyntaio,Αμύνταιο,Δήμος Αμυνταίου,590.2,16973,14331,-2642,-0.156,29,24,Amyntaio,Western Macedonia,Δυτική Μακεδονία,Florina,Φλώρινας,"Aetos
+Amyntaio,Αμύνταιο,Δήμος Αμυνταίου,590.2,16973,14331,-2642,-0.156,-15.566,29,24,Amyntaio,Western Macedonia,Δυτική Μακεδονία,Florina,Φλώρινας,"Aetos
 Amyntaio
 Filotas
 Lechovo
 Nymfaio
 Variko"
-Orestida,Ορεστίδα,Δήμος Άργους-Ορεστικού,342.5,11802,10633,-1169,-0.099,34,31,Argos Orestiko,Western Macedonia,Δυτική Μακεδονία,Kastoria,Καστοριάς,"Argos Orestiko
+Orestida,Ορεστίδα,Δήμος Άργους-Ορεστικού,342.5,11802,10633,-1169,-0.099,-9.905,34,31,Argos Orestiko,Western Macedonia,Δυτική Μακεδονία,Kastoria,Καστοριάς,"Argos Orestiko
 Ion Dragoumis"
-Velventos,Βελβεντός,Δήμος Βελβεντού,127.1,3448,3060,-388,-0.113,27,24,Velventos,Western Macedonia,Δυτική Μακεδονία,Kozani,Κοζάνη,Velventos
-Voio,Βοΐο,Δήμος Βοΐου,1007.7,18386,15080,-3306,-0.180,18,15,Siatista,Western Macedonia,Δυτική Μακεδονία,Kozani,Κοζάνη,"Askio
+Velventos,Βελβεντός,Δήμος Βελβεντού,127.1,3448,3060,-388,-0.113,-11.253,27,24,Velventos,Western Macedonia,Δυτική Μακεδονία,Kozani,Κοζάνη,Velventos
+Voio,Βοΐο,Δήμος Βοΐου,1007.7,18386,15080,-3306,-0.180,-17.981,18,15,Siatista,Western Macedonia,Δυτική Μακεδονία,Kozani,Κοζάνη,"Askio
 Neapoli
 Pentalofos
 Siatista
 Tsotyli"
-Grevena,Γρεβενά,Δήμος Γρεβενών,1862.4,25905,21440,-4465,-0.172,14,12,Grevena,Western Macedonia,Δυτική Μακεδονία,Voiotia,Βοιωτίας,"Kosmas o Aitolos
+Grevena,Γρεβενά,Δήμος Γρεβενών,1862.4,25905,21440,-4465,-0.172,-17.236,14,12,Grevena,Western Macedonia,Δυτική Μακεδονία,Voiotia,Βοιωτίας,"Kosmas o Aitolos
 Avdella
 Filippaioi
 Gorgiani
@@ -312,14 +312,14 @@ Samarina
 Smixi
 Theodoros Ziakas
 Ventzio"
-Deskati,Δεσκάτη,Δήμος Δεσκάτης,433.3,5853,5205,-648,-0.111,14,12,Deskati,Western Macedonia,Δυτική Μακεδονία,Voiotia,Βοιωτίας,"Chasia
+Deskati,Δεσκάτη,Δήμος Δεσκάτης,433.3,5853,5205,-648,-0.111,-11.071,14,12,Deskati,Western Macedonia,Δυτική Μακεδονία,Voiotia,Βοιωτίας,"Chasia
 Deskati"
-Eordaia,Εορδαία,Δήμος Εορδαίας,709.1,45592,42414,-3178,-0.070,64,60,Ptolemaida,Western Macedonia,Δυτική Μακεδονία,Kozani,Κοζάνη,"Agia Paraskevi
+Eordaia,Εορδαία,Δήμος Εορδαίας,709.1,45592,42414,-3178,-0.070,-6.971,64,60,Ptolemaida,Western Macedonia,Δυτική Μακεδονία,Kozani,Κοζάνη,"Agia Paraskevi
 Mouriki
 Ptolemaida
 Vermio
 Vlasti"
-Kastoria,Καστοριά,Δήμος Καστοριάς,763.9,35874,33227,-2647,-0.074,47,43,Kastoria,Western Macedonia,Δυτική Μακεδονία,Kastoria,Καστοριάς,"Agia Triada
+Kastoria,Καστοριά,Δήμος Καστοριάς,763.9,35874,33227,-2647,-0.074,-7.379,47,43,Kastoria,Western Macedonia,Δυτική Μακεδονία,Kastoria,Καστοριάς,"Agia Triada
 Agioi Anargyroi
 Kastoria
 Kastraki
@@ -328,113 +328,113 @@ Korestia
 Makednoi
 Mesopotamia
 Vitsi"
-Kozani,Κοζάνη,Δήμος Κοζάνης,1072.8,71388,67161,-4227,-0.059,67,63,Kozani,Western Macedonia,Δυτική Μακεδονία,Kozani,Κοζάνη,"Dimitrios Ypsilantis
+Kozani,Κοζάνη,Δήμος Κοζάνης,1072.8,71388,67161,-4227,-0.059,-5.921,67,63,Kozani,Western Macedonia,Δυτική Μακεδονία,Kozani,Κοζάνη,"Dimitrios Ypsilantis
 Aiani
 Elimeia
 Ellispontos
 Kozani"
-Nestorio,Νεστόριο,Δήμος Νεστορίου,620.2,2646,2188,-458,-0.173,4,4,Nestorio,Western Macedonia,Δυτική Μακεδονία,Kastoria,Καστοριάς,"Akrites
+Nestorio,Νεστόριο,Δήμος Νεστορίου,620.2,2646,2188,-458,-0.173,-17.309,4,4,Nestorio,Western Macedonia,Δυτική Μακεδονία,Kastoria,Καστοριάς,"Akrites
 Arrenes
 Gramos
 Nestorio"
-Prespes,Πρέσπες,Δήμος Πρεσπών,518.7,1560,1220,-340,-0.218,3,2,Laimos,Western Macedonia,Δυτική Μακεδονία,Florina,Φλώρινας,"Krystallopigi
+Prespes,Πρέσπες,Δήμος Πρεσπών,518.7,1560,1220,-340,-0.218,-21.795,3,2,Laimos,Western Macedonia,Δυτική Μακεδονία,Florina,Φλώρινας,"Krystallopigi
 Prespes"
-Servia,Σέρβια,Δήμος Σερβίων,600.1,11382,9486,-1896,-0.167,19,16,Servia,Western Macedonia,Δυτική Μακεδονία,Kozani,Κοζάνη,"Kamvounia
+Servia,Σέρβια,Δήμος Σερβίων,600.1,11382,9486,-1896,-0.167,-16.658,19,16,Servia,Western Macedonia,Δυτική Μακεδονία,Kozani,Κοζάνη,"Kamvounia
 Livadero
 Servia"
-Florina,Φλώρινα,Δήμος Φλώρινας,822.7,32881,29611,-3270,-0.099,40,12,Florina,Western Macedonia,Δυτική Μακεδονία,Florina,Φλώρινας,"Florina
+Florina,Φλώρινα,Δήμος Φλώρινας,822.7,32881,29611,-3270,-0.099,-9.945,40,12,Florina,Western Macedonia,Δυτική Μακεδονία,Florina,Φλώρινας,"Florina
 Kato Kleines
 Meliti
 Perasma"
-Arta,Άρτα,Δήμος Αρταίων,401.6,43166,41633,-1533,-0.036,107,104,Arta,Epirus,Ήπειρος,Arta,Άρτης,"Amvrakikos
+Arta,Άρτα,Δήμος Αρταίων,401.6,43166,41633,-1533,-0.036,-3.551,107,104,Arta,Epirus,Ήπειρος,Arta,Άρτης,"Amvrakikos
 Arta
 Filothei
 Vlacherna
 Xirovouni"
-North Tzoumerka,Βορεία Τζουμέρκα,Δήμος Βορείων Τζουμέρκων,357.7,5714,5075,-639,-0.112,16,14,Pramanta,Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Kalarites
+North Tzoumerka,Βορεία Τζουμέρκα,Δήμος Βορείων Τζουμέρκων,357.7,5714,5075,-639,-0.112,-11.183,16,14,Pramanta,Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Kalarites
 Katsanochoria
 Matsouki
 Pramanta
 Sirako
 Tzoumerka
 Vathypedo"
-Georgios Karaiskakis,Γεώργιος Καραϊσκάκης,Δήμος Γεωργίου Καραϊσκάκη,464.7,5780,5321,-459,-0.079,12,11,Ano Kalentini [el],Epirus,Ήπειρος,Arta,Άρτης,"Georgios Karaiskakis
+Georgios Karaiskakis,Γεώργιος Καραϊσκάκης,Δήμος Γεωργίου Καραϊσκάκη,464.7,5780,5321,-459,-0.079,-7.941,12,11,Ano Kalentini [el],Epirus,Ήπειρος,Arta,Άρτης,"Georgios Karaiskakis
 Irakleia
 Tetrafylia"
-Dodoni,Δωδώνη,Δήμος Δωδώνης,659.8,9693,7258,-2435,-0.251,15,11,Agia Kyriaki [el],Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Agios Dimitrios
+Dodoni,Δωδώνη,Δήμος Δωδώνης,659.8,9693,7258,-2435,-0.251,-25.121,15,11,Agia Kyriaki [el],Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Agios Dimitrios
 Dodoni
 Selloi
 Lakka Souliou"
-Zagori,Ζαγόρι,Δήμος Ζαγορίου,992.6,3724,3384,-340,-0.091,4,3,Asprangeloi [el],Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Central Zagori
+Zagori,Ζαγόρι,Δήμος Ζαγορίου,992.6,3724,3384,-340,-0.091,-9.130,4,3,Asprangeloi [el],Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Central Zagori
 East Zagori
 Papingo
 Tymfi
 Vovousa"
-Ziros,Ζηρός,Δήμος Ζηρού,382.7,13892,13071,-821,-0.059,36,34,Filippiada,Epirus,Ήπειρος,Preveza,Πρεβέζης,"Anogeio
+Ziros,Ζηρός,Δήμος Ζηρού,382.7,13892,13071,-821,-0.059,-5.910,36,34,Filippiada,Epirus,Ήπειρος,Preveza,Πρεβέζης,"Anogeio
 Filippiada
 Kranea
 Thesprotiko"
-Zitsa,Ζίτσα,Δήμος Ζίτσας,568.2,14766,13630,-1136,-0.077,26,24,Eleousa,Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Ekali
+Zitsa,Ζίτσα,Δήμος Ζίτσας,568.2,14766,13630,-1136,-0.077,-7.693,26,24,Eleousa,Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Ekali
 Evrymenes
 Molossoi
 Pasaronas
 Zitsa"
-Igoumenitsa,Ηγουμενίτσα,Δήμος Ηγουμενίτσας,430.5,25814,25709,-105,-0.004,60,60,Igoumenitsa,Epirus,Ήπειρος,Thesprotia,Θεσπρωτίας,"Igoumenitsa
+Igoumenitsa,Ηγουμενίτσα,Δήμος Ηγουμενίτσας,430.5,25814,25709,-105,-0.004,-0.407,60,60,Igoumenitsa,Epirus,Ήπειρος,Thesprotia,Θεσπρωτίας,"Igoumenitsa
 Margariti
 Parapotamos
 Perdika
 Syvota"
-Ioannina,Ιωάννινα,Δήμος Ιωαννιτών,403.0,112486,113094,608,0.005,279,281,Ioannina,Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Anatoli
+Ioannina,Ιωάννινα,Δήμος Ιωαννιτών,403.0,112486,113094,608,0.005,0.541,279,281,Ioannina,Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Anatoli
 Bizani
 Ioannina
 Ioannina Island
 Pamvotida
 Perama"
-Central Tzoumerka,Κεντρικά Τζουμέρκα,Δήμος Κεντρικών Τζουμέρκων,510.4,6178,5562,-616,-0.100,12,11,Vourgareli,Epirus,Ήπειρος,Arta,Άρτης,"Agnanta
+Central Tzoumerka,Κεντρικά Τζουμέρκα,Δήμος Κεντρικών Τζουμέρκων,510.4,6178,5562,-616,-0.100,-9.971,12,11,Vourgareli,Epirus,Ήπειρος,Arta,Άρτης,"Agnanta
 Athamania
 Melissourgoi
 Theodoriana"
-Konitsa,Κόνιτσα,Δήμος Κόνιτσας,953.6,6362,5325,-1037,-0.163,7,6,Konitsa,Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Aetomilitsa
+Konitsa,Κόνιτσα,Δήμος Κόνιτσας,953.6,6362,5325,-1037,-0.163,-16.300,7,6,Konitsa,Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Aetomilitsa
 Distrato
 Fourka
 Konitsa
 Mastorochoria"
-Metsovo,Μέτσοβο,Δήμος Μετσόβου,363.3,6196,5429,-767,-0.124,17,15,Metsovo,Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Egnatia
+Metsovo,Μέτσοβο,Δήμος Μετσόβου,363.3,6196,5429,-767,-0.124,-12.379,17,15,Metsovo,Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Egnatia
 Metsovo
 Milea"
-Nikolaos Skoufas,Νικόλαος Σκουφάς,Δήμος Νικολάου Σκουφά,231.6,12753,11411,-1342,-0.105,55,49,Peta,Epirus,Ήπειρος,Arta,Άρτης,"Arachthos
+Nikolaos Skoufas,Νικόλαος Σκουφάς,Δήμος Νικολάου Σκουφά,231.6,12753,11411,-1342,-0.105,-10.523,55,49,Peta,Epirus,Ήπειρος,Arta,Άρτης,"Arachthos
 Kommeno
 Kompoti
 Peta"
-Parga,Πάργα,Δήμος Πάργας,275.2,11866,10771,-1095,-0.092,43,39,Kanallaki,Epirus,Ήπειρος,Preveza,Πρεβέζης,"Fanari
+Parga,Πάργα,Δήμος Πάργας,275.2,11866,10771,-1095,-0.092,-9.228,43,39,Kanallaki,Epirus,Ήπειρος,Preveza,Πρεβέζης,"Fanari
 Parga"
-Preveza,Πρέβεζα,Δήμος Πρέβεζας,378.9,31733,30893,-840,-0.026,84,82,Preveza,Epirus,Ήπειρος,Preveza,Πρεβέζης,"Louros
+Preveza,Πρέβεζα,Δήμος Πρέβεζας,378.9,31733,30893,-840,-0.026,-2.647,84,82,Preveza,Epirus,Ήπειρος,Preveza,Πρεβέζης,"Louros
 Preveza
 Zalongo"
-Pogoni,Πωγώνι,Δήμος Πωγωνίου,702.0,8960,6859,-2101,-0.234,13,10,Kalpaki,Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Ano Kalamas
+Pogoni,Πωγώνι,Δήμος Πωγωνίου,702.0,8960,6859,-2101,-0.234,-23.449,13,10,Kalpaki,Epirus,Ήπειρος,Ioannina,Ιωαννίνων,"Ano Kalamas
 Ano Pogoni
 Delvinaki
 Kalpaki
 Lavdani
 Pogoniani"
-Souli,Σούλι,Δήμος Σουλίου,502.2,10063,8767,-1296,-0.129,20,17,Paramythia,Epirus,Ήπειρος,Thesprotia,Θεσπρωτίας,"Acherontas
+Souli,Σούλι,Δήμος Σουλίου,502.2,10063,8767,-1296,-0.129,-12.879,20,17,Paramythia,Epirus,Ήπειρος,Thesprotia,Θεσπρωτίας,"Acherontas
 Paramythia
 Souli"
-Filiates,Φιλιάτες,Δήμος Φιλιατών,587.6,7710,6351,-1359,-0.176,13,15,Filiates,Epirus,Ήπειρος,Thesprotia,Θεσπρωτίας,"Filiates
+Filiates,Φιλιάτες,Δήμος Φιλιατών,587.6,7710,6351,-1359,-0.176,-17.626,13,15,Filiates,Epirus,Ήπειρος,Thesprotia,Θεσπρωτίας,"Filiates
 Sagiada"
-Agia,Αγιά,Δήμος Αγιάς,663.9,11470,10705,-765,-0.067,17,16,Agia,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Agia
+Agia,Αγιά,Δήμος Αγιάς,663.9,11470,10705,-765,-0.067,-6.670,17,16,Agia,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Agia
 Evrymenes
 Lakereia
 Melivoia"
-Almyros,Αλμυρός,Δήμος Αλμυρού,908.4,18614,16004,-2610,-0.140,20,18,Almyros,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,"Almyros
+Almyros,Αλμυρός,Δήμος Αλμυρού,908.4,18614,16004,-2610,-0.140,-14.022,20,18,Almyros,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,"Almyros
 Anavra
 Pteleos
 Sourpi"
-Alonnisos,Αλόννησος,Δήμος Αλοννήσου,129.8,2750,3153,403,0.147,21,24,Alonnisos,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,Alonnisos
-Argithea,Αργιθέα,Δήμος Αργιθέας,373.5,3450,3515,65,0.019,9,9,Anthiro,Thessaly,Θεσσαλία,Karditsa,Καρδίτσας,"Acheloos
+Alonnisos,Αλόννησος,Δήμος Αλοννήσου,129.8,2750,3153,403,0.147,14.655,21,24,Alonnisos,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,Alonnisos
+Argithea,Αργιθέα,Δήμος Αργιθέας,373.5,3450,3515,65,0.019,1.884,9,9,Anthiro,Thessaly,Θεσσαλία,Karditsa,Καρδίτσας,"Acheloos
 Argithea
 Anatoliki Argithea"
-Volos,Βόλος,Δήμος Βόλου,385.4,144449,138865,-5584,-0.039,375,360,Volos,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,"Agria
+Volos,Βόλος,Δήμος Βόλου,385.4,144449,138865,-5584,-0.039,-3.866,375,360,Volos,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,"Agria
 Artemida
 Aisonia
 Iolkos
@@ -443,7 +443,7 @@ Nea Anchialos
 Nea Ionia
 Portaria
 Volos"
-Elassona,Ελασσόνα,Δήμος Ελασσόνας,1568.4,32121,25441,-6680,-0.208,20,16,Elassona,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Antichasia
+Elassona,Ελασσόνα,Δήμος Ελασσόνας,1568.4,32121,25441,-6680,-0.208,-20.796,20,16,Elassona,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Antichasia
 Elassona
 Karya
 Livadi
@@ -452,24 +452,24 @@ Potamia
 Sarantaporo
 Tsaritsani
 Verdikoussa"
-Zagora-Mouresi,Ζαγορά-Μουρέσι,Δήμος Ζαγοράς-Μουρεσίου,150.7,5809,4556,-1253,-0.216,39,30,Zagora,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,"Mouresi
+Zagora-Mouresi,Ζαγορά-Μουρέσι,Δήμος Ζαγοράς-Μουρεσίου,150.7,5809,4556,-1253,-0.216,-21.570,39,30,Zagora,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,"Mouresi
 Zagora"
-Karditsa,Καρδίτσα,Δήμος Καρδίτσας,650.7,56747,56641,-106,-0.002,87,87,Karditsa,Thessaly,Θεσσαλία,Karditsa,Καρδίτσας,"Itamos
+Karditsa,Καρδίτσα,Δήμος Καρδίτσας,650.7,56747,56641,-106,-0.002,-0.187,87,87,Karditsa,Thessaly,Θεσσαλία,Karditsa,Καρδίτσας,"Itamos
 Kallifono
 Kampos
 Karditsa
 Mitropoli"
-Kileler,Κιλελέρ,Δήμος Κιλελέρ,976.3,20854,18068,-2786,-0.134,21,19,Nikaia,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Armenio
+Kileler,Κιλελέρ,Δήμος Κιλελέρ,976.3,20854,18068,-2786,-0.134,-13.360,21,19,Nikaia,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Armenio
 Kileler
 Krannonas
 Nikaia
 Platykampos"
-Larissa,Λάρισα,Δήμος Λαρισαίων,336.4,162591,164381,1790,0.011,483,489,Larissa,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Giannouli
+Larissa,Λάρισα,Δήμος Λαρισαίων,336.4,162591,164381,1790,0.011,1.101,483,489,Larissa,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Giannouli
 Koilada
 Larissa"
-Lake Plastiras,Λίμνη Πλαστήρα,Δήμος Λίμνης Πλαστήρα,197.2,4635,5285,650,0.140,24,27,Morfovouni [el],Thessaly,Θεσσαλία,Karditsa,Καρδίτσας,"Nevropoli Agrafon
+Lake Plastiras,Λίμνη Πλαστήρα,Δήμος Λίμνης Πλαστήρα,197.2,4635,5285,650,0.140,14.024,24,27,Morfovouni [el],Thessaly,Θεσσαλία,Karditsa,Καρδίτσας,"Nevropoli Agrafon
 Plastiras"
-Kalambaka,Καλαμπάκα,Δήμος Μετεώρων,1658.8,21991,19290,-2701,-0.123,13,12,Kalambaka,Thessaly,Θεσσαλία,Trikala,Τρικάλων,"Aspropotamos
+Kalambaka,Καλαμπάκα,Δήμος Μετεώρων,1658.8,21991,19290,-2701,-0.123,-12.282,13,12,Kalambaka,Thessaly,Θεσσαλία,Trikala,Τρικάλων,"Aspropotamos
 Chasia
 Kalambaka
 Kastania
@@ -477,40 +477,40 @@ Kleino
 Malakasi
 Tymfaia
 Vasiliki"
-Mouzaki,Μουζάκι,Δήμος Μουζακίου,313.3,13122,11264,-1858,-0.142,42,36,Mouzaki,Thessaly,Θεσσαλία,Karditsa,Καρδίτσας,"Ithomi
+Mouzaki,Μουζάκι,Δήμος Μουζακίου,313.3,13122,11264,-1858,-0.142,-14.159,42,36,Mouzaki,Thessaly,Θεσσαλία,Karditsa,Καρδίτσας,"Ithomi
 Mouzaki
 Pamisos"
-South Pelion,Νοτιό Πήλιο,Δήμος Νοτίου Πηλίου,369.5,10216,8322,-1894,-0.185,28,23,Argalasti,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,"Afetes
+South Pelion,Νοτιό Πήλιο,Δήμος Νοτίου Πηλίου,369.5,10216,8322,-1894,-0.185,-18.540,28,23,Argalasti,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,"Afetes
 Argalasti
 Milies
 Sipiada
 Trikeri"
-Palamas,Παλαμάς,Δήμος Παλαμά,382.3,16726,13416,-3310,-0.198,44,35,Palamas,Thessaly,Θεσσαλία,Karditsa,Καρδίτσας,"Fyllo
+Palamas,Παλαμάς,Δήμος Παλαμά,382.3,16726,13416,-3310,-0.198,-19.790,44,35,Palamas,Thessaly,Θεσσαλία,Karditsa,Καρδίτσας,"Fyllo
 Palamas
 Sellana"
-Pyli,Πύλη,Δήμος Πύλης,750.8,14343,12915,-1428,-0.100,19,17,Pyli,Thessaly,Θεσσαλία,Trikala,Τρικάλων,"Gomfoi
+Pyli,Πύλη,Δήμος Πύλης,750.8,14343,12915,-1428,-0.100,-9.956,19,17,Pyli,Thessaly,Θεσσαλία,Trikala,Τρικάλων,"Gomfoi
 Aithikes
 Myrofyllo
 Neraida
 Pialeia
 Pyli
 Pindos"
-Rigas Feraios,Ρήγας Φεραίος,Δήμος Ρήγα Φεραίου,550.3,10922,8841,-2081,-0.191,20,16,Velestino,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,"Feres
+Rigas Feraios,Ρήγας Φεραίος,Δήμος Ρήγα Φεραίου,550.3,10922,8841,-2081,-0.191,-19.053,20,16,Velestino,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,"Feres
 Karla
 Keramidi"
-Skiathos,Σκιάθος,Δήμος Σκιάθου,49.4,6088,5499,-589,-0.097,123,111,Skiathos,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,Skiathos
-Skopelos,Σκόπελος,Δήμος Σκοπέλου,96.0,4960,4377,-583,-0.118,52,46,Skopelos,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,Skopelos
-Sofades,Σοφάδες,Δήμος Σοφάδων,720.5,18864,16577,-2287,-0.121,26,23,Sofades,Thessaly,Θεσσαλία,Karditsa,Καρδίτσας,"Arni
+Skiathos,Σκιάθος,Δήμος Σκιάθου,49.4,6088,5499,-589,-0.097,-9.675,123,111,Skiathos,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,Skiathos
+Skopelos,Σκόπελος,Δήμος Σκοπέλου,96.0,4960,4377,-583,-0.118,-11.754,52,46,Skopelos,Thessaly,Θεσσαλία,Magnesia,Μαγνησίας,Skopelos
+Sofades,Σοφάδες,Δήμος Σοφάδων,720.5,18864,16577,-2287,-0.121,-12.124,26,23,Sofades,Thessaly,Θεσσαλία,Karditsa,Καρδίτσας,"Arni
 Menelaida
 Rentina
 Sofades
 Tamasio"
-Tempi,Τέμπη,Δήμος Τεμπών,576.3,13712,11994,-1718,-0.125,24,21,Makrychori,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Ambelakia
+Tempi,Τέμπη,Δήμος Τεμπών,576.3,13712,11994,-1718,-0.125,-12.529,24,21,Makrychori,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Ambelakia
 Gonnoi
 Kato Olympos
 Makrychori
 Nessonas"
-Trikala,Τρίκαλα,Δήμος Τρικκαίων,609.4,81355,78508,-2847,-0.035,133,129,Trikala,Thessaly,Θεσσαλία,Trikala,Τρικάλων,"Estiaiotida
+Trikala,Τρίκαλα,Δήμος Τρικκαίων,609.4,81355,78508,-2847,-0.035,-3.499,133,129,Trikala,Thessaly,Θεσσαλία,Trikala,Τρικάλων,"Estiaiotida
 Faloreia
 Kallidendro
 Koziakas
@@ -518,33 +518,33 @@ Megala Kalyvia
 Paliokastro
 Paralithaioi
 Trikala"
-Tyrnavos,Τύρναβος,Δήμος Τυρνάβου,525.5,25032,22252,-2780,-0.111,48,42,Tyrnavos,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Ampelonas
+Tyrnavos,Τύρναβος,Δήμος Τυρνάβου,525.5,25032,22252,-2780,-0.111,-11.106,48,42,Tyrnavos,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Ampelonas
 Tyrnavos"
-Farkadona,Φαρκαδόνα,Δήμος Φαρκαδόνας,368.8,13396,11348,-2048,-0.153,36,31,Farkadona,Thessaly,Θεσσαλία,Trikala,Τρικάλων,"Farkadona
+Farkadona,Φαρκαδόνα,Δήμος Φαρκαδόνας,368.8,13396,11348,-2048,-0.153,-15.288,36,31,Farkadona,Thessaly,Θεσσαλία,Trikala,Τρικάλων,"Farkadona
 Oichalia
 Pelinnaioi"
-Farsala,Φάρσαλα,Δήμος Φαρσάλων,740.2,18545,16310,-2235,-0.121,25,22,Farsala,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Enippeas
+Farsala,Φάρσαλα,Δήμος Φαρσάλων,740.2,18545,16310,-2235,-0.121,-12.052,25,22,Farsala,Thessaly,Θεσσαλία,Larisa,Λάρισας,"Enippeas
 Farsala
 Narthaki
 Polydamantas"
-Argostoli,Αργοστόλι,Δήμος Αργοστολίου,377.0,23499,22388,-1111,-0.047,62,59,Argostoli,Ionian Islands,Ιόνιες Νήσοι,"
+Argostoli,Αργοστόλι,Δήμος Αργοστολίου,377.0,23499,22388,-1111,-0.047,-4.728,62,59,Argostoli,Ionian Islands,Ιόνιες Νήσοι,"
 Kefalonia",Κεφαλληνίας,"Argostoli
 Eleios-Pronnoi
 Leivathos
 Omala"
-North Corfu,Βόρεια Κέρκυρα,Δήμος Βόρειας Κέρκυρας,205.3,17832,17455,-377,-0.021,87,85,Acharavi,Ionian Islands,Ιόνιες Νήσοι,Kerkyra,Κέρκυρας,"Agios Georgios, Corfu
+North Corfu,Βόρεια Κέρκυρα,Δήμος Βόρειας Κέρκυρας,205.3,17832,17455,-377,-0.021,-2.114,87,85,Acharavi,Ionian Islands,Ιόνιες Νήσοι,Kerkyra,Κέρκυρας,"Agios Georgios, Corfu
 Esperies
 Thinali
 Kasopaia"
-Zakynthos,Ζάκυνθος,Δήμος Ζακύνθου,407.3,40759,40508,-251,-0.006,100,99,Zakynthos (city),Ionian Islands,Ιόνιες Νήσοι,Zakynthos,Ζακύνθου,"Alykes
+Zakynthos,Ζάκυνθος,Δήμος Ζακύνθου,407.3,40759,40508,-251,-0.006,-0.616,100,99,Zakynthos (city),Ionian Islands,Ιόνιες Νήσοι,Zakynthos,Ζακύνθου,"Alykes
 Arkadioi
 Artemisia
 Elatia
 Laganas
 Zakynthos (city)"
-Ithaca,Ιθάκη,Δήμος Ιθάκης,117.0,3231,2774,-457,-0.141,28,24,Vathy [el],Ionian Islands,Ιόνιες Νήσοι,"
+Ithaca,Ιθάκη,Δήμος Ιθάκης,117.0,3231,2774,-457,-0.141,-14.144,28,24,Vathy [el],Ionian Islands,Ιόνιες Νήσοι,"
 Kefalonia",Κεφαλληνίας,Ithaca
-Central Corfu and Diapontia Islands,Κέρκυρα και Διαπόντιοι Νήσοι,Δήμος Κεντρικής Κέρκυρας και Διαπόντιων Νήσων,259.5,68558,65237,-3321,-0.048,264,251,Corfu (city),Ionian Islands,Ιόνιες Νήσοι,Kerkyra,Κέρκυρας,"Achilleio
+Central Corfu and Diapontia Islands,Κέρκυρα και Διαπόντιοι Νήσοι,Δήμος Κεντρικής Κέρκυρας και Διαπόντιων Νήσων,259.5,68558,65237,-3321,-0.048,-4.844,264,251,Corfu (city),Ionian Islands,Ιόνιες Νήσοι,Kerkyra,Κέρκυρας,"Achilleio
 Corfu
 Ereikoussa
 Faiakes
@@ -552,267 +552,267 @@ Mathraki
 Othonoi
 Palaiokastritsa
 Parelioi"
-Lefkada,Λευκάδα,Δήμος Λευκάδας,331.8,22652,21759,-893,-0.039,68,66,Lefkada (city),Ionian Islands,Ιόνιες Νήσοι,Lefkada,Λευκάδος,"Apollonioi
+Lefkada,Λευκάδα,Δήμος Λευκάδας,331.8,22652,21759,-893,-0.039,-3.942,68,66,Lefkada (city),Ionian Islands,Ιόνιες Νήσοι,Lefkada,Λευκάδος,"Apollonioi
 Ellomenos
 Karya
 Sfakiotes
 Kalamos
 Kastos
 Lefkada (city)"
-Lixouri,Ληξούρι,Δήμος Ληξουρίου,119.6,7098,7025,-73,-0.010,59,59,Lixouri,Ionian Islands,Ιόνιες Νήσοι,"
+Lixouri,Ληξούρι,Δήμος Ληξουρίου,119.6,7098,7025,-73,-0.010,-1.028,59,59,Lixouri,Ionian Islands,Ιόνιες Νήσοι,"
 Kefalonia",Κεφαλληνίας,Paliki
-Meganisi,Μεγανήσι,Δήμος Μεγανησίου,23.1,1041,914,-127,-0.122,45,40,Meganisi,Ionian Islands,Ιόνιες Νήσοι,Lefkada,Λευκάδος,Meganisi
-South Corfu,Νότια Κέρκυρα,Δήμος Νότιας Κέρκυρας,145.0,15681,14772,-909,-0.058,108,102,Lefkimmi,Ionian Islands,Ιόνιες Νήσοι,Kerkyra,Κέρκυρας,"Korission
+Meganisi,Μεγανήσι,Δήμος Μεγανησίου,23.1,1041,914,-127,-0.122,-12.200,45,40,Meganisi,Ionian Islands,Ιόνιες Νήσοι,Lefkada,Λευκάδος,Meganisi
+South Corfu,Νότια Κέρκυρα,Δήμος Νότιας Κέρκυρας,145.0,15681,14772,-909,-0.058,-5.797,108,102,Lefkimmi,Ionian Islands,Ιόνιες Νήσοι,Kerkyra,Κέρκυρας,"Korission
 Lefkimmi
 Meliteieon"
-Paxi,Παξοί,Δήμος Παξών,30.1,2300,2383,83,0.036,76,79,Gaios,Ionian Islands,Ιόνιες Νήσοι,Kerkyra,Κέρκυρας,Paxi
-Sami,Σάμης,Δήμος Σάμης,291.2,5204,5511,307,0.059,18,19,Sami,Ionian Islands,Ιόνιες Νήσοι,"
+Paxi,Παξοί,Δήμος Παξών,30.1,2300,2383,83,0.036,3.609,76,79,Gaios,Ionian Islands,Ιόνιες Νήσοι,Kerkyra,Κέρκυρας,Paxi
+Sami,Σάμης,Δήμος Σάμης,291.2,5204,5511,307,0.059,5.899,18,19,Sami,Ionian Islands,Ιόνιες Νήσοι,"
 Kefalonia",Κεφαλληνίας,"Erisos
 Pylaros
 Sami"
-Alexandreia,Αλεξάνδρεια,Δήμος Αλεξάνδρειας,481.6,41570,38293,-3277,-0.079,86,80,Alexandreia,Central Macedonia,Κεντρική Μακεδονία,Imathia,Ημαθίας,"Alexandreia
+Alexandreia,Αλεξάνδρεια,Δήμος Αλεξάνδρειας,481.6,41570,38293,-3277,-0.079,-7.883,86,80,Alexandreia,Central Macedonia,Κεντρική Μακεδονία,Imathia,Ημαθίας,"Alexandreia
 Antigonides
 Meliki
 Platy"
-Almopia,Αλμωπία,Δήμος Αλμωπίας,988.5,27556,24924,-2632,-0.096,28,25,Aridaia,Central Macedonia,Κεντρική Μακεδονία,Pellas,Πέλλας,"Aridaia
+Almopia,Αλμωπία,Δήμος Αλμωπίας,988.5,27556,24924,-2632,-0.096,-9.551,28,25,Aridaia,Central Macedonia,Κεντρική Μακεδονία,Pellas,Πέλλας,"Aridaia
 Exaplatanos"
-Ampelokipoi-Menemeni,Αμπελόκηποι-Μενεμένη,Δήμος Αμπελοκήπων-Μενεμένης,10.3,52127,49674,-2453,-0.047,5085,4823,Ampelokipoi,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Ampelokipoi
+Ampelokipoi-Menemeni,Αμπελόκηποι-Μενεμένη,Δήμος Αμπελοκήπων-Μενεμένης,10.3,52127,49674,-2453,-0.047,-4.706,5085,4823,Ampelokipoi,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Ampelokipoi
 Menemeni"
-Amphipolis,Αμφίπολη,Δήμος Αμφίπολης,411.6,9182,7169,-2013,-0.219,22,17,Rodolivos,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Amphipolis
+Amphipolis,Αμφίπολη,Δήμος Αμφίπολης,411.6,9182,7169,-2013,-0.219,-21.923,22,17,Rodolivos,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Amphipolis
 Kormista
 Proti
 Rodolivos"
-Aristotelis,Αριστοτέλης,Δήμος Αριστοτέλη,748.2,18294,16994,-1300,-0.071,24,23,Ierissos,Central Macedonia,Κεντρική Μακεδονία,Chalkidiki,Χαλκιδικής,"Arnaia
+Aristotelis,Αριστοτέλης,Δήμος Αριστοτέλη,748.2,18294,16994,-1300,-0.071,-7.106,24,23,Ierissos,Central Macedonia,Κεντρική Μακεδονία,Chalkidiki,Χαλκιδικής,"Arnaia
 Panagia
 Stagira-Akanthos"
-Veria,Βέροια,Δήμος Βέροιας,795.3,66547,62064,-4483,-0.067,84,78,Veria,Central Macedonia,Κεντρική Μακεδονία,Imathia,Ημαθίας,"Apostolos Pavlos
+Veria,Βέροια,Δήμος Βέροιας,795.3,66547,62064,-4483,-0.067,-6.737,84,78,Veria,Central Macedonia,Κεντρική Μακεδονία,Imathia,Ημαθίας,"Apostolos Pavlos
 Dovras
 Makedonida
 Vergina
 Veroia"
-Visaltia,Βισαλτία,Δήμος Βισαλτίας,657.6,20030,16032,-3998,-0.200,30,24,Nigrita,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Achinos
+Visaltia,Βισαλτία,Δήμος Βισαλτίας,657.6,20030,16032,-3998,-0.200,-19.960,30,24,Nigrita,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Achinos
 Nigrita
 Tragilos
 Visaltia"
-Volvi,Βόλβη,Δήμος Βόλβης,783.1,23478,19812,-3666,-0.156,30,25,Stavros,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Agios Georgios
+Volvi,Βόλβη,Δήμος Βόλβης,783.1,23478,19812,-3666,-0.156,-15.615,30,25,Stavros,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Agios Georgios
 Apollonia
 Arethousa
 Egnatia
 Madytos
 Rentina"
-Delta,Δέλτα,Δήμος Δέλτα,307.9,45839,45628,-211,-0.005,149,148,Sindos,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Axios
+Delta,Δέλτα,Δήμος Δέλτα,307.9,45839,45628,-211,-0.005,-0.460,149,148,Sindos,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Axios
 Chalastra
 Echedoros"
-Dion-Olympos,Δίο-Όλυμπος,Δήμος Δίου-Ολύμπου,494.4,25668,23984,-1684,-0.066,52,49,Litochoro,Central Macedonia,Κεντρική Μακεδονία,Pierias,Πιερίας,"Dion
+Dion-Olympos,Δίο-Όλυμπος,Δήμος Δίου-Ολύμπου,494.4,25668,23984,-1684,-0.066,-6.561,52,49,Litochoro,Central Macedonia,Κεντρική Μακεδονία,Pierias,Πιερίας,"Dion
 East Olympos
 Litochoro"
-Edessa,Έδεσσα,Δήμος Έδεσσας,611.0,28814,26336,-2478,-0.086,47,43,Edessa,Central Macedonia,Κεντρική Μακεδονία,Pellas,Πέλλας,"Edessa
+Edessa,Έδεσσα,Δήμος Έδεσσας,611.0,28814,26336,-2478,-0.086,-8.600,47,43,Edessa,Central Macedonia,Κεντρική Μακεδονία,Pellas,Πέλλας,"Edessa
 Vegoritida"
-Emmanouil Pappas,Εμμανουήλ Παππάς,Δήμος Εμμανουήλ Παππά,337.1,14664,11574,-3090,-0.211,43,34,Chryso,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Emmanouil Pappas
+Emmanouil Pappas,Εμμανουήλ Παππάς,Δήμος Εμμανουήλ Παππά,337.1,14664,11574,-3090,-0.211,-21.072,43,34,Chryso,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Emmanouil Pappas
 Strymonas"
-Irakleia,Ηράκλεια,Δήμος Ηρακλείας,453.1,21145,15711,-5434,-0.257,47,35,Irakleia,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Irakleia
+Irakleia,Ηράκλεια,Δήμος Ηρακλείας,453.1,21145,15711,-5434,-0.257,-25.699,47,35,Irakleia,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Irakleia
 Skotoussa
 Strymoniko"
-Thermaikos,Θερμαϊκός,Δήμος Θερμαϊκού,133.8,50264,45450,-4814,-0.096,376,340,Peraia,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Epanomi
+Thermaikos,Θερμαϊκός,Δήμος Θερμαϊκού,133.8,50264,45450,-4814,-0.096,-9.577,376,340,Peraia,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Epanomi
 Michaniona
 Thermaikos"
-Thermi,Θέρμη,Δήμος Θέρμης,382.9,53201,55238,2037,0.038,139,144,Thermi,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Mikra
+Thermi,Θέρμη,Δήμος Θέρμης,382.9,53201,55238,2037,0.038,3.829,139,144,Thermi,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Mikra
 Thermi
 Vasilika"
-Thessaloniki,Θεσσαλονίκη,Δήμος Θεσσαλονίκης,19.7,325182,317778,-7404,-0.023,16527,16131,Thessaloniki,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Thessaloniki
+Thessaloniki,Θεσσαλονίκη,Δήμος Θεσσαλονίκης,19.7,325182,317778,-7404,-0.023,-2.277,16527,16131,Thessaloniki,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Thessaloniki
 Triandria"
-Kalamaria,Καλαμαριά,Δήμος Καλαμαριάς,6.5,91518,92238,720,0.008,14039,14190,Kalamaria,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,Kalamaria
-Kassandra,Κασσάνδρα,Δήμος Κασσάνδρας,336.1,16672,16958,286,0.017,50,50,Kassandreia,Central Macedonia,Κεντρική Μακεδονία,Chalkidiki,Χαλκιδικής,"Kassandra
+Kalamaria,Καλαμαριά,Δήμος Καλαμαριάς,6.5,91518,92238,720,0.008,0.787,14039,14190,Kalamaria,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,Kalamaria
+Kassandra,Κασσάνδρα,Δήμος Κασσάνδρας,336.1,16672,16958,286,0.017,1.715,50,50,Kassandreia,Central Macedonia,Κεντρική Μακεδονία,Chalkidiki,Χαλκιδικής,"Kassandra
 Pallini"
-Katerini,Κατερίνη,Δήμος Κατερίνης,684.0,85851,82971,-2880,-0.034,126,121,Katerini,Central Macedonia,Κεντρική Μακεδονία,Pierias,Πιερίας,"Elafina
+Katerini,Κατερίνη,Δήμος Κατερίνης,684.0,85851,82971,-2880,-0.034,-3.355,126,121,Katerini,Central Macedonia,Κεντρική Μακεδονία,Pierias,Πιερίας,"Elafina
 Katerini
 Korinos
 Olympiaki Akti
 Paralia
 Petra
 Pierioi"
-Kilkis,Κιλκίς,Δήμος Κιλκίς,1599.8,51926,45489,-6437,-0.124,32,28,Kilkis,Central Macedonia,Κεντρική Μακεδονία,Kilkis,Κιλκίς,"Cherso
+Kilkis,Κιλκίς,Δήμος Κιλκίς,1599.8,51926,45489,-6437,-0.124,-12.396,32,28,Kilkis,Central Macedonia,Κεντρική Μακεδονία,Kilkis,Κιλκίς,"Cherso
 Doirani
 Gallikos
 Kilkis
 Kroussa
 Mouries
 Pikrolimni"
-Kordelio-Evosmos,Κορδελιό-Εύοσμος,Δήμος Κορδελιού-Ευόσμου,13.4,101753,105426,3673,0.036,7613,7868,Evosmos,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Eleftherio-Kordelio
+Kordelio-Evosmos,Κορδελιό-Εύοσμος,Δήμος Κορδελιού-Ευόσμου,13.4,101753,105426,3673,0.036,3.610,7613,7868,Evosmos,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Eleftherio-Kordelio
 Evosmos"
-Langadas,Λαγκαδάς,Δήμος Λαγκαδά,1221.9,41103,37072,-4031,-0.098,34,30,Langadas,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Assiros
+Langadas,Λαγκαδάς,Δήμος Λαγκαδά,1221.9,41103,37072,-4031,-0.098,-9.807,34,30,Langadas,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Assiros
 Kallindoia
 Koroneia
 Lachanas
 Langadas
 Sochos
 Vertiskos"
-Naousa,Νάουσα,Δήμος Νάουσας,425.6,32494,29669,-2825,-0.087,76,70,Naousa,Central Macedonia,Κεντρική Μακεδονία,Imathia,Ημαθίας,"Anthemia
+Naousa,Νάουσα,Δήμος Νάουσας,425.6,32494,29669,-2825,-0.087,-8.694,76,70,Naousa,Central Macedonia,Κεντρική Μακεδονία,Imathia,Ημαθίας,"Anthemia
 Eirinoupoli
 Naousa"
-Neapoli-Sykies,Νεάπολη-Συκιές,Δήμος Νεάπολης-Συκεών,12.5,84741,80851,-3890,-0.046,6783,6468,Sykies,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Agios Pavlos
+Neapoli-Sykies,Νεάπολη-Συκιές,Δήμος Νεάπολης-Συκεών,12.5,84741,80851,-3890,-0.046,-4.590,6783,6468,Sykies,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Agios Pavlos
 Neapoli
 Pefka
 Sykies"
-Nea Zichni,Νέα Ζίχνη,Δήμος Νέας Ζίχνης,403.7,12397,8259,-4138,-0.334,31,20,Nea Zichni,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Alistrati
+Nea Zichni,Νέα Ζίχνη,Δήμος Νέας Ζίχνης,403.7,12397,8259,-4138,-0.334,-33.379,31,20,Nea Zichni,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Alistrati
 Nea Zichni"
-Nea Propontida,Νέα Προποντίδα,Δήμος Νέας Προποντίδας,372.4,36500,34391,-2109,-0.058,98,92,Nea Moudania,Central Macedonia,Κεντρική Μακεδονία,Chalkidiki,Χαλκιδικής,"Kallikrateia
+Nea Propontida,Νέα Προποντίδα,Δήμος Νέας Προποντίδας,372.4,36500,34391,-2109,-0.058,-5.778,98,92,Nea Moudania,Central Macedonia,Κεντρική Μακεδονία,Chalkidiki,Χαλκιδικής,"Kallikrateia
 Moudania
 Triglia"
-Paionia,Παιονία,Δήμος Παιονίας,925.0,28493,25159,-3334,-0.117,31,27,Polykastro,Central Macedonia,Κεντρική Μακεδονία,Kilkis,Κιλκίς,"Axioupoli
+Paionia,Παιονία,Δήμος Παιονίας,925.0,28493,25159,-3334,-0.117,-11.701,31,27,Polykastro,Central Macedonia,Κεντρική Μακεδονία,Kilkis,Κιλκίς,"Axioupoli
 Evropos
 Goumenissa
 Livadia
 Polykastro"
-Pavlos Melas,Παύλος Μελάς,Δήμος Παύλου Μελά,24.2,99245,99969,724,0.007,4109,4131,Stavroupoli,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Efkarpia
+Pavlos Melas,Παύλος Μελάς,Δήμος Παύλου Μελά,24.2,99245,99969,724,0.007,0.730,4109,4131,Stavroupoli,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Efkarpia
 Polichni
 Stavroupoli"
-Pella,Πέλλα,Δήμος Πέλλας,667.4,63122,56918,-6204,-0.098,95,85,Giannitsa,Central Macedonia,Κεντρική Μακεδονία,Pellas,Πέλλας,"Giannitsa
+Pella,Πέλλα,Δήμος Πέλλας,667.4,63122,56918,-6204,-0.098,-9.829,95,85,Giannitsa,Central Macedonia,Κεντρική Μακεδονία,Pellas,Πέλλας,"Giannitsa
 Krya Vrysi
 Kyrros
 Megas Alexandros
 Pella"
-Polygyros,Πολύγυρος,Δήμος Πολυγύρου,947.0,22048,21350,-698,-0.032,23,23,Polygyros,Central Macedonia,Κεντρική Μακεδονία,Chalkidiki,Χαλκιδικής,"Anthemountas
+Polygyros,Πολύγυρος,Δήμος Πολυγύρου,947.0,22048,21350,-698,-0.032,-3.166,23,23,Polygyros,Central Macedonia,Κεντρική Μακεδονία,Chalkidiki,Χαλκιδικής,"Anthemountas
 Ormylia
 Polygyros
 Zervochoria"
-Pydna-Kolindros,Πύδνα-Κολινδρός,Δήμος Πύδνας-Κολινδρού,346.0,15179,12531,-2648,-0.174,44,36,Aiginio,Central Macedonia,Κεντρική Μακεδονία,Pierias,Πιερίας,"Aiginio
+Pydna-Kolindros,Πύδνα-Κολινδρός,Δήμος Πύδνας-Κολινδρού,346.0,15179,12531,-2648,-0.174,-17.445,44,36,Aiginio,Central Macedonia,Κεντρική Μακεδονία,Pierias,Πιερίας,"Aiginio
 Kolindros
 Methoni
 Pydna"
-Pylaia-Chortiatis,Πυλαία-Χορτιάτης,Δήμος Πυλαίας-Χορτιάτη,156.3,70110,72223,2113,0.030,449,462,Panorama,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Chortiatis
+Pylaia-Chortiatis,Πυλαία-Χορτιάτης,Δήμος Πυλαίας-Χορτιάτη,156.3,70110,72223,2113,0.030,3.014,449,462,Panorama,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Chortiatis
 Panorama
 Pylaia"
-Serres,Σέρρες,Δήμος Σερρών,600.4,76817,73847,-2970,-0.039,128,123,Serres,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Ano Vrontou
+Serres,Σέρρες,Δήμος Σερρών,600.4,76817,73847,-2970,-0.039,-3.866,128,123,Serres,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Ano Vrontou
 Kapetan Mitrousi
 Lefkonas
 Oreini
 Serres
 Skoutari"
-Sithonia,Σιθωνία,Δήμος Σιθωνίας,519.1,12394,11631,-763,-0.062,24,22,Nikiti,Central Macedonia,Κεντρική Μακεδονία,Chalkidiki,Χαλκιδικής,"Sithonia
+Sithonia,Σιθωνία,Δήμος Σιθωνίας,519.1,12394,11631,-763,-0.062,-6.156,24,22,Nikiti,Central Macedonia,Κεντρική Μακεδονία,Chalkidiki,Χαλκιδικής,"Sithonia
 Toroni"
-Sintiki,Σιντική,Δήμος Σιντικής,1100.2,22195,18532,-3663,-0.165,20,17,Sidirokastro,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Achladochori
+Sintiki,Σιντική,Δήμος Σιντικής,1100.2,22195,18532,-3663,-0.165,-16.504,20,17,Sidirokastro,Central Macedonia,Κεντρική Μακεδονία,Serres,Σερρών,"Achladochori
 Agkistro
 Kerkini
 Petritsi
 Promachonas
 Sidirokastro"
-Skydra,Σκύδρα,Δήμος Σκύδρας,240.3,20188,18080,-2108,-0.104,84,75,Skydra,Central Macedonia,Κεντρική Μακεδονία,Pellas,Πέλλας,"Meniida
+Skydra,Σκύδρα,Δήμος Σκύδρας,240.3,20188,18080,-2108,-0.104,-10.442,84,75,Skydra,Central Macedonia,Κεντρική Μακεδονία,Pellas,Πέλλας,"Meniida
 Skydra"
-Chalkidona,Χαλκηδόνα,Δήμος Χαλκηδόνος,390.3,33673,29951,-3722,-0.111,86,77,Koufalia,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Agios Athanasios
+Chalkidona,Χαλκηδόνα,Δήμος Χαλκηδόνος,390.3,33673,29951,-3722,-0.111,-11.053,86,77,Koufalia,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Agios Athanasios
 Chalkidona
 Koufalia"
-Oraiokastro,Ωραιόκαστρο,Δήμος Ωραιοκάστρου,218.3,38317,40114,1797,0.047,176,184,Oreokastro,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Kallithea
+Oraiokastro,Ωραιόκαστρο,Δήμος Ωραιοκάστρου,218.3,38317,40114,1797,0.047,4.690,176,184,Oreokastro,Central Macedonia,Κεντρική Μακεδονία,Thessaloniki,Θεσσαλονίκης,"Kallithea
 Mygdonia
 Oraiokastro"
-Agios Vasileios,Άγιος Βασίλειος,Δήμος Αγίου Βασιλείου,358.6,7427,7194,-233,-0.031,21,20,Spili,Crete,Κρήτη,Rethymno,Ρεθύμνου,"Foinikas
+Agios Vasileios,Άγιος Βασίλειος,Δήμος Αγίου Βασιλείου,358.6,7427,7194,-233,-0.031,-3.137,21,20,Spili,Crete,Κρήτη,Rethymno,Ρεθύμνου,"Foinikas
 Lampi"
-Agios Nikolaos,Άγιος Νικόλαος,Δήμος Αγίου Νικολάου,511.9,27074,26937,-137,-0.005,53,53,Agios Nikolaos,Crete,Κρήτη,Lasithi,Λασιθίου,"Agios Nikolaos
+Agios Nikolaos,Άγιος Νικόλαος,Δήμος Αγίου Νικολάου,511.9,27074,26937,-137,-0.005,-0.506,53,53,Agios Nikolaos,Crete,Κρήτη,Lasithi,Λασιθίου,"Agios Nikolaos
 Neapoli
 Vrachasi"
-Amari,Αμάρι,Δήμος Αμάριου,278.8,5915,5607,-308,-0.052,21,20,Agia Foteini [el],Crete,Κρήτη,Rethymno,Ρεθύμνου,"Kourites
+Amari,Αμάρι,Δήμος Αμάριου,278.8,5915,5607,-308,-0.052,-5.207,21,20,Agia Foteini [el],Crete,Κρήτη,Rethymno,Ρεθύμνου,"Kourites
 Sivritos"
-Anogeia,Ανώγεια,Δήμος Ανωγείων,102.1,2379,2240,-139,-0.058,23,22,Anogeia,Crete,Κρήτη,Rethymno,Ρεθύμνου,Anogeia
-Apokoronas,Αποκορώνας,Δήμος Αποκορώνου,315.3,12807,11771,-1036,-0.081,41,37,Vryses,Crete,Κρήτη,Chania,Χανίων,"Armenoi
+Anogeia,Ανώγεια,Δήμος Ανωγείων,102.1,2379,2240,-139,-0.058,-5.843,23,22,Anogeia,Crete,Κρήτη,Rethymno,Ρεθύμνου,Anogeia
+Apokoronas,Αποκορώνας,Δήμος Αποκορώνου,315.3,12807,11771,-1036,-0.081,-8.089,41,37,Vryses,Crete,Κρήτη,Chania,Χανίων,"Armenoi
 Asi Gonia
 Fres
 Georgioupoli
 Kryonerida
 Vamos"
-Archanes-Asterousia,Αρχάνες-Αστερούσια,Δήμος Αρχανών-Αστερουσίων,339.1,16692,16002,-690,-0.041,49,47,Peza [el],Crete,Κρήτη,Heraklion,Ηρακλείου,"Archanes
+Archanes-Asterousia,Αρχάνες-Αστερούσια,Δήμος Αρχανών-Αστερουσίων,339.1,16692,16002,-690,-0.041,-4.134,49,47,Peza [el],Crete,Κρήτη,Heraklion,Ηρακλείου,"Archanes
 Asterousia
 Nikos Kazantzakis"
-Viannos,Βιάννος,Δήμος Βιάννου,222.4,5563,4314,-1249,-0.225,25,19,Ano Viannos [el],Crete,Κρήτη,Heraklion,Ηρακλείου,Viannos
-Gavdos,Γαύδος,Δήμος Γαύδου,34.5,152,151,-1,-0.007,4,4,Gavdos,Crete,Κρήτη,Chania,Χανίων,Gavdos
-Gortyna,Γόρτυνα,Δήμος Γόρτυνας,465.1,15632,13936,-1696,-0.108,34,30,Agioi Deka,Crete,Κρήτη,Heraklion,Ηρακλείου,"Agia Varvara
+Viannos,Βιάννος,Δήμος Βιάννου,222.4,5563,4314,-1249,-0.225,-22.452,25,19,Ano Viannos [el],Crete,Κρήτη,Heraklion,Ηρακλείου,Viannos
+Gavdos,Γαύδος,Δήμος Γαύδου,34.5,152,151,-1,-0.007,-0.658,4,4,Gavdos,Crete,Κρήτη,Chania,Χανίων,Gavdos
+Gortyna,Γόρτυνα,Δήμος Γόρτυνας,465.1,15632,13936,-1696,-0.108,-10.850,34,30,Agioi Deka,Crete,Κρήτη,Heraklion,Ηρακλείου,"Agia Varvara
 Gortyna
 Kofinas
 Rouvas"
-Heraklion,Ηράκλειο,Δήμος Ηρακλείου,244.6,173993,177064,3071,0.018,711,724,Heraklion,Crete,Κρήτη,Heraklion,Ηρακλείου,"Gorgolainis
+Heraklion,Ηράκλειο,Δήμος Ηρακλείου,244.6,173993,177064,3071,0.018,1.765,711,724,Heraklion,Crete,Κρήτη,Heraklion,Ηρακλείου,"Gorgolainis
 Heraklion
 Nea Alikarnassos
 Paliani
 Temenos"
-Ierapetra,Ιεράπετρα,Δήμος Ιεράπετρας,554.8,27602,26410,-1192,-0.043,50,48,Ierapetra,Crete,Κρήτη,Lasithi,Λασιθίου,"Ierapetra
+Ierapetra,Ιεράπετρα,Δήμος Ιεράπετρας,554.8,27602,26410,-1192,-0.043,-4.319,50,48,Ierapetra,Crete,Κρήτη,Lasithi,Λασιθίου,"Ierapetra
 Makry Gialos"
-Kantanos-Selino,Κάνδανος-Σέλινο,Δήμος Καντάνου-Σελίνου,374.8,5431,4931,-500,-0.092,14,13,Palaiochora,Crete,Κρήτη,Chania,Χανίων,"East Selino
+Kantanos-Selino,Κάνδανος-Σέλινο,Δήμος Καντάνου-Σελίνου,374.8,5431,4931,-500,-0.092,-9.206,14,13,Palaiochora,Crete,Κρήτη,Chania,Χανίων,"East Selino
 Kandanos
 Pelekanos"
-Kissamos,Κίσσαμος,Δήμος Κισσάμου,341.9,10790,10632,-158,-0.015,32,31,Kissamos,Crete,Κρήτη,Chania,Χανίων,"Innachori
+Kissamos,Κίσσαμος,Δήμος Κισσάμου,341.9,10790,10632,-158,-0.015,-1.464,32,31,Kissamos,Crete,Κρήτη,Chania,Χανίων,"Innachori
 Kissamos
 Mythimna"
-Malevizi,Μαλεβίζι,Δήμος Μαλεβιζίου,292.1,24864,25750,886,0.036,85,88,Gazi,Crete,Κρήτη,Heraklion,Ηρακλείου,"Gazi
+Malevizi,Μαλεβίζι,Δήμος Μαλεβιζίου,292.1,24864,25750,886,0.036,3.563,85,88,Gazi,Crete,Κρήτη,Heraklion,Ηρακλείου,"Gazi
 Krousonas
 Tylissos"
-Minoa Pediada,Μινώα Πεδιάδα,Δήμος Μινώα Πεδιάδας,398.5,17563,14161,-3402,-0.194,44,36,Evangelismos [el],Crete,Κρήτη,Heraklion,Ηρακλείου,"Arkalochori
+Minoa Pediada,Μινώα Πεδιάδα,Δήμος Μινώα Πεδιάδας,398.5,17563,14161,-3402,-0.194,-19.370,44,36,Evangelismos [el],Crete,Κρήτη,Heraklion,Ηρακλείου,"Arkalochori
 Kastelli
 Thrapsano"
-Mylopotamos,Μυλοπόταμος,Δήμος Μυλοποτάμου,360.6,14363,12890,-1473,-0.103,40,36,Perama [el],Crete,Κρήτη,Rethymno,Ρεθύμνου,"Geropotamos
+Mylopotamos,Μυλοπόταμος,Δήμος Μυλοποτάμου,360.6,14363,12890,-1473,-0.103,-10.256,40,36,Perama [el],Crete,Κρήτη,Rethymno,Ρεθύμνου,"Geropotamos
 Kouloukonas
 Zoniana"
-Oropedio Lasithiou,Οροπέδιο Λασιθίου,Δήμος Οροπεδίου Λασιθίου,129.8,2387,2285,-102,-0.043,18,18,Tzermiado [el],Crete,Κρήτη,Lasithi,Λασιθίου,Oropedio Lasithiou
-Platanias,Πλατανιάς,Δήμος Πλατανιά,492.3,16874,15320,-1554,-0.092,34,31,Gerani,Crete,Κρήτη,Chania,Χανίων,"Kolymvari
+Oropedio Lasithiou,Οροπέδιο Λασιθίου,Δήμος Οροπεδίου Λασιθίου,129.8,2387,2285,-102,-0.043,-4.273,18,18,Tzermiado [el],Crete,Κρήτη,Lasithi,Λασιθίου,Oropedio Lasithiou
+Platanias,Πλατανιάς,Δήμος Πλατανιά,492.3,16874,15320,-1554,-0.092,-9.209,34,31,Gerani,Crete,Κρήτη,Chania,Χανίων,"Kolymvari
 Mousouroi
 Platanias
 Voukolies"
-Rethymno,Ρέθυμνο,Δήμος Ρεθύμνου,393.9,55525,55636,111,0.002,141,141,Rethymno,Crete,Κρήτη,Rethymno,Ρεθύμνου,"Arkadi
+Rethymno,Ρέθυμνο,Δήμος Ρεθύμνου,393.9,55525,55636,111,0.002,0.200,141,141,Rethymno,Crete,Κρήτη,Rethymno,Ρεθύμνου,"Arkadi
 Lappa
 Nikiforos Fokas
 Rethymno"
-Sitia,Σητεία,Δήμος Σητείας,631.0,18318,20268,1950,0.106,29,32,Sitia,Crete,Κρήτη,Lasithi,Λασιθίου,"Itanos
+Sitia,Σητεία,Δήμος Σητείας,631.0,18318,20268,1950,0.106,10.645,29,32,Sitia,Crete,Κρήτη,Lasithi,Λασιθίου,"Itanos
 Lefki
 Sitia"
-Sfakia,Σφακιά,Δήμος Σφακίων,467.1,1889,1992,103,0.055,4,4,Chora Sfakion,Crete,Κρήτη,Chania,Χανίων,Sfakia
-Faistos,Φαιστός,Δήμος Φαιστού,409.7,24466,23994,-472,-0.019,60,59,Moires,Crete,Κρήτη,Heraklion,Ηρακλείου,"Moires
+Sfakia,Σφακιά,Δήμος Σφακίων,467.1,1889,1992,103,0.055,5.453,4,4,Chora Sfakion,Crete,Κρήτη,Chania,Χανίων,Sfakia
+Faistos,Φαιστός,Δήμος Φαιστού,409.7,24466,23994,-472,-0.019,-1.929,60,59,Moires,Crete,Κρήτη,Heraklion,Ηρακλείου,"Moires
 Tympaki
 Zaros"
-Chania,Χανιά,Δήμος Χανίων,351.0,108642,110646,2004,0.018,310,315,Chania,Crete,Κρήτη,Chania,Χανίων,"Akrotiri
+Chania,Χανιά,Δήμος Χανίων,351.0,108642,110646,2004,0.018,1.845,310,315,Chania,Crete,Κρήτη,Chania,Χανίων,"Akrotiri
 Chania
 Eleftherios Venizelos
 Keramia
 Nea Kydonia
 Souda
 Theriso"
-Chersonisos,Χερσόνησος,Δήμος Χερσονήσου,271.6,26717,27229,512,0.019,98,100,Gournes,Crete,Κρήτη,Heraklion,Ηρακλείου,"Chersonisos
+Chersonisos,Χερσόνησος,Δήμος Χερσονήσου,271.6,26717,27229,512,0.019,1.916,98,100,Gournes,Crete,Κρήτη,Heraklion,Ηρακλείου,"Chersonisos
 Episkopi
 Gouves
 Malia"
-Agathonisi,Αγαθονήσι,Δήμος Αγαθονησίου,14.4,185,203,18,0.097,13,14,Megalo Chorio,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Agathonisi
-Amorgos,Αμοργός,Δήμος Αμοργού,129.0,1973,1965,-8,-0.004,15,15,Amorgos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Amorgos
-Anafi,Ανάφη,Δήμος Ανάφης,40.6,271,291,20,0.074,7,7,Anafi,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Anafi
-Andros,Άνδρος,Δήμος Άνδρου,381.4,9221,8883,-338,-0.037,24,23,Andros,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,"Andros (town)
+Agathonisi,Αγαθονήσι,Δήμος Αγαθονησίου,14.4,185,203,18,0.097,9.730,13,14,Megalo Chorio,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Agathonisi
+Amorgos,Αμοργός,Δήμος Αμοργού,129.0,1973,1965,-8,-0.004,-0.405,15,15,Amorgos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Amorgos
+Anafi,Ανάφη,Δήμος Ανάφης,40.6,271,291,20,0.074,7.380,7,7,Anafi,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Anafi
+Andros,Άνδρος,Δήμος Άνδρου,381.4,9221,8883,-338,-0.037,-3.666,24,23,Andros,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,"Andros (town)
 Korthio
 Ydrousa"
-Antiparos,Αντίπαρος,Δήμος Αντιπάρου,45.4,1211,1264,53,0.044,27,28,Antiparos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Antiparos
-Astypalaia,Αστυπάλαια,Δήμος Αστυπαλαίας,113.4,1334,1399,65,0.049,12,12,Astypalaia,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Astypalaia
-Santorini,Θήρα,Δήμος Θήρας,90.5,15550,15457,-93,-0.006,172,171,Fira,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,"Oia
+Antiparos,Αντίπαρος,Δήμος Αντιπάρου,45.4,1211,1264,53,0.044,4.377,27,28,Antiparos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Antiparos
+Astypalaia,Αστυπάλαια,Δήμος Αστυπαλαίας,113.4,1334,1399,65,0.049,4.873,12,12,Astypalaia,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Astypalaia
+Santorini,Θήρα,Δήμος Θήρας,90.5,15550,15457,-93,-0.006,-0.598,172,171,Fira,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,"Oia
 Santorini"
-Ios,Ίος,Δήμος Ιητών,108.6,2024,2297,273,0.135,19,21,Ios,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Ios
-Kalymnos,Κάλυμνος,Δήμος Καλυμνίων,134.3,16179,17797,1618,0.100,120,133,Pothia (Kalymnos),South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Kalymnos
-Karpathos,Κάρπαθος,Δήμος Καρπάθου,323.8,6226,6416,190,0.031,19,20,Karpathos,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,"Karpathos
+Ios,Ίος,Δήμος Ιητών,108.6,2024,2297,273,0.135,13.488,19,21,Ios,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Ios
+Kalymnos,Κάλυμνος,Δήμος Καλυμνίων,134.3,16179,17797,1618,0.100,10.001,120,133,Pothia (Kalymnos),South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Kalymnos
+Karpathos,Κάρπαθος,Δήμος Καρπάθου,323.8,6226,6416,190,0.031,3.052,19,20,Karpathos,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,"Karpathos
 Olympos"
-Kasos,Κάσος,Δήμος Κάσου,70.2,1084,1224,140,0.129,15,17,Kasos,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Kasos
-Kea,Κέα,Δήμος Κέας,148.8,2455,2394,-61,-0.025,17,16,Kea,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Kea
-Kimolos,Κίμωλος,Δήμος Κιμώλου,55.8,910,817,-93,-0.102,16,15,Kimolos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Kimolos
-Kythnos,Κύθνος,Δήμος Κύθνου,99.9,1456,1492,36,0.025,15,15,Kythnos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Kythnos
-Kos,Κως,Δήμος Κω,288.1,33388,36986,3598,0.108,116,128,Kos,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,"Dikaios
+Kasos,Κάσος,Δήμος Κάσου,70.2,1084,1224,140,0.129,12.915,15,17,Kasos,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Kasos
+Kea,Κέα,Δήμος Κέας,148.8,2455,2394,-61,-0.025,-2.485,17,16,Kea,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Kea
+Kimolos,Κίμωλος,Δήμος Κιμώλου,55.8,910,817,-93,-0.102,-10.220,16,15,Kimolos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Kimolos
+Kythnos,Κύθνος,Δήμος Κύθνου,99.9,1456,1492,36,0.025,2.473,15,15,Kythnos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Kythnos
+Kos,Κως,Δήμος Κω,288.1,33388,36986,3598,0.108,10.776,116,128,Kos,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,"Dikaios
 Irakleides
 Kos"
-Leipsoi,Λειψοί,Δήμος Λειψών,17.1,790,778,-12,-0.015,46,45,Leipsoi,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Leipsoi
-Leros,Λέρος,Δήμος Λέρου,75.2,7917,7988,71,0.009,105,106,Agia Marina,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Leros
-Kastellorizo,Μεγίστη,Δήμος Μεγίστης,11.7,492,584,92,0.187,42,50,Kastellorizo,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Kastellorizo
-Milos,Μήλος,Δήμος Μήλου,167.6,4977,5193,216,0.043,30,31,Milos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Milos
-Mykonos,Μύκονος,Δήμος Μυκόνου,105.8,10134,9802,-332,-0.033,96,93,Mykonos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Mykonos
-Naxos and Lesser Cyclades,Νάξος και Μικρές Κυκλάδες,Δήμος Νάξου και Μικρών Κυκλάδων,498.3,18904,19812,908,0.048,38,40,Naxos (city),South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,"Donoussa
+Leipsoi,Λειψοί,Δήμος Λειψών,17.1,790,778,-12,-0.015,-1.519,46,45,Leipsoi,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Leipsoi
+Leros,Λέρος,Δήμος Λέρου,75.2,7917,7988,71,0.009,0.897,105,106,Agia Marina,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Leros
+Kastellorizo,Μεγίστη,Δήμος Μεγίστης,11.7,492,584,92,0.187,18.699,42,50,Kastellorizo,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Kastellorizo
+Milos,Μήλος,Δήμος Μήλου,167.6,4977,5193,216,0.043,4.340,30,31,Milos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Milos
+Mykonos,Μύκονος,Δήμος Μυκόνου,105.8,10134,9802,-332,-0.033,-3.276,96,93,Mykonos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Mykonos
+Naxos and Lesser Cyclades,Νάξος και Μικρές Κυκλάδες,Δήμος Νάξου και Μικρών Κυκλάδων,498.3,18904,19812,908,0.048,4.803,38,40,Naxos (city),South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,"Donoussa
 Drymalia
 Irakleia
 Koufonisia
 Naxos
 Schoinoussa"
-Nisyros,Νίσυρος,Δήμος Νισύρου,49.8,1008,1043,35,0.035,20,21,Mandraki,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Nisyros
-Paros,Πάρος,Δήμος Πάρου,198.4,13715,14290,575,0.042,69,72,Paros,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Paros
-Patmos,Πάτμος,Δήμος Πάτμου,45.0,3047,3217,170,0.056,68,71,Patmos,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Patmos
-Rhodes,Ρόδος,Δήμος Ρόδου,1408.0,115490,124851,9361,0.081,82,89,Rhodes,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,"Afantou
+Nisyros,Νίσυρος,Δήμος Νισύρου,49.8,1008,1043,35,0.035,3.472,20,21,Mandraki,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Nisyros
+Paros,Πάρος,Δήμος Πάρου,198.4,13715,14290,575,0.042,4.192,69,72,Paros,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Paros
+Patmos,Πάτμος,Δήμος Πάτμου,45.0,3047,3217,170,0.056,5.579,68,71,Patmos,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Patmos
+Rhodes,Ρόδος,Δήμος Ρόδου,1408.0,115490,124851,9361,0.081,8.105,82,89,Rhodes,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,"Afantou
 Archangelos
 Attavyros
 Ialysos
@@ -822,24 +822,24 @@ Lindos
 Petaloudes
 Rhodes
 South Rhodes"
-Serifos,Σέριφος,Δήμος Σερίφου,76.2,1420,1258,-162,-0.114,19,17,Serifos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Serifos
-Sikinos,Σίκινος,Δήμος Σικίνου,43.3,273,253,-20,-0.073,6,6,Sikinos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Sikinos
-Sifnos,Σίφνος,Δήμος Σίφνου,78.3,2625,2755,130,0.050,34,35,Sifnos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Sifnos
-Symi,Σύμη,Δήμος Σύμης,65.3,2590,2495,-95,-0.037,40,38,Symi,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Symi
-Syros-Ermoupoli,Σύρος-Ερμούπολη,Δήμος Σύρου-Ερμούπολης,102.4,21507,20791,-716,-0.033,210,203,Ermoupoli,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,"Ano Syros
+Serifos,Σέριφος,Δήμος Σερίφου,76.2,1420,1258,-162,-0.114,-11.408,19,17,Serifos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Serifos
+Sikinos,Σίκινος,Δήμος Σικίνου,43.3,273,253,-20,-0.073,-7.326,6,6,Sikinos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Sikinos
+Sifnos,Σίφνος,Δήμος Σίφνου,78.3,2625,2755,130,0.050,4.952,34,35,Sifnos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Sifnos
+Symi,Σύμη,Δήμος Σύμης,65.3,2590,2495,-95,-0.037,-3.668,40,38,Symi,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Symi
+Syros-Ermoupoli,Σύρος-Ερμούπολη,Δήμος Σύρου-Ερμούπολης,102.4,21507,20791,-716,-0.033,-3.329,210,203,Ermoupoli,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,"Ano Syros
 Ermoupoli
 Poseidonia"
-Tilos,Τήλος,Δήμος Τήλου,63.4,780,745,-35,-0.045,12,12,Megalo Chorio,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Tilos
-Tinos,Τήνος,Δήμος Τήνου,197.0,8636,8611,-25,-0.003,44,44,Tinos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,"Exomvourgo
+Tilos,Τήλος,Δήμος Τήλου,63.4,780,745,-35,-0.045,-4.487,12,12,Megalo Chorio,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Tilos
+Tinos,Τήνος,Δήμος Τήνου,197.0,8636,8611,-25,-0.003,-0.289,44,44,Tinos,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,"Exomvourgo
 Panormos
 Tinos (town)"
-Folegandros,Φολέγανδρος,Δήμος Φολεγάνδρου,32.5,765,715,-50,-0.065,24,265,Folegandros,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Folegandros
-Chalki,Χάλκη,Δήμος Χάλκης,36.9,478,476,-2,-0.004,13,13,Chalki,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Chalki
-East Mani,Ανατολική Μάνη,Δήμος Ανατολικής Μάνης,620.5,13005,12805,-200,-0.015,21,21,Gytheio,Peloponnese,Πελοπόννησος,Laconia,Λακωνίας,"East Mani
+Folegandros,Φολέγανδρος,Δήμος Φολεγάνδρου,32.5,765,715,-50,-0.065,-6.536,24,265,Folegandros,South Aegean,Νότιο Αιγαίο,Cyclades,Κυκλάδων,Folegandros
+Chalki,Χάλκη,Δήμος Χάλκης,36.9,478,476,-2,-0.004,-0.418,13,13,Chalki,South Aegean,Νότιο Αιγαίο,Dodecanese,Δωδεκανήσων,Chalki
+East Mani,Ανατολική Μάνη,Δήμος Ανατολικής Μάνης,620.5,13005,12805,-200,-0.015,-1.538,21,21,Gytheio,Peloponnese,Πελοπόννησος,Laconia,Λακωνίας,"East Mani
 Gytheio
 Oitylo
 Sminos"
-Argos-Mykines,Άργος-Μυκήνες,Δήμος Άργους-Μυκηνών,1001.0,42022,40009,-2013,-0.048,42,40,Argos,Peloponnese,Πελοπόννησος,Argolis,Αργολίδας,"Achladokampos
+Argos-Mykines,Άργος-Μυκήνες,Δήμος Άργους-Μυκηνών,1001.0,42022,40009,-2013,-0.048,-4.790,42,40,Argos,Peloponnese,Πελοπόννησος,Argolis,Αργολίδας,"Achladokampos
 Alea
 Argos
 Koutsopodi
@@ -847,10 +847,10 @@ Lerna
 Lyrkeia
 Mykines
 Nea Kios"
-Velo-Vocha,Βέλο-Βόχα,Δήμος Βέλου-Βοχας,165.5,19027,17836,-1191,-0.063,115,108,Zevgolateio,Peloponnese,Πελοπόννησος,Korinthias,Κορινθίας,"Velo
+Velo-Vocha,Βέλο-Βόχα,Δήμος Βέλου-Βοχας,165.5,19027,17836,-1191,-0.063,-6.260,115,108,Zevgolateio,Peloponnese,Πελοπόννησος,Korinthias,Κορινθίας,"Velo
 Vocha"
-North Kynouria,Βόρεια Κυνουρία,Δήμος Βόρειας Κυνουρίας,577.1,10341,9538,-803,-0.078,18,17,Astros,Peloponnese,Πελοπόννησος,Arcadia,Αρκαδία,North Kynouria
-Gortynia,Γορτυνία,Δήμος Γορτυνίας,1051.7,10109,8015,-2094,-0.207,10,8,Dimitsana,Peloponnese,Πελοπόννησος,Arcadia,Αρκαδία,"Dimitsana
+North Kynouria,Βόρεια Κυνουρία,Δήμος Βόρειας Κυνουρίας,577.1,10341,9538,-803,-0.078,-7.765,18,17,Astros,Peloponnese,Πελοπόννησος,Arcadia,Αρκαδία,North Kynouria
+Gortynia,Γορτυνία,Δήμος Γορτυνίας,1051.7,10109,8015,-2094,-0.207,-20.714,10,8,Dimitsana,Peloponnese,Πελοπόννησος,Arcadia,Αρκαδία,"Dimitsana
 Iraia
 Kleitor
 Kontovazaina
@@ -858,33 +858,33 @@ Lagkadia
 Trikolonoi
 Tropaia
 Vytina"
-West Mani,Δυτική Μάνη,Δήμος Δυτικής Μάνης,402.5,6945,5772,-1173,-0.169,17,14,Kardamyli,Peloponnese,Πελοπόννησος,Magnesia,Μαγνησίας,"Avia
+West Mani,Δυτική Μάνη,Δήμος Δυτικής Μάνης,402.5,6945,5772,-1173,-0.169,-16.890,17,14,Kardamyli,Peloponnese,Πελοπόννησος,Magnesia,Μαγνησίας,"Avia
 Lefktro"
-Elafonisos,Ελαφόνησος,Δήμος Ελαφονήσου,19.9,1041,913,-128,-0.123,52,46,Elafonisos,Peloponnese,Πελοπόννησος,Laconia,Λακωνίας,Elafonisos
-Epidaurus,Επίδαυρος,Δήμος Επιδαύρου,341.3,8115,7089,-1026,-0.126,24,21,Asklipieio,Peloponnese,Πελοπόννησος,Argolis,Αργολίδας,"Asklipieio
+Elafonisos,Ελαφόνησος,Δήμος Ελαφονήσου,19.9,1041,913,-128,-0.123,-12.296,52,46,Elafonisos,Peloponnese,Πελοπόννησος,Laconia,Λακωνίας,Elafonisos
+Epidaurus,Επίδαυρος,Δήμος Επιδαύρου,341.3,8115,7089,-1026,-0.126,-12.643,24,21,Asklipieio,Peloponnese,Πελοπόννησος,Argolis,Αργολίδας,"Asklipieio
 Epidaurus"
-Ermionida,Ερμιονίδα,Δήμος Ερμιονίδας,422.6,13551,13598,47,0.003,32,32,Kranidi,Peloponnese,Πελοπόννησος,Argolis,Αργολίδας,"Ermioni
+Ermionida,Ερμιονίδα,Δήμος Ερμιονίδας,422.6,13551,13598,47,0.003,0.347,32,32,Kranidi,Peloponnese,Πελοπόννησος,Argolis,Αργολίδας,"Ermioni
 Kranidi"
-Evrotas,Ευρώτας,Δήμος Ευρώτα,865.6,17891,16018,-1873,-0.105,21,19,Skala,Peloponnese,Πελοπόννησος,Laconia,Λακωνίας,"Elos
+Evrotas,Ευρώτας,Δήμος Ευρώτα,865.6,17891,16018,-1873,-0.105,-10.469,21,19,Skala,Peloponnese,Πελοπόννησος,Laconia,Λακωνίας,"Elos
 Geronthres
 Krokees
 Niata
 Skala"
-Kalamata,Καλαμάτα,Δήμος Καλαμάτας,441.5,69849,71894,2045,0.029,158,163,Kalamata,Peloponnese,Πελοπόννησος,Magnesia,Μαγνησίας,"Arfara
+Kalamata,Καλαμάτα,Δήμος Καλαμάτας,441.5,69849,71894,2045,0.029,2.928,158,163,Kalamata,Peloponnese,Πελοπόννησος,Magnesia,Μαγνησίας,"Arfara
 Aris
 Kalamata
 Thouria"
-Corinth,Κόρινθος,Δήμος Κορινθίων,612.7,58192,56437,-1755,-0.030,95,92,Corinth,Peloponnese,Πελοπόννησος,Korinthias,Κορινθίας,"Assos-Lechaio
+Corinth,Κόρινθος,Δήμος Κορινθίων,612.7,58192,56437,-1755,-0.030,-3.016,95,92,Corinth,Peloponnese,Πελοπόννησος,Korinthias,Κορινθίας,"Assos-Lechaio
 Corinth
 Saronikos
 Solygeia
 Tenea"
-Loutraki-Perachora-Agioi Theodoroi,Λουτράκι-Περαχώρα-Άγιοι Θεόδωροι,Δήμος Λουτρακίου−Περαχώρας−Αγίων Θεοδώρων,296.4,21221,21925,704,0.033,72,74,Loutraki,Peloponnese,Πελοπόννησος,Korinthias,Κορινθίας,"Agioi Theodoroi
+Loutraki-Perachora-Agioi Theodoroi,Λουτράκι-Περαχώρα-Άγιοι Θεόδωροι,Δήμος Λουτρακίου−Περαχώρας−Αγίων Θεοδώρων,296.4,21221,21925,704,0.033,3.317,72,74,Loutraki,Peloponnese,Πελοπόννησος,Korinthias,Κορινθίας,"Agioi Theodoroi
 Loutraki-Perachora"
-Megalopoli,Μεγαλόπολη,Δήμος Μεγαλόπολης,722.9,10687,8791,-1896,-0.177,15,12,Megalopoli,Peloponnese,Πελοπόννησος,Arcadia,Αρκαδία,"Falaisia
+Megalopoli,Μεγαλόπολη,Δήμος Μεγαλόπολης,722.9,10687,8791,-1896,-0.177,-17.741,15,12,Megalopoli,Peloponnese,Πελοπόννησος,Arcadia,Αρκαδία,"Falaisia
 Gortyna
 Megalopoli"
-Messini,Μεσσήνη,Δήμος Μεσσήνης,562.9,23482,19200,-4282,-0.182,42,34,Messini,Peloponnese,Πελοπόννησος,Magnesia,Μαγνησίας,"Androusa
+Messini,Μεσσήνη,Δήμος Μεσσήνης,562.9,23482,19200,-4282,-0.182,-18.235,42,34,Messini,Peloponnese,Πελοπόννησος,Magnesia,Μαγνησίας,"Androusa
 Aristomenis
 Aipeia
 Ithomi
@@ -892,43 +892,43 @@ Messini
 Petalidi
 Trikorfo
 Voufrades"
-Monemvasia,Μονεμβασιά,Δήμος Μονεμβασιάς,952.2,21942,21815,-127,-0.006,23,23,Molaoi,Peloponnese,Πελοπόννησος,Laconia,Λακωνίας,"Asopos
+Monemvasia,Μονεμβασιά,Δήμος Μονεμβασιάς,952.2,21942,21815,-127,-0.006,-0.579,23,23,Molaoi,Peloponnese,Πελοπόννησος,Laconia,Λακωνίας,"Asopos
 Molaoi
 Monemvasia
 Voies
 Zarakas"
-Nafplio,Ναύπλιο,Δήμος Ναυπλιέων,391.3,33356,32586,-770,-0.023,85,83,Nafplio,Peloponnese,Πελοπόννησος,Argolis,Αργολίδας,"Asini
+Nafplio,Ναύπλιο,Δήμος Ναυπλιέων,391.3,33356,32586,-770,-0.023,-2.308,85,83,Nafplio,Peloponnese,Πελοπόννησος,Argolis,Αργολίδας,"Asini
 Midea
 Nafplio
 Nea Tiryntha"
-Nemea,Νεμέα,Δήμος Νεμέας,205.2,6483,5668,-815,-0.126,32,28,Nemea,Peloponnese,Πελοπόννησος,Korinthias,Κορινθίας,Nemea
-South Kynouria,Νότια Κυνουρία,Δήμος Νότιας Κυνουρίας,594.5,8294,7263,-1031,-0.124,14,12,Leonidio,Peloponnese,Πελοπόννησος,Arcadia,Αρκαδία,"Kosmas
+Nemea,Νεμέα,Δήμος Νεμέας,205.2,6483,5668,-815,-0.126,-12.571,32,28,Nemea,Peloponnese,Πελοπόννησος,Korinthias,Κορινθίας,Nemea
+South Kynouria,Νότια Κυνουρία,Δήμος Νότιας Κυνουρίας,594.5,8294,7263,-1031,-0.124,-12.431,14,12,Leonidio,Leonidio,Πελοπόννησος,Arcadia,Αρκαδία,"Kosmas
 Leonidio
 Tyros"
-Xylokastro-Evrostina,Ξυλόκαστρο-Ευρωστίνα,Δήμος Ξυλοκάστρου-Ευρωστίνης,413.5,17365,15295,-2070,-0.119,42,37,Xylokastro,Peloponnese,Πελοπόννησος,Korinthias,Κορινθίας,"Evrostina
+Xylokastro-Evrostina,Ξυλόκαστρο-Ευρωστίνα,Δήμος Ξυλοκάστρου-Ευρωστίνης,413.5,17365,15295,-2070,-0.119,-11.921,42,37,Xylokastro,Peloponnese,Πελοπόννησος,Korinthias,Κορινθίας,"Evrostina
 Xylokastro"
-Oichalia,Οιχαλία,Δήμος Οιχαλίας,416.8,11228,8508,-2720,-0.242,27,20,Meligalas,Peloponnese,Πελοπόννησος,Magnesia,Μαγνησίας,"Andania
+Oichalia,Οιχαλία,Δήμος Οιχαλίας,416.8,11228,8508,-2720,-0.242,-24.225,27,20,Meligalas,Peloponnese,Πελοπόννησος,Magnesia,Μαγνησίας,"Andania
 Dorio
 Eira
 Oichalia
 Meligalas"
-Pylos-Nestor,Πύλος-Νέστορας,Δήμος Πύλου-Νέστορος,555.1,21077,17179,-3898,-0.185,38,31,Pylos,Peloponnese,Πελοπόννησος,Magnesia,Μαγνησίας,"Chiliochoria
+Pylos-Nestor,Πύλος-Νέστορας,Δήμος Πύλου-Νέστορος,555.1,21077,17179,-3898,-0.185,-18.494,38,31,Pylos,Peloponnese,Πελοπόννησος,Magnesia,Μαγνησίας,"Chiliochoria
 Koroni
 Methoni
 Nestoras
 Papaflessas
 Pylos"
-Sikyona,Σικυώνα,Δήμος Σικυωνίων,602.1,22794,20983,-1811,-0.079,38,35,Kiato,Peloponnese,Πελοπόννησος,Korinthias,Κορινθίας,"Feneos
+Sikyona,Σικυώνα,Δήμος Σικυωνίων,602.1,22794,20983,-1811,-0.079,-7.945,38,35,Kiato,Peloponnese,Πελοπόννησος,Korinthias,Κορινθίας,"Feneos
 Sikyona
 Stymfalia"
-Sparti,Σπάρτη,Δήμος Σπάρτης,1180.7,35259,32918,-2341,-0.066,30,28,Sparta,Peloponnese,Πελοπόννησος,Laconia,Λακωνίας,"Faris
+Sparti,Σπάρτη,Δήμος Σπάρτης,1180.7,35259,32918,-2341,-0.066,-6.639,30,28,Sparta,Peloponnese,Πελοπόννησος,Laconia,Λακωνίας,"Faris
 Oinountas
 Karyes
 Mystras
 Pellana
 Sparta
 Therapnes"
-Tripoli,Τρίπολη,Δήμος Τρίπολης,1474.2,47254,43944,-3310,-0.070,32,30,Tripoli,Peloponnese,Πελοπόννησος,Arcadia,Αρκαδία,"Falanthos
+Tripoli,Τρίπολη,Δήμος Τρίπολης,1474.2,47254,43944,-3310,-0.070,-7.005,32,30,Tripoli,Peloponnese,Πελοπόννησος,Arcadia,Αρκαδία,"Falanthos
 Korythio
 Levidi
 Mantineia
@@ -936,23 +936,23 @@ Skyritida
 Tegea
 Tripoli
 Valtetsi"
-Trifylia,Τριφυλλία,Δήμος Τριφυλλίας,617.6,27373,22367,-5006,-0.183,44,36,Kyparissia,Peloponnese,Πελοπόννησος,Magnesia,Μαγνησίας,"Aetos
+Trifylia,Τριφυλλία,Δήμος Τριφυλλίας,617.6,27373,22367,-5006,-0.183,-18.288,44,36,Kyparissia,Peloponnese,Πελοπόννησος,Magnesia,Μαγνησίας,"Aetos
 Avlonas
 Gargalianoi
 Filiatra
 Kyparissia
 Tripyla"
-Agrafa,Άγραφα,Δήμος Αγράφων,921.1,6976,5984,-992,-0.142,8,6,Kerasochori,Central Greece,Στερεά Ελλάδα,Evrytania,Ευρυτανίας,"Agrafa
+Agrafa,Άγραφα,Δήμος Αγράφων,921.1,6976,5984,-992,-0.142,-14.220,8,6,Kerasochori,Central Greece,Στερεά Ελλάδα,Evrytania,Ευρυτανίας,"Agrafa
 Aperantia
 Aspropotamos
 Fragkista
 Viniani"
-Aliartos,Αλίαρτος,Δήμος Αλιάρτου,258.8,10887,8778,-2109,-0.194,42,34,Aliartos,Central Greece,Στερεά Ελλάδα,Voiotia,Βοιωτίας,"Aliartos
+Aliartos,Αλίαρτος,Δήμος Αλιάρτου,258.8,10887,8778,-2109,-0.194,-19.372,42,34,Aliartos,Central Greece,Στερεά Ελλάδα,Voiotia,Βοιωτίας,"Aliartos
 Thespies"
-Amfikleia-Elateia,Αμφίκλεια-Ελάτεια,Δήμος Αμφίκλειας-Ελάτειας,533.8,10922,8381,-2541,-0.233,20,16,Kato Tithorea,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Amfikleia
+Amfikleia-Elateia,Αμφίκλεια-Ελάτεια,Δήμος Αμφίκλειας-Ελάτειας,533.8,10922,8381,-2541,-0.233,-23.265,20,16,Kato Tithorea,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Amfikleia
 Elateia
 Tithorea"
-Delphi,Δελφοί,Δήμος Δελφών,1123.2,26716,24160,-2556,-0.096,24,22,Amfissa,Central Greece,Στερεά Ελλάδα,Fokida,Φωκίδας,"Amfissa
+Delphi,Δελφοί,Δήμος Δελφών,1123.2,26716,24160,-2556,-0.096,-9.567,24,22,Amfissa,Central Greece,Στερεά Ελλάδα,Fokida,Φωκίδας,"Amfissa
 Delphi
 Desfina
 Galaxidi
@@ -960,79 +960,79 @@ Gravia
 Itea
 Kallieis
 Parnassos"
-Dirfys-Messapia,Δίρφυς-Μεσσαπία,Δήμος Διρφύων-Μεσσαπίων,773.6,18800,15435,-3365,-0.179,24,20,Psachna,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Dirfys
+Dirfys-Messapia,Δίρφυς-Μεσσαπία,Δήμος Διρφύων-Μεσσαπίων,773.6,18800,15435,-3365,-0.179,-17.899,24,20,Psachna,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Dirfys
 Messapia"
-Distomo-Arachova-Antikyra,Δίστομο-Αράχοβα-Αντικύρα,Δήμος Διστόμου-Αράχοβας-Αντικύρας,294.3,8188,7602,-586,-0.072,28,26,Distomo,Central Greece,Στερεά Ελλάδα,Voiotia,Βοιωτίας,"Antikyra
+Distomo-Arachova-Antikyra,Δίστομο-Αράχοβα-Αντικύρα,Δήμος Διστόμου-Αράχοβας-Αντικύρας,294.3,8188,7602,-586,-0.072,-7.157,28,26,Distomo,Central Greece,Στερεά Ελλάδα,Voiotia,Βοιωτίας,"Antikyra
 Arachova
 Distomo"
-Domokos,Δομοκός,Δήμος Δομοκού,708.9,11495,9178,-2317,-0.202,16,13,Domokos,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Domokos
+Domokos,Δομοκός,Δήμος Δομοκού,708.9,11495,9178,-2317,-0.202,-20.157,16,13,Domokos,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Domokos
 Thessaliotida
 Xyniada"
-Dorida,Δωρίδα,Δήμος Δωρίδος,1000.8,13627,12050,-1577,-0.116,14,12,Lidoriki,Central Greece,Στερεά Ελλάδα,Fokida,Φωκίδας,"Efpalio
+Dorida,Δωρίδα,Δήμος Δωρίδος,1000.8,13627,12050,-1577,-0.116,-11.573,14,12,Lidoriki,Central Greece,Στερεά Ελλάδα,Fokida,Φωκίδας,"Efpalio
 Lidoriki
 Tolofon
 Vardousia"
-Eretria,Ερέτρια,Δήμος Ερέτριας,169.9,13053,12676,-377,-0.029,77,75,Eretria,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Amarynthos
+Eretria,Ερέτρια,Δήμος Ερέτριας,169.9,13053,12676,-377,-0.029,-2.888,77,75,Eretria,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Amarynthos
 Eretria"
-Thebes,Θήβα,Δήμος Θηβαίων,830.3,36477,32521,-3956,-0.108,44,39,Thebes,Central Greece,Στερεά Ελλάδα,Voiotia,Βοιωτίας,"Plataies
+Thebes,Θήβα,Δήμος Θηβαίων,830.3,36477,32521,-3956,-0.108,-10.845,44,39,Thebes,Central Greece,Στερεά Ελλάδα,Voiotia,Βοιωτίας,"Plataies
 Thisvi
 Thebes
 Vagia"
-Istiaia-Aidipsos,Ιστιαία-Αιδηψός,Δήμος Ιστιαίας-Αιδηψού,508.6,21083,18460,-2623,-0.124,41,36,Istiaia,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Artemisio
+Istiaia-Aidipsos,Ιστιαία-Αιδηψός,Δήμος Ιστιαίας-Αιδηψού,508.6,21083,18460,-2623,-0.124,-12.441,41,36,Istiaia,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Artemisio
 Aidipsos
 Istiaia
 Lichada
 Oreoi"
-Kamena Vourla,Καμένα Βούρλα,Δήμος Καμένων Βούρλων,339.0,12090,10901,-1189,-0.098,36,32,Kamena Vourla,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Agios Konstantinos
+Kamena Vourla,Καμένα Βούρλα,Δήμος Καμένων Βούρλων,339.0,12090,10901,-1189,-0.098,-9.835,36,32,Kamena Vourla,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Agios Konstantinos
 Kamena Vourla
 Molos"
-Karpenisi,Καρπενήσι,Δήμος Καρπενησίου,948.6,13105,11477,-1628,-0.124,14,12,Karpenisi,Central Greece,Στερεά Ελλάδα,Evrytania,Ευρυτανίας,"Domnista
+Karpenisi,Καρπενήσι,Δήμος Καρπενησίου,948.6,13105,11477,-1628,-0.124,-12.423,14,12,Karpenisi,Central Greece,Στερεά Ελλάδα,Evrytania,Ευρυτανίας,"Domnista
 Fourna
 Karpenisi
 Ktimenia
 Potamia
 Prousos"
-Karystos,Κάρυστος,Δήμος Καρύστου,675.3,12180,11593,-587,-0.048,18,17,Karystos,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Kafireas
+Karystos,Κάρυστος,Δήμος Καρύστου,675.3,12180,11593,-587,-0.048,-4.819,18,17,Karystos,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Kafireas
 Karystos
 Marmari
 Styra"
-Kymi-Aliveri,Κύμη-Αλιβέρι,Δήμος Κύμης-Αλιβερίου,804.4,28437,26359,-2078,-0.073,35,33,Aliveri,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Avlon
+Kymi-Aliveri,Κύμη-Αλιβέρι,Δήμος Κύμης-Αλιβερίου,804.4,28437,26359,-2078,-0.073,-7.307,35,33,Aliveri,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Avlon
 Dystos
 Konistres
 Kymi
 Tamyneoi"
-Lamia,Λαμία,Δήμος Λαμιέων,947.8,75315,66472,-8843,-0.117,79,70,Lamia,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Gorgopotamos
+Lamia,Λαμία,Δήμος Λαμιέων,947.8,75315,66472,-8843,-0.117,-11.741,79,70,Lamia,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Gorgopotamos
 Lamia
 Leianokladi
 Pavliani
 Ypati"
-Livadeia,Λιβαδειά,Δήμος Λεβαδέων,690.0,31315,29393,-1922,-0.061,45,43,Livadeia,Central Greece,Στερεά Ελλάδα,Voiotia,Βοιωτίας,"Chaeronea
+Livadeia,Λιβαδειά,Δήμος Λεβαδέων,690.0,31315,29393,-1922,-0.061,-6.138,45,43,Livadeia,Central Greece,Στερεά Ελλάδα,Voiotia,Βοιωτίας,"Chaeronea
 Davleia
 Koroneia
 Kyriaki
 Livadeia"
-Lokroi,Λοκροί,Δήμος Λοκρών,613.6,19623,17854,-1769,-0.090,32,29,Atalanti,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Atalanti
+Lokroi,Λοκροί,Δήμος Λοκρών,613.6,19623,17854,-1769,-0.090,-9.015,32,29,Atalanti,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Atalanti
 Dafnousia
 Malesina
 Opountioi"
-Makrakomi,Μακρακώμη,Δήμος Μακρακώμης,837.4,16036,13553,-2483,-0.155,19,16,Sperchiada,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Agios Georgios Tymfristou
+Makrakomi,Μακρακώμη,Δήμος Μακρακώμης,837.4,16036,13553,-2483,-0.155,-15.484,19,16,Sperchiada,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Agios Georgios Tymfristou
 Makrakomi
 Spercheiada
 Tymfristos"
-Mantoudi-Limni-Agia Anna,Μαντούδι-Λίμνη-Αγία Άννα,Δήμος Μαντουδίου-Λίμνης-Αγίας Άννας,586.5,12045,11986,-59,-0.005,21,20,Limni,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Elymnioi
+Mantoudi-Limni-Agia Anna,Μαντούδι-Λίμνη-Αγία Άννα,Δήμος Μαντουδίου-Λίμνης-Αγίας Άννας,586.5,12045,11986,-59,-0.005,-0.490,21,20,Limni,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Elymnioi
 Kireas
 Nileas"
-Orchomenos,Ορχομενός,Δήμος Ορχομενού,418.3,11621,9386,-2235,-0.192,28,22,Orchomenos,Central Greece,Στερεά Ελλάδα,Voiotia,Βοιωτίας,"Akraifnia
+Orchomenos,Ορχομενός,Δήμος Ορχομενού,418.3,11621,9386,-2235,-0.192,-19.232,28,22,Orchomenos,Central Greece,Στερεά Ελλάδα,Voiotia,Βοιωτίας,"Akraifnia
 Orchomenos"
-Skyros,Σκύρος,Δήμος Σκύρου,220.5,2994,2913,-81,-0.027,14,13,Skyros,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,Skyros
-Stylida,Στυλίδα,Δήμος Στυλίδος,461.8,12750,11417,-1333,-0.105,28,25,Stylida,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Echinaioi
+Skyros,Σκύρος,Δήμος Σκύρου,220.5,2994,2913,-81,-0.027,-2.705,14,13,Skyros,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,Skyros
+Stylida,Στυλίδα,Δήμος Στυλίδος,461.8,12750,11417,-1333,-0.105,-10.455,28,25,Stylida,Central Greece,Στερεά Ελλάδα,Fthiotis,Φθιώτιδας,"Echinaioi
 Pelasgia
 Stylida"
-Tanagra,Τανάγρα,Δήμος Τανάγρας,462.5,19432,18427,-1005,-0.052,42,40,Schimatari,Central Greece,Στερεά Ελλάδα,Voiotia,Βοιωτίας,"Dervenochoria
+Tanagra,Τανάγρα,Δήμος Τανάγρας,462.5,19432,18427,-1005,-0.052,-5.172,42,40,Schimatari,Central Greece,Στερεά Ελλάδα,Voiotia,Βοιωτίας,"Dervenochoria
 Oinofyta
 Schimatari
 Tanagra"
-Chalcis,Χαλκίδα,Δήμος Χαλκιδέων,425.0,102223,108313,6090,0.060,241,255,Chalcis,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Anthidona
+Chalcis,Χαλκίδα,Δήμος Χαλκιδέων,425.0,102223,108313,6090,0.060,5.958,241,255,Chalcis,Central Greece,Στερεά Ελλάδα,Euboea,Ευβοίας,"Anthidona
 Avlida
 Chalkida
 Lilantia
