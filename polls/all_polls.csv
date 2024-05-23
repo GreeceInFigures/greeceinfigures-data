@@ -1,4 +1,5 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Party,Percent,Party_Gr,Party_En,Acronym
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,SYRIZA,0.165,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,SYRIZA,0.158,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,SYRIZA,0.14400000000000002,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,SYRIZA,0.125,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
@@ -462,6 +463,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,SYRIZA,0.25,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,SYRIZA,0.215,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,SYRIZA,0.25,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,ND,0.349,Νέα Δημοκρατία,ND,ΝΔ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,ND,0.301,Νέα Δημοκρατία,ND,ΝΔ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,ND,0.33899999999999997,Νέα Δημοκρατία,ND,ΝΔ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,ND,0.35700000000000004,Νέα Δημοκρατία,ND,ΝΔ
@@ -925,6 +927,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ND,0.327,Νέα Δημοκρατία,ND,ΝΔ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ND,0.37,Νέα Δημοκρατία,ND,ΝΔ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ND,0.365,Νέα Δημοκρατία,ND,ΝΔ
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
@@ -1388,6 +1391,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ChA,0.09300000000000001,Χρυσή Αυγή,ChA,ΧΑ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ChA,0.08,Χρυσή Αυγή,ChA,ΧΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ChA,0.085,Χρυσή Αυγή,ChA,ΧΑ
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,PASOK-KINAL,0.122,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,PASOK-KINAL,0.128,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,PASOK-KINAL,0.115,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,PASOK-KINAL,0.12300000000000001,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
@@ -1851,6 +1855,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,PASOK-KINAL,0.09699999999999999,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,PASOK-KINAL,0.13,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,PASOK-KINAL,0.1,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,KKE,0.067,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,KKE,0.067,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,KKE,0.09,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,KKE,0.095,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
@@ -2314,6 +2319,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,KKE,0.073,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,KKE,0.075,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,KKE,0.065,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
@@ -2777,6 +2783,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Potami,0.01,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
@@ -3240,6 +3247,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ANEL,0.028999999999999998,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ANEL,0.02,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ANEL,0.025,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
@@ -3703,6 +3711,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,EK,0.026000000000000002,Ένωση Κεντρώων,EK,ΕΚ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EK,0.02,Ένωση Κεντρώων,EK,ΕΚ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EK,0.025,Ένωση Κεντρώων,EK,ΕΚ
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
@@ -4166,6 +4175,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,LAE - AA,0.04,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,PE,0.022000000000000002,Πλεύση Ελευθερίας,PE,ΠΕ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,PE,0.022000000000000002,Πλεύση Ελευθερίας,PE,ΠΕ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,PE,0.04,Πλεύση Ελευθερίας,PE,ΠΕ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,PE,0.03,Πλεύση Ελευθερίας,PE,ΠΕ
@@ -4629,6 +4639,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,PE,,Πλεύση Ελευθερίας,PE,ΠΕ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,PE,,Πλεύση Ελευθερίας,PE,ΠΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,PE,,Πλεύση Ελευθερίας,PE,ΠΕ
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,EL,0.078,Ελληνική Λύση,EL,ΕΛ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,EL,0.09300000000000001,Ελληνική Λύση,EL,ΕΛ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,EL,0.106,Ελληνική Λύση,EL,ΕΛ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,EL,0.099,Ελληνική Λύση,EL,ΕΛ
@@ -5092,6 +5103,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,EL,,Ελληνική Λύση,EL,ΕΛ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EL,,Ελληνική Λύση,EL,ΕΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EL,,Ελληνική Λύση,EL,ΕΛ
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,MeRA25,0.019,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
@@ -5555,6 +5567,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,EKE,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,EKE,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,EKE,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,EKE,,,,
@@ -6018,6 +6031,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,EKE,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EKE,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EKE,,,,
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,ED,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,ED,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,ED,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,ED,,,,
@@ -6481,6 +6495,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ED,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ED,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ED,,,,
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,EAN…,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,EAN…,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,EAN…,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,EAN…,,,,
@@ -6944,6 +6959,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,EAN…,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EAN…,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EAN…,,,,
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,Níki,0.034,ΝΙΚΗ,Níki,Νίκη
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,Níki,0.046,ΝΙΚΗ,Níki,Νίκη
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,Níki,0.035,ΝΙΚΗ,Níki,Νίκη
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,Níki,0.043,ΝΙΚΗ,Níki,Νίκη
@@ -7407,6 +7423,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,Níki,,ΝΙΚΗ,Níki,Νίκη
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Níki,,ΝΙΚΗ,Níki,Νίκη
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Níki,,ΝΙΚΗ,Níki,Νίκη
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,Spartiátes,0.012,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,Spartiátes,0.027999999999999997,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,Spartiátes,0.027000000000000003,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
@@ -7870,6 +7887,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,NA,0.046,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,NA,0.044000000000000004,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,NA,0.040999999999999995,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,NA,0.027999999999999997,,,
@@ -8333,6 +8351,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,NA,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,NA,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,NA,,,,
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,ANTARSYA,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,ANTARSYA,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,ANTARSYA,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,ANTARSYA,,,,
@@ -8796,6 +8815,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ANTARSYA,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ANTARSYA,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ANTARSYA,,,,
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,FL,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,FL,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,FL,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,FL,,,,
@@ -9259,6 +9279,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,FL,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,FL,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,FL,,,,
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,D,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,D,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,D,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,D,0.025,,,
@@ -9722,6 +9743,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,D,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,D,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,D,,,,
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,DX,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,DX,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,DX,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,DX,,,,
@@ -10185,6 +10207,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,DX,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,DX,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,DX,,,,
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,K,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,K,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,K,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,K,,,,
@@ -10648,6 +10671,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,K,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,K,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,K,,,,
+Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
