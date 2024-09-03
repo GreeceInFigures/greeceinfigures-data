@@ -1,4 +1,5 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Party,Percent,Party_Gr,Party_En,Acronym
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,SYRIZA,0.099,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,SYRIZA,0.145,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,SYRIZA,0.138,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,SYRIZA,0.154,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
@@ -468,6 +469,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,SYRIZA,0.25,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,SYRIZA,0.215,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,SYRIZA,0.25,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,ND,0.265,Νέα Δημοκρατία,ND,ΝΔ
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,ND,0.297,Νέα Δημοκρατία,ND,ΝΔ
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,ND,0.304,Νέα Δημοκρατία,ND,ΝΔ
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,ND,0.345,Νέα Δημοκρατία,ND,ΝΔ
@@ -937,6 +939,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ND,0.327,Νέα Δημοκρατία,ND,ΝΔ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ND,0.37,Νέα Δημοκρατία,ND,ΝΔ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ND,0.365,Νέα Δημοκρατία,ND,ΝΔ
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
@@ -1406,6 +1409,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ChA,0.09300000000000001,Χρυσή Αυγή,ChA,ΧΑ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ChA,0.08,Χρυσή Αυγή,ChA,ΧΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ChA,0.085,Χρυσή Αυγή,ChA,ΧΑ
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,PASOK-KINAL,0.14,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,PASOK-KINAL,0.133,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,PASOK-KINAL,0.128,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,PASOK-KINAL,0.139,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
@@ -1875,6 +1879,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,PASOK-KINAL,0.09699999999999999,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,PASOK-KINAL,0.13,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,PASOK-KINAL,0.1,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,KKE,0.10400000000000001,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,KKE,0.091,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,KKE,0.099,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,KKE,0.09,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
@@ -2344,6 +2349,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,KKE,0.073,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,KKE,0.075,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,KKE,0.065,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
@@ -2813,6 +2819,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Potami,0.01,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
@@ -3282,6 +3289,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ANEL,0.028999999999999998,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ANEL,0.02,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ANEL,0.025,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
@@ -3751,6 +3759,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,EK,0.026000000000000002,Ένωση Κεντρώων,EK,ΕΚ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EK,0.02,Ένωση Κεντρώων,EK,ΕΚ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EK,0.025,Ένωση Κεντρώων,EK,ΕΚ
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
@@ -4220,6 +4229,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,LAE - AA,0.04,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,PE,0.047,Πλεύση Ελευθερίας,PE,ΠΕ
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,PE,0.043,Πλεύση Ελευθερίας,PE,ΠΕ
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,PE,0.057,Πλεύση Ελευθερίας,PE,ΠΕ
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,PE,0.036000000000000004,Πλεύση Ελευθερίας,PE,ΠΕ
@@ -4689,6 +4699,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,PE,,Πλεύση Ελευθερίας,PE,ΠΕ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,PE,,Πλεύση Ελευθερίας,PE,ΠΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,PE,,Πλεύση Ελευθερίας,PE,ΠΕ
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,EL,0.105,Ελληνική Λύση,EL,ΕΛ
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,EL,0.087,Ελληνική Λύση,EL,ΕΛ
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,EL,0.092,Ελληνική Λύση,EL,ΕΛ
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,EL,0.09699999999999999,Ελληνική Λύση,EL,ΕΛ
@@ -5158,6 +5169,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,EL,,Ελληνική Λύση,EL,ΕΛ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EL,,Ελληνική Λύση,EL,ΕΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EL,,Ελληνική Λύση,EL,ΕΛ
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,MeRA25,0.035,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,MeRA25,0.032,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,MeRA25,0.02,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
@@ -5627,6 +5639,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,EKE,,,,
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,EKE,,,,
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,EKE,,,,
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,EKE,,,,
@@ -6096,6 +6109,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,EKE,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EKE,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EKE,,,,
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,ED,,,,
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,ED,,,,
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,ED,,,,
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,ED,,,,
@@ -6565,6 +6579,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ED,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ED,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ED,,,,
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,EAN…,,,,
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,EAN…,,,,
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,EAN…,,,,
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,EAN…,,,,
@@ -7034,6 +7049,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,EAN…,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EAN…,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EAN…,,,,
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,Níki,0.039,ΝΙΚΗ,Níki,Νίκη
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,Níki,0.035,ΝΙΚΗ,Níki,Νίκη
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,Níki,0.03,ΝΙΚΗ,Níki,Νίκη
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,Níki,0.039,ΝΙΚΗ,Níki,Νίκη
@@ -7503,6 +7519,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,Níki,,ΝΙΚΗ,Níki,Νίκη
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Níki,,ΝΙΚΗ,Níki,Νίκη
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Níki,,ΝΙΚΗ,Níki,Νίκη
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,Spartiátes,0.01,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
@@ -7972,6 +7989,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,NA,0.018000000000000002,,,
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,NA,0.023,,,
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,NA,0.028999999999999998,,,
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,NA,0.02,,,
@@ -8441,6 +8459,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,NA,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,NA,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,NA,,,,
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,ANTARSYA,,,,
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,ANTARSYA,,,,
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,ANTARSYA,,,,
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,ANTARSYA,,,,
@@ -8910,6 +8929,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ANTARSYA,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ANTARSYA,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ANTARSYA,,,,
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,FL,0.048,,,
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,FL,0.032,,,
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,FL,0.031,,,
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,FL,0.034,,,
@@ -9379,6 +9399,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,FL,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,FL,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,FL,,,,
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,D,,,,
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,D,,,,
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,D,,,,
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,D,,,,
@@ -9848,6 +9869,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,D,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,D,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,D,,,,
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,DX,,,,
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,DX,,,,
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,DX,,,,
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,DX,,,,
@@ -10317,6 +10339,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,DX,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,DX,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,DX,,,,
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,K,,,,
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,K,,,,
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,K,,,,
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,K,,,,
@@ -10786,6 +10809,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,K,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,K,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,K,,,,
+Interview,Politic.gr,2024-08-21,2024-08-26,National,2805,Provided,83.8%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 MRB,,2024-06-27,2024-07-04,National,2000,Provided,83.7%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Κάπα Research,,2024-06-25,2024-06-28,National,1487,Provided,87.9%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
