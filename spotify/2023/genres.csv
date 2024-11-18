@@ -1,95 +1,68 @@
-genre_name,total_streams_2023,weeks_in_top200_2023
-greek drill,296809962,52
-greek hip hop,219217381,52
-greek trap,165923319,52
-greek pop,130167043,52
-album rock,84584391,52
-modern country pop,46277291,48
-afrofuturism,46073990,52
-indie pop,44975670,52
-k-pop,35608667,52
-cantautora mexicana,34357305,34
-borneo traditional,29504845,52
-dancefloor dnb,28405525,42
-alternative pop rock,19526033,52
-rap,18039990,51
-canadian contemporary r&b,17202112,50
-pop,16751452,52
-greek fem rap,8192745,44
-modern rock,6030381,39
-dance pop,6012812,23
-clap and tap,6007118,30
-classic oklahoma country,5788436,24
-garage rock,5422136,52
-swedish hip hop,5341137,20
-colombian pop,5258844,22
-big room,5191693,39
-canadian hip hop,4984509,32
-trap italiana,4872725,37
-electra,4824240,23
-funk paulista,4778904,38
-musical advocacy,4470137,43
-edm,3713729,40
-burmese pop,3509002,11
-adult standards,3179680,6
-melodic drill,2966523,24
-entehno,2433654,6
-gen z singer-songwriter,2256660,26
-uk contemporary r&b,2252815,19
-europop,2105008,14
-singer-songwriter pop,2071341,16
-greek indie,1923169,22
-art pop,1788769,21
-albanian pop,1609481,24
-afrobeats,1576238,22
-detroit hip hop,1524752,18
-indietronica,1424247,15
-r&b,1308506,15
-ukrainian pop,1289208,13
-albanian hip hop,1159477,16
-bedroom pop,1053273,14
-reggae,1028468,10
-argentine hip hop,1002332,9
-corrido,997524,10
-alternative rock,913388,6
-new romantic,902191,6
-chill pop,831773,14
-greek underground rap,737676,7
-hip hop,725828,13
-hip pop,665201,7
-piano rock,660037,13
-hypertechno,622174,9
-dark clubbing,594955,11
-new jersey underground rap,531479,9
-modern alternative rock,527715,10
-finnish pop,508272,3
-classic greek pop,476141,5
-deep groove house,411770,7
-dirty south rap,391342,4
-brooklyn indie,340993,5
-latin pop,336595,4
-brill building pop,335624,4
-israeli pop,291164,2
-permanent wave,286234,2
-desi pop,272649,4
-pop soul,271979,4
-cypriot pop,271853,3
-writing,263455,3
-anime rap,259564,4
-italian adult pop,245615,2
-drill espanol,129018,2
-latinx alternative,120961,1
-alt z,119280,2
-indie rock italiano,118884,2
-alternative hip hop,88045,2
-atl hip hop,87623,1
-bouzouki,81288,1
-french pop,80745,1
-soft rock,73321,1
-australian pop,71565,1
-deep underground hip hop,68670,1
-florida drill,65930,1
-belgian edm,63621,1
-alternative metal,61298,1
-irish singer-songwriter,50876,1
-deep christian rock,47595,1
+genre_name,total_streams_2023
+greek drill,422555398
+greek hip hop,415109040
+greek trap,242493102
+greek pop,182812205
+pop,20020158
+greek fem rap,19060226
+rap,17816388
+canadian contemporary r&b,17202112
+dance pop,6012812
+uk hip hop,6007118
+garage rock,5422136
+swedish hip hop,5341137
+big room,5191693
+canadian hip hop,4984509
+trap italiana,4872725
+electra,4824240
+edm,3713729
+atl hip hop,3478119
+adult standards,3179680
+melodic drill,2966523
+entehno,2433654
+greek underground rap,2358448
+gen z singer-songwriter,2256660
+uk contemporary r&b,2252815
+greek indie,2128854
+europop,2105008
+singer-songwriter pop,2071341
+art pop,1788769
+albanian pop,1609481
+detroit hip hop,1524752
+afrobeats,1368710
+r&b,1308506
+albanian hip hop,1159477
+k-pop,1086488
+bedroom pop,1053273
+argentine hip hop,1002332
+new romantic,902191
+chill pop,831773
+hip hop,776686
+hip pop,665201
+piano rock,660037
+hypertechno,622174
+dark clubbing,594955
+new jersey underground rap,531479
+modern alternative rock,527715
+finnish pop,508272
+classic greek pop,476141
+deep groove house,411770
+french pop,353394
+brooklyn indie,340993
+latin pop,336595
+brill building pop,335624
+israeli pop,291164
+permanent wave,286234
+r&b francais,271979
+cypriot pop,271853
+drill espanol,129018
+alt z,119280
+indie rock italiano,118884
+alternative hip hop,88045
+soft rock,73321
+australian pop,71565
+deep underground hip hop,68670
+eurodance,63710
+belgian edm,63621
+alternative metal,61298
+irish singer-songwriter,50876
