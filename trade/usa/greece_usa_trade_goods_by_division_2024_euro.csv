@@ -1,0 +1,63 @@
+Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
+00,Live animals other than animals of division 03,Ζωντανά ζώα,10.0,40814.0,-40804.0
+01,Meat and meat preparations,Κρέας και παρασκευάσματα κρέατος,6371.0,,
+02,Dairy products and birds' eggs,Γαλακτοκομικά προϊόντα και αυγά πτηνών,75231297.0,123216.0,75108081.0
+03,"Fish (not marine mammals), crustaceans, molluscs and aquatic invertebrates and preparations thereof","Ψάρια (μη θαλάσσια θηλαστικά), μαλακόστρακα, μαλάκια και υδρόβια, ασπόνδυλα και τα παρασκευάσματά τους",29027889.0,1120823.0,27907066.0
+04,Cereals and cereal preparations,Δημητριακά και παρασκευάσματα δημητριακών,55435753.0,1895503.0,53540250.0
+05,Vegetables and fruit,Λαχανικά και φρούτα,415510202.0,35362991.0,380147211.0
+06,"Sugars, sugar preparations and honey","Ζάχαρη, παρασκευάσματα ζάχαρης και μέλι",12086872.0,155332.0,11931540.0
+07,"Coffee, tea, cocoa, spices, and manufactures thereof","Καφές, τσάι, κακάο, μπαχαρικά, υλικά και προϊόντα τους",3887281.0,349212.0,3538069.0
+08,Feeding stuff for animals (not including unmilled cereals),Ζωοτροφές,77137.0,15578168.0,-15501031.0
+09,Miscellaneous edible products and preparations,Διάφορα βρώσιμα προϊόντα και παρασκευάσματα,42374944.0,6714375.0,35660569.0
+11,Beverages,Ποτά,26478167.0,4356862.0,22121305.0
+12,Tobacco and tobacco manufactures,Καπνός και προϊόντα καπνού,9370885.0,6597106.0,2773779.0
+21,"Hides, skins and furskins, raw","Δορές, δέρματα και γουναρικά ακατέργαστα",26.0,1367451.0,-1367425.0
+22,Oil-seeds and oleaginous fruits,Ελαιόσποροι και ελαιώδεις καρποί,2448008.0,963126.0,1484882.0
+23,Crude rubber (including synthetic and reclaimed),Καουτσούκ ακατέργαστο (περιλαμβάνεται το συνθετικό και το αναγεννημένο),58649.0,1067858.0,-1009209.0
+24,Cork and wood,Ξυλεία και φελλός,41909.0,5044770.0,-5002861.0
+25,Pulp and waste paper,Πολτός και απορρίμματα χαρτιού,498.0,14496581.0,-14496083.0
+26,Textile fibres (other than wool tops and other combed wool) and their wastes (not manufactured into yarn or fabric),"Υφαντικές ίνες (εκτός από μάλλινα νήματα και άλλο ακατέργαστο μαλλί) και απορρίμματα αυτών, μη μεταποιημένα σε κλωστές ή υφάσματα",452571.0,6960169.0,-6507598.0
+27,"Crude fertilizers, other than those of division 56, and crude minerals (excluding coal, petroleum and precious stones)","Λιπάσματα ακατέργαστα και ορυκτά ακατέργαστα (εκτός από άνθρακα, πετρέλαιο και πολύτιμους λίθους)",18779529.0,2697393.0,16082136.0
+28,Metalliferous ores and metal scrap,Μεταλλεύματα και απορρίμματα μετάλλων,107695.0,95895631.0,-95787936.0
+29,"Crude animal and vegetable materials, n.e.s.","Ακατέργαστες ύλες ζωικής ή φυτικής προέλευσης, μη κατονομαζόμενες",4347027.0,2209509.0,2137518.0
+32,"Coal, coke and briquettes","Άνθρακας, οπτάνθρακας (κωκ) και μπρικέτες",61474.0,614.0,60860.0
+33,"Petroleum, petroleum products and related materials",Πετρέλαιο και προϊόντα πετρελαίου,550999503.0,85072288.0,465927215.0
+34,"Gas, natural and manufactured","Φωταέριο, φυσικό και βιομηχανικό",933.0,936141468.0,-936140535.0
+42,"Fixed vegetable fats and oils, crude, refined or fractionated","Λάδια και λίπη σταθεράς φυτικής προέλευσης, ακατέργαστα και εξευγενισμένα",76728944.0,119316.0,76609628.0
+43,"Animal or vegetable fats and oils, processed; waxes of animal or vegetable origin; inedible mixtures or preparations of animal or vegetable fats or oils, n.e.s.","Λάδια και λίπη επεξεργασμένα και κερί ζωικής ή φυτικής προέλευσης, μη εδώδιμα μείγματα ή παρασκευάσματα από ζωικά ή φυτικά λίπη και έλαια, μη κατονομαζόμενα",51072.0,,
+51,Organic chemicals,Οργανικά χημικά,3238360.0,32734100.0,-29495740.0
+52,Inorganic chemicals,Ανόργανα χημικά,2415249.0,4103124.0,-1687875.0
+53,"Dyeing, tanning and colouring materials","Βαφικές, δεψικές και χρωστικές ύλες",1376018.0,4223753.0,-2847735.0
+54,Medicinal and pharmaceutical products,Ιατρικά και φαρμακευτικά προϊόντα,16289467.0,21131182.0,-4841715.0
+55,"Essential oils and resinoids and perfume materials; toilet, polishing and cleaning preparations","Αιθέρια λάδια, ρητινοειδή και αρωματικές ύλες. Παρασκευάσματα καλλωπισμού, στίλβωσης και καθαρισμού",54047259.0,11332908.0,42714351.0
+56,Fertilizers (other than those of group 272),Βιομηχανικά λιπάσματα (εκτός αυτών της κατηγορίας 27),115769.0,902746.0,-786977.0
+57,Plastics in primary forms,Πλαστικές ύλες σε πρωτογενή μορφή,2822271.0,80252935.0,-77430664.0
+58,Plastics in non-primary forms,Πλαστικές ύλες σε μη πρωτογενή μορφή,44648313.0,4138327.0,40509986.0
+59,"Chemical materials and products, n.e.s.","Χημικές ύλες και προϊόντα, μη κατονομαζόμενα",6518657.0,22791305.0,-16272648.0
+61,"Leather, leather manufactures, n.e.s., and dressed furskins","Δέρματα, είδη από δέρμα, μη κατονομαζόμενα, και γουναρικά κατεργασμένα",2587814.0,351796.0,2236018.0
+62,"Rubber manufactures, n.e.s.",Είδη από καουτσούκ,233314.0,4418580.0,-4185266.0
+63,Cork and wood manufactures (excluding furniture),Είδη από φελλό και ξύλο (εκτός επίπλων),2871096.0,3495744.0,-624648.0
+64,"Paper, paperboard and articles of paper pulp, of paper or of paperboard","Χαρτί, χαρτόνια και είδη από χαρτοπολτό, χαρτί ή χαρτόνι",14195149.0,9286774.0,4908375.0
+65,"Textile yarn, fabrics, made-up articles, n.e.s., and related products","Υφαντικά νήματα, υφάσματα έτοιμα, προϊόντα μη κατονομαζόμενα και συναφή προϊόντα",18578419.0,3450949.0,15127470.0
+66,"Non-metallic mineral manufactures, n.e.s.","Είδη από μη μεταλλικά ορυκτά, μη κατονομαζόμενα",126447766.0,6373665.0,120074101.0
+67,Iron and steel,Σίδηρος και χάλυβας,55502876.0,29979835.0,25523041.0
+68,Non-ferrous metals,Μη σιδηρούχα μέταλλα,140617152.0,1684683.0,138932469.0
+69,"Manufactures of metals, n.e.s.","Είδη από μέταλλο, μη κατονομαζόμενα",36554203.0,12401012.0,24153191.0
+71,Power-generating machinery and equipment,Μηχανήματα και εξοπλισμός παραγωγής ενέργειας,57281090.0,131043715.0,-73762625.0
+72,Machinery specialized for particular industries,Μηχανήματα ειδικά για ορισμένες βιομηχανίες,11071300.0,28805391.0,-17734091.0
+73,Metalworking machinery,Μηχανήματα κατεργασίας μετάλλων,3325652.0,2642856.0,682796.0
+74,"General industrial machinery and equipment, n.e.s., and machine parts, n.e.s.","Γενικός βιομηχανικός εξοπλισμός, μηχανήματα και μέρη αυτών, μη κατονομαζόμενα",13934575.0,38759108.0,-24824533.0
+75,Office machines and automatic data-processing machines,Μηχανές γραφείου και μηχανές αυτόματης επεξεργασίας στοιχείων,1691814.0,18030603.0,-16338789.0
+76,Telecommunications and sound-recording and reproducing apparatus and equipment,Συσκευές και εξοπλισμός τηλεπικοινωνιών και εγγραφής και αναπαραγωγής του ήχου,9464607.0,18054773.0,-8590166.0
+77,"Electrical machinery, apparatus and appliances, n.e.s., and electrical parts thereof (including nonelectrical counterparts, n.e.s., of electrical household-type equipment)","Ηλεκτρικά μηχανήματα, συσκευές, υλικά μη κατονομαζόμενα και ηλεκτρικά μέρη αυτών (περιλαμβάνονται τα αντίστοιχα μη ηλεκτρικά είδη, τα μη κατονομαζόμενα του οικιακού εξοπλισμού)",155393842.0,47553188.0,107840654.0
+78,Road vehicles (including air-cushion vehicles),Οχήματα για δρόμους,2498597.0,7285265.0,-4786668.0
+79,Other transport equipment,Λοιπό μεταφορικό υλικό,75288723.0,83007994.0,-7719271.0
+81,"Prefabricated buildings; sanitary plumbing, heating and lighting fixtures and fittings, n.e.s.","Προκατασκευασμένα κτίρια, συσκευές υγιεινής, θέρμανσης και φωτισμού, μη κατονομαζόμενα",1914446.0,764223.0,1150223.0
+82,"Furniture and parts thereof; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings","Έπιπλα και μέρη αυτών, κρεβάτια, στρώματα, υποστηρίγματα στρωμάτων, μαξιλάρια και παρόμοιος εξοπλισμός επίπλωση",7369291.0,1958006.0,5411285.0
+83,"Travel goods, handbags and similar containers","Είδη ταξιδιού, σακίδια χεριού και παρόμοια είδη",1875424.0,434677.0,1440747.0
+84,Articles of apparel and clothing accessories,Είδη ενδυμασίας και συμπληρώματα ένδυσης,21195998.0,2005579.0,19190419.0
+85,Footwear,Υποδήματα,6402946.0,1044245.0,5358701.0
+87,"Professional, scientific and controlling instruments and apparatus, n.e.s.","Όργανα και συσκευές επαγγελματικές, επιστημονικές και ελέγχου μ.α.κ.",43178140.0,55798335.0,-12620195.0
+88,"Photographic apparatus, equipment and supplies and optical goods, n.e.s.; watches and clocks","Φωτογραφικές συσκευές και εφόδια για τη φωτογράφιση, είδη οπτικής, μη κατονομαζόμενα, ωρολόγια χεριού και τοίχου",1873358.0,2609586.0,-736228.0
+89,"Miscellaneous manufactured articles, n.e.s.","Διάφορα βιομηχανικά είδη, μη κατονομαζόμενα",62445289.0,45399602.0,17045687.0
+97,"Gold, non- monetary (excluding gold, ores and concentrates)",Χρυσός μη νομισματικός,880.0,1139395.0,-1138515.0
