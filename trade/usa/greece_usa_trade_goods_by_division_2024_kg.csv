@@ -4,7 +4,7 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 02,Dairy products and birds' eggs,Γαλακτοκομικά προϊόντα και αυγά πτηνών,7988824.0,11393.0,7977431.0
 03,"Fish (not marine mammals), crustaceans, molluscs and aquatic invertebrates and preparations thereof","Ψάρια (μη θαλάσσια θηλαστικά), μαλακόστρακα, μαλάκια και υδρόβια, ασπόνδυλα και τα παρασκευάσματά τους",4107333.0,215433.0,3891900.0
 04,Cereals and cereal preparations,Δημητριακά και παρασκευάσματα δημητριακών,20789644.0,955605.0,19834039.0
-05,Vegetables and fruit,Λαχανικά και φρούτα,142299280.0,10874783.0,131424497.0
+05,Vegetables and fruit,Λαχανικά και φρούτα,142299280.0,10875179.0,131424101.0
 06,"Sugars, sugar preparations and honey","Ζάχαρη, παρασκευάσματα ζάχαρης και μέλι",2250504.0,37620.0,2212884.0
 07,"Coffee, tea, cocoa, spices, and manufactures thereof","Καφές, τσάι, κακάο, μπαχαρικά, υλικά και προϊόντα τους",366919.0,41377.0,325542.0
 08,Feeding stuff for animals (not including unmilled cereals),Ζωοτροφές,128524.0,34136892.0,-34008368.0
@@ -20,18 +20,18 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 27,"Crude fertilizers, other than those of division 56, and crude minerals (excluding coal, petroleum and precious stones)","Λιπάσματα ακατέργαστα και ορυκτά ακατέργαστα (εκτός από άνθρακα, πετρέλαιο και πολύτιμους λίθους)",354231430.0,3317479.0,350913951.0
 28,Metalliferous ores and metal scrap,Μεταλλεύματα και απορρίμματα μετάλλων,73470.0,188935188.0,-188861718.0
 29,"Crude animal and vegetable materials, n.e.s.","Ακατέργαστες ύλες ζωικής ή φυτικής προέλευσης, μη κατονομαζόμενες",149744.0,257618.0,-107874.0
-32,"Coal, coke and briquettes","Άνθρακας, οπτάνθρακας (κωκ) και μπρικέτες",1285.0,10.0,1275.0
+32,"Coal, coke and briquettes","Άνθρακας, οπτάνθρακας (κωκ) και μπρικέτες",1285.0,8.0,1277.0
 33,"Petroleum, petroleum products and related materials",Πετρέλαιο και προϊόντα πετρελαίου,791675373.0,444927279.0,346748094.0
 34,"Gas, natural and manufactured","Φωταέριο, φυσικό και βιομηχανικό",4.0,1207238993.0,-1207238989.0
 42,"Fixed vegetable fats and oils, crude, refined or fractionated","Λάδια και λίπη σταθεράς φυτικής προέλευσης, ακατέργαστα και εξευγενισμένα",9650532.0,15749.0,9634783.0
 43,"Animal or vegetable fats and oils, processed; waxes of animal or vegetable origin; inedible mixtures or preparations of animal or vegetable fats or oils, n.e.s.","Λάδια και λίπη επεξεργασμένα και κερί ζωικής ή φυτικής προέλευσης, μη εδώδιμα μείγματα ή παρασκευάσματα από ζωικά ή φυτικά λίπη και έλαια, μη κατονομαζόμενα",14615.0,,
-51,Organic chemicals,Οργανικά χημικά,262176.0,23693735.0,-23431559.0
+51,Organic chemicals,Οργανικά χημικά,262176.0,23693734.0,-23431558.0
 52,Inorganic chemicals,Ανόργανα χημικά,1528259.0,10328294.0,-8800035.0
 53,"Dyeing, tanning and colouring materials","Βαφικές, δεψικές και χρωστικές ύλες",462904.0,942476.0,-479572.0
 54,Medicinal and pharmaceutical products,Ιατρικά και φαρμακευτικά προϊόντα,87184.0,96260.0,-9076.0
 55,"Essential oils and resinoids and perfume materials; toilet, polishing and cleaning preparations","Αιθέρια λάδια, ρητινοειδή και αρωματικές ύλες. Παρασκευάσματα καλλωπισμού, στίλβωσης και καθαρισμού",9723953.0,1163537.0,8560416.0
-56,Fertilizers (other than those of group 272),Βιομηχανικά λιπάσματα (εκτός αυτών της κατηγορίας 27),29075.0,198268.0,-169193.0
-57,Plastics in primary forms,Πλαστικές ύλες σε πρωτογενή μορφή,1314241.0,75201825.0,-73887584.0
+56,Fertilizers (other than those of group 272),Βιομηχανικά λιπάσματα (εκτός αυτών της κατηγορίας 27),29075.0,199268.0,-170193.0
+57,Plastics in primary forms,Πλαστικές ύλες σε πρωτογενή μορφή,1314241.0,75176825.0,-73862584.0
 58,Plastics in non-primary forms,Πλαστικές ύλες σε μη πρωτογενή μορφή,9281512.0,356274.0,8925238.0
 59,"Chemical materials and products, n.e.s.","Χημικές ύλες και προϊόντα, μη κατονομαζόμενα",802882.0,4033781.0,-3230899.0
 61,"Leather, leather manufactures, n.e.s., and dressed furskins","Δέρματα, είδη από δέρμα, μη κατονομαζόμενα, και γουναρικά κατεργασμένα",20370.0,8970.0,11400.0
