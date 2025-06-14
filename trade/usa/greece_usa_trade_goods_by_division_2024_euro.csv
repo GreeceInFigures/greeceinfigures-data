@@ -21,7 +21,7 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 28,Metalliferous ores and metal scrap,Μεταλλεύματα και απορρίμματα μετάλλων,107695.0,95895631.0,-95787936.0
 29,"Crude animal and vegetable materials, n.e.s.","Ακατέργαστες ύλες ζωικής ή φυτικής προέλευσης, μη κατονομαζόμενες",4347027.0,2209509.0,2137518.0
 32,"Coal, coke and briquettes","Άνθρακας, οπτάνθρακας (κωκ) και μπρικέτες",61474.0,408.0,61066.0
-33,"Petroleum, petroleum products and related materials",Πετρέλαιο και προϊόντα πετρελαίου,550999503.0,85072288.0,465927215.0
+33,"Petroleum, petroleum products and related materials",Πετρέλαιο και προϊόντα πετρελαίου,550999503.0,85177492.0,465822011.0
 34,"Gas, natural and manufactured","Φωταέριο, φυσικό και βιομηχανικό",933.0,936141468.0,-936140535.0
 42,"Fixed vegetable fats and oils, crude, refined or fractionated","Λάδια και λίπη σταθεράς φυτικής προέλευσης, ακατέργαστα και εξευγενισμένα",76728944.0,119316.0,76609628.0
 43,"Animal or vegetable fats and oils, processed; waxes of animal or vegetable origin; inedible mixtures or preparations of animal or vegetable fats or oils, n.e.s.","Λάδια και λίπη επεξεργασμένα και κερί ζωικής ή φυτικής προέλευσης, μη εδώδιμα μείγματα ή παρασκευάσματα από ζωικά ή φυτικά λίπη και έλαια, μη κατονομαζόμενα",51072.0,,
@@ -36,7 +36,7 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 59,"Chemical materials and products, n.e.s.","Χημικές ύλες και προϊόντα, μη κατονομαζόμενα",6518657.0,22791305.0,-16272648.0
 61,"Leather, leather manufactures, n.e.s., and dressed furskins","Δέρματα, είδη από δέρμα, μη κατονομαζόμενα, και γουναρικά κατεργασμένα",2587814.0,351796.0,2236018.0
 62,"Rubber manufactures, n.e.s.",Είδη από καουτσούκ,233314.0,4418580.0,-4185266.0
-63,Cork and wood manufactures (excluding furniture),Είδη από φελλό και ξύλο (εκτός επίπλων),2871096.0,3495744.0,-624648.0
+63,Cork and wood manufactures (excluding furniture),Είδη από φελλό και ξύλο (εκτός επίπλων),2871096.0,3494125.0,-623029.0
 64,"Paper, paperboard and articles of paper pulp, of paper or of paperboard","Χαρτί, χαρτόνια και είδη από χαρτοπολτό, χαρτί ή χαρτόνι",14195149.0,9286774.0,4908375.0
 65,"Textile yarn, fabrics, made-up articles, n.e.s., and related products","Υφαντικά νήματα, υφάσματα έτοιμα, προϊόντα μη κατονομαζόμενα και συναφή προϊόντα",18578419.0,3450949.0,15127470.0
 66,"Non-metallic mineral manufactures, n.e.s.","Είδη από μη μεταλλικά ορυκτά, μη κατονομαζόμενα",126447766.0,6373665.0,120074101.0
