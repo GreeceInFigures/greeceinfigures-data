@@ -3,14 +3,14 @@ Country,Household_NPI_Savings_Rate_2024,Country_Code,Country_En
 Βέλγιο,,BE,Belgium
 Βουλγαρία,,BG,Bulgaria
 Κύπρος,,CY,Cyprus
-Τσεχία,,CZ,Czech Republic
-Γερμανία,20.13,DE,Germany
-Δανία,9.08,DK,Denmark
+Τσεχία,19.86,CZ,Czech Republic
+Γερμανία,20.05,DE,Germany
+Δανία,14.29,DK,Denmark
 Εσθονία,,EE,Estonia
 Ελλάδα,,EL,Greece
 Ισπανία,,ES,Spain
-E.E.,14.45,EU27_2020,E.U.
-Φινλανδία,11.0,FI,Finland
+E.E.,14.56,EU27_2020,E.U.
+Φινλανδία,12.45,FI,Finland
 Γαλλία,,FR,France
 Κροατία,,HR,Croatia
 Ουγγαρία,,HU,Hungary
@@ -20,10 +20,10 @@ E.E.,14.45,EU27_2020,E.U.
 Λουξεμβούργο,,LU,Luxembourg
 Λετονία,,LV,Latvia
 Μάλτα,,MT,Malta
-Ολλανδία,,NL,Netherlands
+Ολλανδία,16.61,NL,Netherlands
 Πολωνία,,PL,Poland
-Πορτογαλία,12.2,PT,Portugal
+Πορτογαλία,12.51,PT,Portugal
 Ρουμανία,-2.18,RO,Romania
-Σουηδία,18.1,SE,Sweden
+Σουηδία,17.96,SE,Sweden
 Σλοβενία,,SI,Slovenia
 Σλοβακία,5.89,SK,Slovakia

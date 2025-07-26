@@ -3,13 +3,13 @@ Country,Household_Savings_Rate_2024,Country_Code,Country_En
 Βέλγιο,,BE,Belgium
 Βουλγαρία,,BG,Bulgaria
 Κύπρος,,CY,Cyprus
-Τσεχία,,CZ,Czech Republic
+Τσεχία,20.29,CZ,Czech Republic
 Γερμανία,,DE,Germany
-Δανία,,DK,Denmark
+Δανία,14.2,DK,Denmark
 Εσθονία,,EE,Estonia
 Ελλάδα,,EL,Greece
 Ισπανία,,ES,Spain
-Φινλανδία,10.62,FI,Finland
+Φινλανδία,12.0,FI,Finland
 Γαλλία,,FR,France
 Κροατία,,HR,Croatia
 Ουγγαρία,,HU,Hungary
@@ -19,10 +19,10 @@ Country,Household_Savings_Rate_2024,Country_Code,Country_En
 Λουξεμβούργο,,LU,Luxembourg
 Λετονία,,LV,Latvia
 Μάλτα,,MT,Malta
-Ολλανδία,,NL,Netherlands
+Ολλανδία,16.84,NL,Netherlands
 Πολωνία,,PL,Poland
 Πορτογαλία,,PT,Portugal
 Ρουμανία,-1.31,RO,Romania
-Σουηδία,18.12,SE,Sweden
+Σουηδία,17.93,SE,Sweden
 Σλοβενία,,SI,Slovenia
 Σλοβακία,6.03,SK,Slovakia
