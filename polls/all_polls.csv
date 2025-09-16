@@ -1,6 +1,7 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Party,Percent,Party_Gr,Party_En,Acronym
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,SYRIZA,0.040999999999999995,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,SYRIZA,0.042,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,SYRIZA,0.065,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,SYRIZA,0.045,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,SYRIZA,0.063,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,SYRIZA,0.08199999999999999,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
@@ -569,6 +570,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,SY
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,SYRIZA,0.25,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,ND,0.264,Νέα Δημοκρατία,ND,ΝΔ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,ND,0.305,Νέα Δημοκρατία,ND,ΝΔ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,ND,0.31,Νέα Δημοκρατία,ND,ΝΔ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,ND,0.259,Νέα Δημοκρατία,ND,ΝΔ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,ND,0.28800000000000003,Νέα Δημοκρατία,ND,ΝΔ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,ND,0.26899999999999996,Νέα Δημοκρατία,ND,ΝΔ
@@ -1137,6 +1139,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ND
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ND,0.365,Νέα Δημοκρατία,ND,ΝΔ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
@@ -1705,6 +1708,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Ch
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ChA,0.085,Χρυσή Αυγή,ChA,ΧΑ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,PASOK-KINAL,0.145,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,PASOK-KINAL,0.14,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,PASOK-KINAL,0.14,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,PASOK-KINAL,0.14800000000000002,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,PASOK-KINAL,0.14,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,PASOK-KINAL,0.135,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
@@ -2273,6 +2277,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,PA
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,PASOK-KINAL,0.1,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,KKE,0.087,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,KKE,0.07400000000000001,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,KKE,0.10099999999999999,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,KKE,0.079,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,KKE,0.09,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,KKE,0.094,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
@@ -2841,6 +2846,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,KK
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,KKE,0.065,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
@@ -3409,6 +3415,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Po
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
@@ -3977,6 +3984,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,AN
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ANEL,0.025,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
@@ -4545,6 +4553,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EK
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EK,0.025,Ένωση Κεντρώων,EK,ΕΚ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
@@ -5113,6 +5122,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,LA
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,PE,0.055999999999999994,Πλεύση Ελευθερίας,PE,ΠΕ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,PE,0.11699999999999999,Πλεύση Ελευθερίας,PE,ΠΕ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,PE,0.098,Πλεύση Ελευθερίας,PE,ΠΕ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,PE,0.1,Πλεύση Ελευθερίας,PE,ΠΕ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,PE,0.131,Πλεύση Ελευθερίας,PE,ΠΕ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,PE,0.11699999999999999,Πλεύση Ελευθερίας,PE,ΠΕ
@@ -5681,6 +5691,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,PE
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,PE,,Πλεύση Ελευθερίας,PE,ΠΕ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,EL,0.098,Ελληνική Λύση,EL,ΕΛ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,EL,0.115,Ελληνική Λύση,EL,ΕΛ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,EL,0.109,Ελληνική Λύση,EL,ΕΛ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,EL,0.102,Ελληνική Λύση,EL,ΕΛ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,EL,0.11800000000000001,Ελληνική Λύση,EL,ΕΛ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,EL,0.105,Ελληνική Λύση,EL,ΕΛ
@@ -6249,6 +6260,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EL
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EL,,Ελληνική Λύση,EL,ΕΛ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,MeRA25,0.046,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,MeRA25,0.034,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,MeRA25,0.017,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,MeRA25,0.052000000000000005,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,MeRA25,0.013000000000000001,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,MeRA25,0.040999999999999995,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
@@ -6817,6 +6829,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Me
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,EKE,,,,
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,EKE,,,,
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,EKE,,,,
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,EKE,,,,
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,EKE,,,,
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,EKE,,,,
@@ -7385,6 +7398,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EK
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EKE,,,,
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,ED,,,,
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,ED,,,,
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,ED,,,,
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,ED,,,,
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,ED,,,,
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,ED,,,,
@@ -7953,6 +7967,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ED
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ED,,,,
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,EAN…,,,,
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,EAN…,,,,
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,EAN…,,,,
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,EAN…,,,,
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,EAN…,,,,
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,EAN…,,,,
@@ -8521,6 +8536,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EA
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EAN…,,,,
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,Níki,0.023,ΝΙΚΗ,Níki,Νίκη
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,Níki,0.024,ΝΙΚΗ,Níki,Νίκη
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,Níki,0.022000000000000002,ΝΙΚΗ,Níki,Νίκη
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,Níki,0.013000000000000001,ΝΙΚΗ,Níki,Νίκη
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,Níki,0.024,ΝΙΚΗ,Níki,Νίκη
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,Níki,0.028999999999999998,ΝΙΚΗ,Níki,Νίκη
@@ -9089,6 +9105,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,N�
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Níki,,ΝΙΚΗ,Níki,Νίκη
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,Spartiátes,0.013000000000000001,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
@@ -9657,6 +9674,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Sp
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,NA,0.025,,,
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,NA,0.016,,,
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,NA,0.017,,,
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,NA,0.021,,,
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,NA,0.018000000000000002,,,
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,NA,0.023,,,
@@ -10225,6 +10243,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,NA
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,NA,,,,
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,ANTARSYA,,,,
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,ANTARSYA,,,,
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,ANTARSYA,,,,
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,ANTARSYA,,,,
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,ANTARSYA,,,,
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,ANTARSYA,,,,
@@ -10793,6 +10812,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,AN
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ANTARSYA,,,,
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,FL,0.048,Φωνή Λογικής,FL,ΦΛ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,FL,0.043,Φωνή Λογικής,FL,ΦΛ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,FL,0.039,Φωνή Λογικής,FL,ΦΛ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,FL,0.053,Φωνή Λογικής,FL,ΦΛ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,FL,0.036000000000000004,Φωνή Λογικής,FL,ΦΛ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,FL,0.035,Φωνή Λογικής,FL,ΦΛ
@@ -11361,6 +11381,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,FL
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,FL,,Φωνή Λογικής,FL,ΦΛ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,D,,,,
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,D,,,,
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,D,,,,
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,D,,,,
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,D,,,,
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,D,,,,
@@ -11929,6 +11950,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,D,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,D,,,,
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,DX,,,,
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,DX,,,,
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,DX,,,,
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,DX,,,,
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,DX,,,,
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,DX,,,,
@@ -12497,6 +12519,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,DX
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,DX,,,,
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,K,,,,
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,K,,,,
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,K,,,,
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,K,,,,
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,K,,,,
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,K,,,,
@@ -13065,6 +13088,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,K,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,K,,,,
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,P-PE,,,,
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,P-PE,,,,
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,P-PE,,,,
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,P-PE,,,,
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,P-PE,,,,
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,P-PE,,,,
@@ -13633,6 +13657,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,P-
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,P-PE,,,,
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,KD,0.046,Κίνημα Δημοκρατίας,KD,ΚΔ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,KD,0.027000000000000003,Κίνημα Δημοκρατίας,KD,ΚΔ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,KD,0.03,Κίνημα Δημοκρατίας,KD,ΚΔ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,KD,0.05,Κίνημα Δημοκρατίας,KD,ΚΔ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,KD,0.028999999999999998,Κίνημα Δημοκρατίας,KD,ΚΔ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,KD,0.023,Κίνημα Δημοκρατίας,KD,ΚΔ
@@ -14201,6 +14226,7 @@ Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,KD
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 Interview,Political,2025-09-08,2025-09-10,National,3432,Provided,82.8%,0.1%,Other,0.121,ΑΛΛΟ,Other,ΑΛΛΟ
 Opinion,Action 24,2025-09-08,2025-09-10,National,1002,Provided,74.2%,0.1%,Other,0.05,ΑΛΛΟ,Other,ΑΛΛΟ
+GPO,Parapolitika,2025-09-08,2025-09-10,National,1000,Provided,80%,0.1%,Other,0.051,ΑΛΛΟ,Other,ΑΛΛΟ
 Interview,Politic.gr,2025-08-21,2025-08-25,National,2848,Provided,82.6%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 GPO,Παραπολιτικά,2025-07-21,2025-07-23,National,1000,Provided,79.9%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Prorata,Newsbomb,2025-07-11,2025-07-16,National,1000,Provided,85.5%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
