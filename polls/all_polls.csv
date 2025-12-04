@@ -1,5 +1,6 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Party,Percent,Party_Gr,Party_En,Acronym
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,SYRIZA,0.048,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,SYRIZA,0.048,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,SYRIZA,0.067,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,SYRIZA,0.061,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,SYRIZA,0.042,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
@@ -95,7 +96,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,SYRIZA,0.073,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,SYRIZA,0.066,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,SYRIZA,0.069,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,SYRIZA,0.099,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,SYRIZA,0.099,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,SYRIZA,0.08,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,SYRIZA,0.078,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,SYRIZA,0.079,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
@@ -133,9 +134,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,SYRIZA,0.159,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,SYRIZA,0.16699999999999998,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,SYRIZA,0.165,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,SYRIZA,0.161,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,SYRIZA,0.158,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,SYRIZA,0.14400000000000002,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,SYRIZA,0.125,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,SYRIZA,0.131,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,SYRIZA,0.135,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,SYRIZA,0.141,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,SYRIZA,0.14300000000000002,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,SYRIZA,0.13,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
@@ -158,6 +162,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,S
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,SYRIZA,0.14800000000000002,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,SYRIZA,0.113,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,SYRIZA,0.13,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,SYRIZA,0.147,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,SYRIZA,0.127,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,SYRIZA,0.145,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,SYRIZA,0.124,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
@@ -597,6 +602,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,SYRIZA,0.215,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,SYRIZA,0.25,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,ND,0.29100000000000004,Νέα Δημοκρατία,ND,ΝΔ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,ND,0.301,Νέα Δημοκρατία,ND,ΝΔ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,ND,0.299,Νέα Δημοκρατία,ND,ΝΔ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,ND,0.292,Νέα Δημοκρατία,ND,ΝΔ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,ND,0.302,Νέα Δημοκρατία,ND,ΝΔ
@@ -692,7 +698,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,ND,0.29,Νέα Δημοκρατία,ND,ΝΔ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,ND,0.303,Νέα Δημοκρατία,ND,ΝΔ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,ND,0.303,Νέα Δημοκρατία,ND,ΝΔ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,ND,0.28300000000000003,Νέα Δημοκρατία,ND,ΝΔ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,ND,0.28300000000000003,Νέα Δημοκρατία,ND,ΝΔ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,ND,0.29100000000000004,Νέα Δημοκρατία,ND,ΝΔ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,ND,0.318,Νέα Δημοκρατία,ND,ΝΔ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,ND,0.293,Νέα Δημοκρατία,ND,ΝΔ
@@ -730,9 +736,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,ND,0.33899999999999997,Νέα Δημοκρατία,ND,ΝΔ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,ND,0.33799999999999997,Νέα Δημοκρατία,ND,ΝΔ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,ND,0.349,Νέα Δημοκρατία,ND,ΝΔ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,ND,0.318,Νέα Δημοκρατία,ND,ΝΔ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,ND,0.301,Νέα Δημοκρατία,ND,ΝΔ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,ND,0.33899999999999997,Νέα Δημοκρατία,ND,ΝΔ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,ND,0.35700000000000004,Νέα Δημοκρατία,ND,ΝΔ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,ND,0.308,Νέα Δημοκρατία,ND,ΝΔ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,ND,0.36200000000000004,Νέα Δημοκρατία,ND,ΝΔ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,ND,0.32899999999999996,Νέα Δημοκρατία,ND,ΝΔ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,ND,0.35100000000000003,Νέα Δημοκρατία,ND,ΝΔ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,ND,0.37200000000000005,Νέα Δημοκρατία,ND,ΝΔ
@@ -755,6 +764,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,N
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,ND,0.354,Νέα Δημοκρατία,ND,ΝΔ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,ND,0.41200000000000003,Νέα Δημοκρατία,ND,ΝΔ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,ND,0.38799999999999996,Νέα Δημοκρατία,ND,ΝΔ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,ND,0.374,Νέα Δημοκρατία,ND,ΝΔ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,ND,0.382,Νέα Δημοκρατία,ND,ΝΔ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,ND,0.382,Νέα Δημοκρατία,ND,ΝΔ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,ND,0.402,Νέα Δημοκρατία,ND,ΝΔ
@@ -1194,6 +1204,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ND,0.37,Νέα Δημοκρατία,ND,ΝΔ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ND,0.365,Νέα Δημοκρατία,ND,ΝΔ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
@@ -1289,7 +1300,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
@@ -1327,9 +1338,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
@@ -1352,6 +1366,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,C
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
@@ -1791,6 +1806,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ChA,0.08,Χρυσή Αυγή,ChA,ΧΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ChA,0.085,Χρυσή Αυγή,ChA,ΧΑ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,PASOK-KINAL,0.135,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,PASOK-KINAL,0.124,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,PASOK-KINAL,0.14,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,PASOK-KINAL,0.135,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,PASOK-KINAL,0.13699999999999998,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
@@ -1886,7 +1902,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,PASOK-KINAL,0.163,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,PASOK-KINAL,0.18600000000000003,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,PASOK-KINAL,0.198,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,PASOK-KINAL,0.175,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,PASOK-KINAL,0.175,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,PASOK-KINAL,0.183,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,PASOK-KINAL,0.18600000000000003,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,PASOK-KINAL,0.171,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
@@ -1924,9 +1940,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,PASOK-KINAL,0.14400000000000002,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,PASOK-KINAL,0.111,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,PASOK-KINAL,0.122,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,PASOK-KINAL,0.11800000000000001,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,PASOK-KINAL,0.128,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,PASOK-KINAL,0.115,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,PASOK-KINAL,0.12300000000000001,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,PASOK-KINAL,0.129,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,PASOK-KINAL,0.126,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,PASOK-KINAL,0.121,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,PASOK-KINAL,0.14300000000000002,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,PASOK-KINAL,0.142,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
@@ -1949,6 +1968,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,P
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,PASOK-KINAL,0.142,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,PASOK-KINAL,0.14,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,PASOK-KINAL,0.146,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,PASOK-KINAL,0.128,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,PASOK-KINAL,0.153,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,PASOK-KINAL,0.15,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,PASOK-KINAL,0.142,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
@@ -2388,6 +2408,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,PASOK-KINAL,0.13,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,PASOK-KINAL,0.1,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,KKE,0.087,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,KKE,0.10300000000000001,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,KKE,0.085,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,KKE,0.075,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,KKE,0.081,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
@@ -2483,7 +2504,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,KKE,0.085,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,KKE,0.08,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,KKE,0.095,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,KKE,0.099,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,KKE,0.099,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,KKE,0.092,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,KKE,0.081,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,KKE,0.091,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
@@ -2521,9 +2542,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,KKE,0.09300000000000001,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,KKE,0.078,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,KKE,0.067,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,KKE,0.083,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,KKE,0.067,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,KKE,0.09,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,KKE,0.095,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,KKE,0.08199999999999999,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,KKE,0.094,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,KKE,0.075,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,KKE,0.08900000000000001,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,KKE,0.09,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
@@ -2546,6 +2570,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,K
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,KKE,0.076,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,KKE,0.10300000000000001,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,KKE,0.09699999999999999,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,KKE,0.10800000000000001,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,KKE,0.115,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,KKE,0.10400000000000001,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,KKE,0.124,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
@@ -2985,6 +3010,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,KKE,0.075,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,KKE,0.065,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
@@ -3080,7 +3106,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
@@ -3118,9 +3144,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
@@ -3143,6 +3172,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,P
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
@@ -3582,6 +3612,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Potami,0.01,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
@@ -3677,7 +3708,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
@@ -3715,9 +3746,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
@@ -3740,6 +3774,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,A
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
@@ -4179,6 +4214,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ANEL,0.02,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ANEL,0.025,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
@@ -4274,7 +4310,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
@@ -4312,9 +4348,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
@@ -4337,6 +4376,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,E
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
@@ -4776,6 +4816,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EK,0.02,Ένωση Κεντρώων,EK,ΕΚ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EK,0.025,Ένωση Κεντρώων,EK,ΕΚ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
@@ -4871,7 +4912,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
@@ -4909,9 +4950,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
@@ -4934,6 +4978,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,L
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
@@ -5373,6 +5418,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,PE,0.092,Πλεύση Ελευθερίας,PE,ΠΕ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,PE,0.09699999999999999,Πλεύση Ελευθερίας,PE,ΠΕ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,PE,0.085,Πλεύση Ελευθερίας,PE,ΠΕ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,PE,0.098,Πλεύση Ελευθερίας,PE,ΠΕ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,PE,0.09,Πλεύση Ελευθερίας,PE,ΠΕ
@@ -5468,7 +5514,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,PE,0.034,Πλεύση Ελευθερίας,PE,ΠΕ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,PE,0.057999999999999996,Πλεύση Ελευθερίας,PE,ΠΕ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,PE,0.036000000000000004,Πλεύση Ελευθερίας,PE,ΠΕ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,PE,0.038,Πλεύση Ελευθερίας,PE,ΠΕ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,PE,0.038,Πλεύση Ελευθερίας,PE,ΠΕ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,PE,0.051,Πλεύση Ελευθερίας,PE,ΠΕ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,PE,0.051,Πλεύση Ελευθερίας,PE,ΠΕ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,PE,0.043,Πλεύση Ελευθερίας,PE,ΠΕ
@@ -5506,9 +5552,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,PE,0.036000000000000004,Πλεύση Ελευθερίας,PE,ΠΕ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,PE,0.027999999999999997,Πλεύση Ελευθερίας,PE,ΠΕ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,PE,0.022000000000000002,Πλεύση Ελευθερίας,PE,ΠΕ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,PE,0.031,Πλεύση Ελευθερίας,PE,ΠΕ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,PE,0.022000000000000002,Πλεύση Ελευθερίας,PE,ΠΕ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,PE,0.04,Πλεύση Ελευθερίας,PE,ΠΕ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,PE,0.03,Πλεύση Ελευθερίας,PE,ΠΕ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,PE,0.021,Πλεύση Ελευθερίας,PE,ΠΕ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,PE,0.031,Πλεύση Ελευθερίας,PE,ΠΕ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,PE,0.023,Πλεύση Ελευθερίας,PE,ΠΕ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,PE,0.03,Πλεύση Ελευθερίας,PE,ΠΕ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,PE,0.03,Πλεύση Ελευθερίας,PE,ΠΕ
@@ -5531,6 +5580,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,P
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,PE,0.035,Πλεύση Ελευθερίας,PE,ΠΕ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,PE,0.032,Πλεύση Ελευθερίας,PE,ΠΕ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,PE,0.039,Πλεύση Ελευθερίας,PE,ΠΕ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,PE,0.031,Πλεύση Ελευθερίας,PE,ΠΕ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,PE,0.034,Πλεύση Ελευθερίας,PE,ΠΕ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,PE,0.028999999999999998,Πλεύση Ελευθερίας,PE,ΠΕ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,PE,0.040999999999999995,Πλεύση Ελευθερίας,PE,ΠΕ
@@ -5970,6 +6020,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,PE,,Πλεύση Ελευθερίας,PE,ΠΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,PE,,Πλεύση Ελευθερίας,PE,ΠΕ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,EL,0.11900000000000001,Ελληνική Λύση,EL,ΕΛ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,EL,0.099,Ελληνική Λύση,EL,ΕΛ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,EL,0.098,Ελληνική Λύση,EL,ΕΛ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,EL,0.10099999999999999,Ελληνική Λύση,EL,ΕΛ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,EL,0.107,Ελληνική Λύση,EL,ΕΛ
@@ -6065,7 +6116,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,EL,0.085,Ελληνική Λύση,EL,ΕΛ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,EL,0.077,Ελληνική Λύση,EL,ΕΛ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,EL,0.092,Ελληνική Λύση,EL,ΕΛ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,EL,0.099,Ελληνική Λύση,EL,ΕΛ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,EL,0.099,Ελληνική Λύση,EL,ΕΛ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,EL,0.092,Ελληνική Λύση,EL,ΕΛ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,EL,0.07400000000000001,Ελληνική Λύση,EL,ΕΛ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,EL,0.079,Ελληνική Λύση,EL,ΕΛ
@@ -6103,9 +6154,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,EL,0.09300000000000001,Ελληνική Λύση,EL,ΕΛ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,EL,0.078,Ελληνική Λύση,EL,ΕΛ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,EL,0.078,Ελληνική Λύση,EL,ΕΛ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,EL,0.10300000000000001,Ελληνική Λύση,EL,ΕΛ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,EL,0.09300000000000001,Ελληνική Λύση,EL,ΕΛ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,EL,0.106,Ελληνική Λύση,EL,ΕΛ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,EL,0.099,Ελληνική Λύση,EL,ΕΛ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,EL,0.098,Ελληνική Λύση,EL,ΕΛ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,EL,0.091,Ελληνική Λύση,EL,ΕΛ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,EL,0.092,Ελληνική Λύση,EL,ΕΛ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,EL,0.083,Ελληνική Λύση,EL,ΕΛ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,EL,0.1,Ελληνική Λύση,EL,ΕΛ
@@ -6128,6 +6182,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,E
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,EL,0.07400000000000001,Ελληνική Λύση,EL,ΕΛ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,EL,0.062,Ελληνική Λύση,EL,ΕΛ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,EL,0.06,Ελληνική Λύση,EL,ΕΛ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,EL,0.055,Ελληνική Λύση,EL,ΕΛ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,EL,0.057999999999999996,Ελληνική Λύση,EL,ΕΛ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,EL,0.057999999999999996,Ελληνική Λύση,EL,ΕΛ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,EL,0.047,Ελληνική Λύση,EL,ΕΛ
@@ -6567,6 +6622,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EL,,Ελληνική Λύση,EL,ΕΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EL,,Ελληνική Λύση,EL,ΕΛ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,MeRA25,0.026000000000000002,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,MeRA25,0.035,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,MeRA25,0.037000000000000005,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,MeRA25,0.036000000000000004,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,MeRA25,0.034,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
@@ -6662,7 +6718,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,MeRA25,0.032,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,MeRA25,0.027999999999999997,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,MeRA25,0.013999999999999999,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,MeRA25,0.035,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,MeRA25,0.035,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,MeRA25,0.034,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,MeRA25,0.027000000000000003,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,MeRA25,0.03,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
@@ -6700,9 +6756,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,MeRA25,0.023,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,MeRA25,0.019,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,MeRA25,0.022000000000000002,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,MeRA25,0.023,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,MeRA25,0.024,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,MeRA25,0.023,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
@@ -6725,6 +6784,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,M
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,MeRA25,0.017,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,MeRA25,0.026000000000000002,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,MeRA25,0.017,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,MeRA25,0.027999999999999997,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,MeRA25,0.035,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,MeRA25,0.024,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
@@ -7164,6 +7224,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,EKE,,,,
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,EKE,,,,
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,EKE,,,,
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,EKE,,,,
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,EKE,,,,
@@ -7259,7 +7320,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,EKE,,,,
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,EKE,,,,
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,EKE,,,,
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,EKE,,,,
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,EKE,,,,
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,EKE,,,,
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,EKE,,,,
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,EKE,,,,
@@ -7297,9 +7358,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,EKE,,,,
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,EKE,,,,
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,EKE,,,,
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,EKE,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,EKE,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,EKE,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,EKE,,,,
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,EKE,,,,
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,EKE,,,,
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,EKE,,,,
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,EKE,,,,
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,EKE,,,,
@@ -7322,6 +7386,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,E
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,EKE,,,,
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,EKE,,,,
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,EKE,,,,
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,EKE,,,,
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,EKE,,,,
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,EKE,,,,
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,EKE,,,,
@@ -7761,6 +7826,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EKE,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EKE,,,,
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,ED,,,,
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,ED,,,,
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,ED,,,,
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,ED,,,,
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,ED,,,,
@@ -7856,7 +7922,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,ED,,,,
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,ED,,,,
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,ED,,,,
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,ED,,,,
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,ED,,,,
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,ED,,,,
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,ED,,,,
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,ED,,,,
@@ -7894,9 +7960,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,ED,,,,
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,ED,,,,
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,ED,,,,
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,ED,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,ED,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,ED,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,ED,,,,
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,ED,,,,
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,ED,,,,
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,ED,,,,
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,ED,,,,
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,ED,,,,
@@ -7919,6 +7988,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,E
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,ED,,,,
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,ED,,,,
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,ED,,,,
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,ED,,,,
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,ED,,,,
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,ED,,,,
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,ED,,,,
@@ -8358,6 +8428,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ED,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ED,,,,
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,EAN…,,,,
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,EAN…,,,,
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,EAN…,,,,
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,EAN…,,,,
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,EAN…,,,,
@@ -8453,7 +8524,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,EAN…,,,,
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,EAN…,,,,
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,EAN…,,,,
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,EAN…,,,,
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,EAN…,,,,
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,EAN…,,,,
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,EAN…,,,,
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,EAN…,,,,
@@ -8491,9 +8562,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,EAN…,,,,
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,EAN…,,,,
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,EAN…,,,,
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,EAN…,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,EAN…,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,EAN…,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,EAN…,,,,
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,EAN…,,,,
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,EAN…,,,,
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,EAN…,,,,
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,EAN…,,,,
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,EAN…,,,,
@@ -8516,6 +8590,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,E
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,EAN…,,,,
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,EAN…,,,,
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,EAN…,,,,
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,EAN…,,,,
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,EAN…,,,,
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,EAN…,,,,
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,EAN…,,,,
@@ -8955,6 +9030,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EAN…,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EAN…,,,,
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,Níki,0.03,ΝΙΚΗ,Níki,Νίκη
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,Níki,0.035,ΝΙΚΗ,Níki,Νίκη
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,Níki,0.024,ΝΙΚΗ,Níki,Νίκη
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,Níki,0.018000000000000002,ΝΙΚΗ,Níki,Νίκη
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,Níki,0.025,ΝΙΚΗ,Níki,Νίκη
@@ -9050,7 +9126,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,Níki,0.037000000000000005,ΝΙΚΗ,Níki,Νίκη
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,Níki,0.040999999999999995,ΝΙΚΗ,Níki,Νίκη
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,Níki,0.033,ΝΙΚΗ,Níki,Νίκη
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,Níki,0.033,ΝΙΚΗ,Níki,Νίκη
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,Níki,0.033,ΝΙΚΗ,Níki,Νίκη
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,Níki,0.034,ΝΙΚΗ,Níki,Νίκη
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,Níki,0.03,ΝΙΚΗ,Níki,Νίκη
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,Níki,0.037000000000000005,ΝΙΚΗ,Níki,Νίκη
@@ -9088,9 +9164,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,Níki,0.038,ΝΙΚΗ,Níki,Νίκη
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,Níki,0.044000000000000004,ΝΙΚΗ,Níki,Νίκη
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,Níki,0.034,ΝΙΚΗ,Níki,Νίκη
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,Níki,0.042,ΝΙΚΗ,Níki,Νίκη
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,Níki,0.046,ΝΙΚΗ,Níki,Νίκη
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,Níki,0.035,ΝΙΚΗ,Níki,Νίκη
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,Níki,0.043,ΝΙΚΗ,Níki,Νίκη
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,Níki,0.036000000000000004,ΝΙΚΗ,Níki,Νίκη
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,Níki,0.028999999999999998,ΝΙΚΗ,Níki,Νίκη
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,Níki,0.054000000000000006,ΝΙΚΗ,Níki,Νίκη
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,Níki,0.042,ΝΙΚΗ,Níki,Νίκη
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,Níki,0.032,ΝΙΚΗ,Níki,Νίκη
@@ -9113,6 +9192,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,N
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,Níki,0.045,ΝΙΚΗ,Níki,Νίκη
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,Níki,0.031,ΝΙΚΗ,Níki,Νίκη
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,Níki,0.032,ΝΙΚΗ,Níki,Νίκη
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,Níki,0.032,ΝΙΚΗ,Níki,Νίκη
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,Níki,0.034,ΝΙΚΗ,Níki,Νίκη
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,Níki,0.028999999999999998,ΝΙΚΗ,Níki,Νίκη
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,Níki,0.03,ΝΙΚΗ,Níki,Νίκη
@@ -9552,6 +9632,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Níki,,ΝΙΚΗ,Níki,Νίκη
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Níki,,ΝΙΚΗ,Níki,Νίκη
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,Spartiátes,0.02,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,Spartiátes,0.018000000000000002,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,Spartiátes,0.008,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,Spartiátes,0.012,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
@@ -9647,7 +9728,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,Spartiátes,0.019,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,Spartiátes,0.016,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,Spartiátes,0.012,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,Spartiátes,0.012,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,Spartiátes,0.013999999999999999,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,Spartiátes,0.018000000000000002,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
@@ -9685,9 +9766,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,Spartiátes,0.012,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,Spartiátes,0.027999999999999997,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,Spartiátes,0.027000000000000003,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,Spartiátes,0.022000000000000002,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,Spartiátes,0.026000000000000002,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,Spartiátes,0.022000000000000002,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,Spartiátes,0.03,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,Spartiátes,0.026000000000000002,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
@@ -9710,6 +9794,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,S
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,Spartiátes,0.023,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,Spartiátes,0.037000000000000005,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,Spartiátes,0.036000000000000004,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,Spartiátes,0.034,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,Spartiátes,0.038,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,Spartiátes,0.035,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,Spartiátes,0.03,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
@@ -10149,6 +10234,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,NA,0.02,,,
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,NA,0.017,,,
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,NA,0.024,,,
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,NA,0.022000000000000002,,,
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,NA,0.012,,,
@@ -10244,7 +10330,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,NA,0.025,,,
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,NA,0.016,,,
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,NA,0.027999999999999997,,,
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,NA,0.016,,,
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,NA,0.016,,,
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,NA,0.023,,,
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,NA,0.013999999999999999,,,
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,NA,0.024,,,
@@ -10282,9 +10368,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,NA,0.022000000000000002,,,
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,NA,0.033,,,
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,NA,0.046,,,
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,NA,0.027999999999999997,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,NA,0.044000000000000004,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,NA,0.040999999999999995,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,NA,0.027999999999999997,,,
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,NA,0.025,,,
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,NA,0.026000000000000002,,,
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,NA,0.046,,,
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,NA,0.03,,,
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,NA,0.031,,,
@@ -10307,6 +10396,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,N
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,NA,0.023,,,
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,NA,0.028999999999999998,,,
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,NA,0.025,,,
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,NA,0.032,,,
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,NA,,,,
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,NA,,,,
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,NA,,,,
@@ -10746,6 +10836,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,NA,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,NA,,,,
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,ANTARSYA,,,,
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,ANTARSYA,,,,
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,ANTARSYA,,,,
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,ANTARSYA,0.013000000000000001,,,
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,ANTARSYA,,,,
@@ -10841,7 +10932,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,ANTARSYA,,,,
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,ANTARSYA,,,,
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,ANTARSYA,,,,
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,ANTARSYA,,,,
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,ANTARSYA,,,,
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,ANTARSYA,,,,
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,ANTARSYA,,,,
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,ANTARSYA,,,,
@@ -10879,9 +10970,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,ANTARSYA,,,,
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,ANTARSYA,,,,
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,ANTARSYA,,,,
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,ANTARSYA,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,ANTARSYA,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,ANTARSYA,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,ANTARSYA,,,,
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,ANTARSYA,,,,
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,ANTARSYA,,,,
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,ANTARSYA,,,,
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,ANTARSYA,,,,
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,ANTARSYA,,,,
@@ -10904,6 +10998,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,A
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,ANTARSYA,,,,
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,ANTARSYA,,,,
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,ANTARSYA,,,,
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,ANTARSYA,0.013000000000000001,,,
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,ANTARSYA,,,,
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,ANTARSYA,,,,
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,ANTARSYA,,,,
@@ -11343,6 +11438,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ANTARSYA,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ANTARSYA,,,,
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,FL,0.059000000000000004,Φωνή Λογικής,FL,ΦΛ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,FL,0.052000000000000005,Φωνή Λογικής,FL,ΦΛ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,FL,0.037000000000000005,Φωνή Λογικής,FL,ΦΛ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,FL,0.044000000000000004,Φωνή Λογικής,FL,ΦΛ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,FL,0.045,Φωνή Λογικής,FL,ΦΛ
@@ -11438,7 +11534,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,FL,0.064,Φωνή Λογικής,FL,ΦΛ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,FL,0.063,Φωνή Λογικής,FL,ΦΛ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,FL,0.057999999999999996,Φωνή Λογικής,FL,ΦΛ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,FL,0.055999999999999994,Φωνή Λογικής,FL,ΦΛ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,FL,0.055999999999999994,Φωνή Λογικής,FL,ΦΛ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,FL,0.046,Φωνή Λογικής,FL,ΦΛ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,FL,0.043,Φωνή Λογικής,FL,ΦΛ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,FL,0.049,Φωνή Λογικής,FL,ΦΛ
@@ -11476,9 +11572,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,FL,0.038,Φωνή Λογικής,FL,ΦΛ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,FL,0.021,Φωνή Λογικής,FL,ΦΛ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,FL,0.012,Φωνή Λογικής,FL,ΦΛ
@@ -11501,6 +11600,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,F
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
@@ -11940,6 +12040,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,FL,,Φωνή Λογικής,FL,ΦΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,FL,,Φωνή Λογικής,FL,ΦΛ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,D,,,,
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,D,,,,
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,D,,,,
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,D,,,,
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,D,,,,
@@ -12035,7 +12136,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,D,,,,
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,D,,,,
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,D,,,,
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,D,,,,
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,D,,,,
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,D,,,,
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,D,,,,
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,D,,,,
@@ -12073,9 +12174,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,D,,,,
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,D,,,,
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,D,,,,
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,D,0.026000000000000002,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,D,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,D,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,D,0.025,,,
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,D,0.028999999999999998,,,
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,D,0.021,,,
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,D,,,,
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,D,,,,
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,D,,,,
@@ -12098,6 +12202,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,D
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,D,,,,
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,D,,,,
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,D,,,,
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,D,,,,
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,D,,,,
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,D,,,,
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,D,,,,
@@ -12537,6 +12642,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,D,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,D,,,,
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,DX,,,,
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,DX,,,,
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,DX,,,,
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,DX,,,,
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,DX,,,,
@@ -12632,7 +12738,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,DX,,,,
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,DX,,,,
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,DX,,,,
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,DX,,,,
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,DX,,,,
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,DX,,,,
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,DX,,,,
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,DX,,,,
@@ -12670,9 +12776,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,DX,,,,
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,DX,,,,
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,DX,,,,
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,DX,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,DX,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,DX,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,DX,,,,
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,DX,,,,
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,DX,,,,
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,DX,,,,
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,DX,,,,
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,DX,,,,
@@ -12695,6 +12804,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,D
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,DX,,,,
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,DX,,,,
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,DX,,,,
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,DX,,,,
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,DX,,,,
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,DX,,,,
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,DX,,,,
@@ -13134,6 +13244,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,DX,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,DX,,,,
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,K,,,,
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,K,,,,
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,K,,,,
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,K,,,,
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,K,,,,
@@ -13229,7 +13340,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,K,,,,
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,K,,,,
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,K,,,,
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,K,,,,
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,K,,,,
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,K,,,,
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,K,,,,
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,K,,,,
@@ -13267,9 +13378,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,K,,,,
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,K,,,,
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,K,,,,
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,K,0.011000000000000001,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,K,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,K,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,K,,,,
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,K,0.013999999999999999,,,
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,K,,,,
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,K,,,,
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,K,,,,
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,K,,,,
@@ -13292,6 +13406,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,K
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,K,,,,
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,K,,,,
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,K,,,,
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,K,,,,
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,K,,,,
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,K,,,,
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,K,,,,
@@ -13731,6 +13846,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,K,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,K,,,,
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,P-PE,,,,
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,P-PE,,,,
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,P-PE,,,,
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,P-PE,,,,
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,P-PE,,,,
@@ -13826,7 +13942,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,P-PE,,,,
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,P-PE,,,,
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,P-PE,,,,
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,P-PE,,,,
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,P-PE,,,,
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,P-PE,,,,
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,P-PE,,,,
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,P-PE,,,,
@@ -13864,9 +13980,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,P-PE,,,,
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,P-PE,,,,
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,P-PE,,,,
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,P-PE,,,,
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,P-PE,,,,
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,P-PE,,,,
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,P-PE,,,,
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,P-PE,,,,
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,P-PE,,,,
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,P-PE,,,,
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,P-PE,,,,
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,P-PE,,,,
@@ -13889,6 +14008,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,P
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,P-PE,,,,
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,P-PE,,,,
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,P-PE,,,,
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,P-PE,,,,
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,P-PE,,,,
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,P-PE,,,,
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,P-PE,,,,
@@ -14328,6 +14448,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,P-PE,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,P-PE,,,,
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,KD,0.024,Κίνημα Δημοκρατίας,KD,ΚΔ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,KD,0.017,Κίνημα Δημοκρατίας,KD,ΚΔ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,KD,0.024,Κίνημα Δημοκρατίας,KD,ΚΔ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,KD,0.027000000000000003,Κίνημα Δημοκρατίας,KD,ΚΔ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,KD,0.027000000000000003,Κίνημα Δημοκρατίας,KD,ΚΔ
@@ -14423,7 +14544,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,KD,0.071,Κίνημα Δημοκρατίας,KD,ΚΔ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,KD,0.051,Κίνημα Δημοκρατίας,KD,ΚΔ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,KD,0.044000000000000004,Κίνημα Δημοκρατίας,KD,ΚΔ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,KD,0.043,Κίνημα Δημοκρατίας,KD,ΚΔ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,KD,0.043,Κίνημα Δημοκρατίας,KD,ΚΔ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,KD,0.028999999999999998,Κίνημα Δημοκρατίας,KD,ΚΔ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,KD,0.051,Κίνημα Δημοκρατίας,KD,ΚΔ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,KD,0.049,Κίνημα Δημοκρατίας,KD,ΚΔ
@@ -14461,9 +14582,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
@@ -14486,6 +14610,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,K
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
@@ -14925,6 +15050,7 @@ Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Av
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,KD,,Κίνημα Δημοκρατίας,KD,ΚΔ
 MRB,Open TV,2025-11-18,2025-11-20,National,1000,Provided,75.7%,0.1%,Other,0.069,ΑΛΛΟ,Other,ΑΛΛΟ
+Palmos Analysis,Ελεύθερος Τύπος,2025-11-12,2025-11-19,National,1030,Provided,76.4%,0.1%,Other,0.05,ΑΛΛΟ,Other,ΑΛΛΟ
 Pulse RC,ΣΚΑΪ,2025-11-16,2025-11-18,National,1105,Provided,82%,0.5%,Other,0.061,ΑΛΛΟ,Other,ΑΛΛΟ
 Metron Analysis,Mega TV,2025-11-11,2025-11-18,National,1313,Provided,77.3%,0.1%,Other,0.07,ΑΛΛΟ,Other,ΑΛΛΟ
 Opinion Poll,Action 24,2025-11-10,2025-11-11,National,1066,Provided,80.4%,0.1%,Other,0.086,ΑΛΛΟ,Other,ΑΛΛΟ
@@ -15020,7 +15146,7 @@ Metron Analysis,Mega TV,2024-12-11,2024-12-17,National,1303,Provided,82.9%,0.1%,
 Interview,Politic.gr,2024-12-11,2024-12-16,National,2530,Provided,93.6%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Opinion Poll,Manifesto,2024-12-11,2024-12-13,National,1005,Provided,79.0%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 GPO,Παραπολιτικά,2024-12-09,2024-12-13,National,1000,Provided,85.9%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
-MRB, ,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
+MRB,,2024-12-04,2024-12-13,National,2000,Provided,81.0%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Prorata,Attica TV,2024-12-03,2024-12-09,National,1100,Provided,87.5%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Marc,Πρώτο ΘΕΜΑ,2024-11-25,2024-11-28,National,1072,Provided,87.5%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Pulse RC,ΣΚΑΪ,2024-11-24,2024-11-26,National,1129,Provided,82.0%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
@@ -15058,9 +15184,12 @@ Metron Analysis,Mega TV,2024-06-21,2024-07-01,National,1444,Provided,80.2%,0.1%,
 GPO,Star TV,2024-06-17,2024-06-19,National,1200,Provided,85.9%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Interview,Politic.gr,2024-05-30,2024-06-03,National,2005,Provided,89.9%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Interview,Politic.gr,2024-05-08,2024-05-13,National,2405,Provided,89.9%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
+Good Affairs,Το Βήμα,2024-04-25,2024-04-30,National,1001,Provided,Not Available,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Interview,Politic.gr,2024-04-04,2024-04-08,National,2355,Provided,90.0%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Palmos Analysis,Ελεύθερος Τύπος,2024-04-01,2024-04-04,National,1008,Provided,Not Available,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Opinion Poll,Action 24,2024-03-15,2024-03-20,National,1010,Provided,78.9%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
+Good Affairs,Το Βήμα,2024-03-12,2024-03-14,National,3229,Provided,Not Available,0.1%,Other,0.083,ΑΛΛΟ,Other,ΑΛΛΟ
+Marc,Πρώτο ΘΕΜΑ,2024-03-11,2024-03-14,National,1086,Provided,86%,0.1%,Other,0.037000000000000005,ΑΛΛΟ,Other,ΑΛΛΟ
 Interview,Politic.gr,2024-03-07,2024-03-11,National,2250,Provided,86.6%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Pulse RC,ΣΚΑΪ,2024-02-27,2024-03-01,National,1106,Provided,84.0%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 MRB,Open TV,2024-02-21,2024-02-27,National,1500,Provided,Not Available,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
@@ -15083,6 +15212,7 @@ Opinion Poll,Action 24,2023-12-13,2023-12-15,National,1004,Provided,88.1%,0.1%,O
 Interview,Politic.gr,2023-12-04,2023-12-08,National,2356,Provided,88.1%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 GPO,Παραπολιτικά,2023-12-05,2023-12-07,National,1000,Provided,86.6%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 MRB,,2023-11-27,2023-12-06,National,2000,Provided,83.7%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
+Real Polls,Documento,2023-11-27,2023-11-29,National,1772,Provided,Not Available,0.1%,Other,0.06,ΑΛΛΟ,Other,ΑΛΛΟ
 Metron Analysis,,2023-11-22,2023-11-28,National,1303,Provided,79.9%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Pulse RC,ΣΚΑΪ,2023-11-19,2023-11-21,National,1112,Provided,86.5%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
 Prorata,,2023-11-15,2023-11-20,National,1000,Provided,84.5%,0.1%,Other,,ΑΛΛΟ,Other,ΑΛΛΟ
