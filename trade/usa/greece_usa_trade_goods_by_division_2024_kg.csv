@@ -36,13 +36,13 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 59,"Chemical materials and products, n.e.s.","Χημικές ύλες και προϊόντα, μη κατονομαζόμενα",802882.0,4033781.0,-3230899.0
 61,"Leather, leather manufactures, n.e.s., and dressed furskins","Δέρματα, είδη από δέρμα, μη κατονομαζόμενα, και γουναρικά κατεργασμένα",20370.0,8970.0,11400.0
 62,"Rubber manufactures, n.e.s.",Είδη από καουτσούκ,68105.0,104880.0,-36775.0
-63,Cork and wood manufactures (excluding furniture),Είδη από φελλό και ξύλο (εκτός επίπλων),439480.0,748959.0,-309479.0
+63,Cork and wood manufactures (excluding furniture),Είδη από φελλό και ξύλο (εκτός επίπλων),439480.0,748936.0,-309456.0
 64,"Paper, paperboard and articles of paper pulp, of paper or of paperboard","Χαρτί, χαρτόνια και είδη από χαρτοπολτό, χαρτί ή χαρτόνι",4046280.0,12936751.0,-8890471.0
-65,"Textile yarn, fabrics, made-up articles, n.e.s., and related products","Υφαντικά νήματα, υφάσματα έτοιμα, προϊόντα μη κατονομαζόμενα και συναφή προϊόντα",5069596.0,265000.0,4804596.0
-66,"Non-metallic mineral manufactures, n.e.s.","Είδη από μη μεταλλικά ορυκτά, μη κατονομαζόμενα",1846881982.0,919671.0,1845962311.0
+65,"Textile yarn, fabrics, made-up articles, n.e.s., and related products","Υφαντικά νήματα, υφάσματα έτοιμα, προϊόντα μη κατονομαζόμενα και συναφή προϊόντα",5069596.0,265048.0,4804548.0
+66,"Non-metallic mineral manufactures, n.e.s.","Είδη από μη μεταλλικά ορυκτά, μη κατονομαζόμενα",1846881982.0,919669.0,1845962313.0
 67,Iron and steel,Σίδηρος και χάλυβας,59288074.0,613211.0,58674863.0
 68,Non-ferrous metals,Μη σιδηρούχα μέταλλα,30687543.0,63266.0,30624277.0
-69,"Manufactures of metals, n.e.s.","Είδη από μέταλλο, μη κατονομαζόμενα",2705239.0,384595.0,2320644.0
+69,"Manufactures of metals, n.e.s.","Είδη από μέταλλο, μη κατονομαζόμενα",2705239.0,384599.0,2320640.0
 71,Power-generating machinery and equipment,Μηχανήματα και εξοπλισμός παραγωγής ενέργειας,402184.0,677620.0,-275436.0
 72,Machinery specialized for particular industries,Μηχανήματα ειδικά για ορισμένες βιομηχανίες,359414.0,1458239.0,-1098825.0
 73,Metalworking machinery,Μηχανήματα κατεργασίας μετάλλων,160116.0,76005.0,84111.0
@@ -50,14 +50,14 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 75,Office machines and automatic data-processing machines,Μηχανές γραφείου και μηχανές αυτόματης επεξεργασίας στοιχείων,15161.0,61818.0,-46657.0
 76,Telecommunications and sound-recording and reproducing apparatus and equipment,Συσκευές και εξοπλισμός τηλεπικοινωνιών και εγγραφής και αναπαραγωγής του ήχου,71058.0,52191.0,18867.0
 77,"Electrical machinery, apparatus and appliances, n.e.s., and electrical parts thereof (including nonelectrical counterparts, n.e.s., of electrical household-type equipment)","Ηλεκτρικά μηχανήματα, συσκευές, υλικά μη κατονομαζόμενα και ηλεκτρικά μέρη αυτών (περιλαμβάνονται τα αντίστοιχα μη ηλεκτρικά είδη, τα μη κατονομαζόμενα του οικιακού εξοπλισμού)",13732036.0,410757.0,13321279.0
-78,Road vehicles (including air-cushion vehicles),Οχήματα για δρόμους,387514.0,1800947.0,-1413433.0
+78,Road vehicles (including air-cushion vehicles),Οχήματα για δρόμους,387514.0,1801237.0,-1413723.0
 79,Other transport equipment,Λοιπό μεταφορικό υλικό,195453.0,181909.0,13544.0
 81,"Prefabricated buildings; sanitary plumbing, heating and lighting fixtures and fittings, n.e.s.","Προκατασκευασμένα κτίρια, συσκευές υγιεινής, θέρμανσης και φωτισμού, μη κατονομαζόμενα",53387.0,4863.0,48524.0
-82,"Furniture and parts thereof; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings","Έπιπλα και μέρη αυτών, κρεβάτια, στρώματα, υποστηρίγματα στρωμάτων, μαξιλάρια και παρόμοιος εξοπλισμός επίπλωση",857604.0,141460.0,716144.0
+82,"Furniture and parts thereof; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings","Έπιπλα και μέρη αυτών, κρεβάτια, στρώματα, υποστηρίγματα στρωμάτων, μαξιλάρια και παρόμοιος εξοπλισμός επίπλωση",857604.0,141464.0,716140.0
 83,"Travel goods, handbags and similar containers","Είδη ταξιδιού, σακίδια χεριού και παρόμοια είδη",14192.0,5758.0,8434.0
-84,Articles of apparel and clothing accessories,Είδη ενδυμασίας και συμπληρώματα ένδυσης,730625.0,22183.0,708442.0
+84,Articles of apparel and clothing accessories,Είδη ενδυμασίας και συμπληρώματα ένδυσης,172326.0,17623.0,154703.0
 85,Footwear,Υποδήματα,45445.0,6290.0,39155.0
 87,"Professional, scientific and controlling instruments and apparatus, n.e.s.","Όργανα και συσκευές επαγγελματικές, επιστημονικές και ελέγχου μ.α.κ.",524892.0,223977.0,300915.0
 88,"Photographic apparatus, equipment and supplies and optical goods, n.e.s.; watches and clocks","Φωτογραφικές συσκευές και εφόδια για τη φωτογράφιση, είδη οπτικής, μη κατονομαζόμενα, ωρολόγια χεριού και τοίχου",5890.0,16777.0,-10887.0
-89,"Miscellaneous manufactured articles, n.e.s.","Διάφορα βιομηχανικά είδη, μη κατονομαζόμενα",1527557.0,768538.0,759019.0
+89,"Miscellaneous manufactured articles, n.e.s.","Διάφορα βιομηχανικά είδη, μη κατονομαζόμενα",1527557.0,768608.0,758949.0
 97,"Gold, non- monetary (excluding gold, ores and concentrates)",Χρυσός μη νομισματικός,1.0,30.0,-29.0
