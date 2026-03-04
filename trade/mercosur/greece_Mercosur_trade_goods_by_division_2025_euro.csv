@@ -1,0 +1,60 @@
+Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
+01,Meat and meat preparations,Κρέας και παρασκευάσματα κρέατος,,6556925.0,
+02,Dairy products and birds' eggs,Γαλακτοκομικά προϊόντα και αυγά πτηνών,62184.5,62405.0,-220.5
+03,"Fish (not marine mammals), crustaceans, molluscs and aquatic invertebrates and preparations thereof","Ψάρια (μη θαλάσσια θηλαστικά), μαλακόστρακα, μαλάκια και υδρόβια, ασπόνδυλα και τα παρασκευάσματά τους",,7503730.0,
+04,Cereals and cereal preparations,Δημητριακά και παρασκευάσματα δημητριακών,153256.33333333334,199726.0,-46469.66666666666
+05,Vegetables and fruit,Λαχανικά και φρούτα,7771651.0,7251136.333333333,520514.666666667
+06,"Sugars, sugar preparations and honey","Ζάχαρη, παρασκευάσματα ζάχαρης και μέλι",11438.0,309024.5,-297586.5
+07,"Coffee, tea, cocoa, spices, and manufactures thereof","Καφές, τσάι, κακάο, μπαχαρικά, υλικά και προϊόντα τους",400449.0,84485001.5,-84084552.5
+08,Feeding stuff for animals (not including unmilled cereals),Ζωοτροφές,100.0,50589677.0,-50589577.0
+09,Miscellaneous edible products and preparations,Διάφορα βρώσιμα προϊόντα και παρασκευάσματα,85100.0,314999.0,-229899.0
+11,Beverages,Ποτά,129297.0,326469.5,-197172.5
+12,Tobacco and tobacco manufactures,Καπνός και προϊόντα καπνού,810062.0,27948035.0,-27137973.0
+22,Oil-seeds and oleaginous fruits,Ελαιόσποροι και ελαιώδεις καρποί,,27192065.333333332,
+23,Crude rubber (including synthetic and reclaimed),Καουτσούκ ακατέργαστο (περιλαμβάνεται το συνθετικό και το αναγεννημένο),321928.5,628093.0,-306164.5
+24,Cork and wood,Ξυλεία και φελλός,,658895.0,
+25,Pulp and waste paper,Πολτός και απορρίμματα χαρτιού,,17455240.0,
+26,Textile fibres (other than wool tops and other combed wool) and their wastes (not manufactured into yarn or fabric),"Υφαντικές ίνες (εκτός από μάλλινα νήματα και άλλο ακατέργαστο μαλλί) και απορρίμματα αυτών, μη μεταποιημένα σε κλωστές ή υφάσματα",2289.5,1706.0,583.5
+27,"Crude fertilizers, other than those of division 56, and crude minerals (excluding coal, petroleum and precious stones)","Λιπάσματα ακατέργαστα και ορυκτά ακατέργαστα (εκτός από άνθρακα, πετρέλαιο και πολύτιμους λίθους)",451396.6666666667,13820.0,437576.6666666667
+28,Metalliferous ores and metal scrap,Μεταλλεύματα και απορρίμματα μετάλλων,,16900301.333333332,
+29,"Crude animal and vegetable materials, n.e.s.","Ακατέργαστες ύλες ζωικής ή φυτικής προέλευσης, μη κατονομαζόμενες",60827.0,64222.5,-3395.5
+33,"Petroleum, petroleum products and related materials",Πετρέλαιο και προϊόντα πετρελαίου,1492799.3333333333,1890982.5,-398183.16666666674
+34,"Gas, natural and manufactured","Φωταέριο, φυσικό και βιομηχανικό",49189.0,2124539.0,-2075350.0
+42,"Fixed vegetable fats and oils, crude, refined or fractionated","Λάδια και λίπη σταθεράς φυτικής προέλευσης, ακατέργαστα και εξευγενισμένα",585399.0,20440.0,564959.0
+43,"Animal or vegetable fats and oils, processed; waxes of animal or vegetable origin; inedible mixtures or preparations of animal or vegetable fats or oils, n.e.s.","Λάδια και λίπη επεξεργασμένα και κερί ζωικής ή φυτικής προέλευσης, μη εδώδιμα μείγματα ή παρασκευάσματα από ζωικά ή φυτικά λίπη και έλαια, μη κατονομαζόμενα",,160894.0,
+51,Organic chemicals,Οργανικά χημικά,1740171.0,391929.0,1348242.0
+52,Inorganic chemicals,Ανόργανα χημικά,309789.3333333333,237.0,309552.3333333333
+53,"Dyeing, tanning and colouring materials","Βαφικές, δεψικές και χρωστικές ύλες",361730.0,56630.0,305100.0
+54,Medicinal and pharmaceutical products,Ιατρικά και φαρμακευτικά προϊόντα,1002507.75,647754.0,354753.75
+55,"Essential oils and resinoids and perfume materials; toilet, polishing and cleaning preparations","Αιθέρια λάδια, ρητινοειδή και αρωματικές ύλες. Παρασκευάσματα καλλωπισμού, στίλβωσης και καθαρισμού",209728.0,111641.0,98087.0
+56,Fertilizers (other than those of group 272),Βιομηχανικά λιπάσματα (εκτός αυτών της κατηγορίας 27),68372.0,,
+57,Plastics in primary forms,Πλαστικές ύλες σε πρωτογενή μορφή,196483.5,211146.5,-14663.0
+58,Plastics in non-primary forms,Πλαστικές ύλες σε μη πρωτογενή μορφή,368510.3333333333,1575.0,366935.3333333333
+59,"Chemical materials and products, n.e.s.","Χημικές ύλες και προϊόντα, μη κατονομαζόμενα",267740.5,1736725.0,-1468984.5
+61,"Leather, leather manufactures, n.e.s., and dressed furskins","Δέρματα, είδη από δέρμα, μη κατονομαζόμενα, και γουναρικά κατεργασμένα",903.0,1670.0,-767.0
+62,"Rubber manufactures, n.e.s.",Είδη από καουτσούκ,54797.0,199647.0,-144850.0
+63,Cork and wood manufactures (excluding furniture),Είδη από φελλό και ξύλο (εκτός επίπλων),776769.0,770704.0,6065.0
+64,"Paper, paperboard and articles of paper pulp, of paper or of paperboard","Χαρτί, χαρτόνια και είδη από χαρτοπολτό, χαρτί ή χαρτόνι",64982.333333333336,7113947.0,-7048964.666666667
+65,"Textile yarn, fabrics, made-up articles, n.e.s., and related products","Υφαντικά νήματα, υφάσματα έτοιμα, προϊόντα μη κατονομαζόμενα και συναφή προϊόντα",171722.25,86651.5,85070.75
+66,"Non-metallic mineral manufactures, n.e.s.","Είδη από μη μεταλλικά ορυκτά, μη κατονομαζόμενα",297251.5,875730.0,-578478.5
+67,Iron and steel,Σίδηρος και χάλυβας,52667.0,776603.0,-723936.0
+68,Non-ferrous metals,Μη σιδηρούχα μέταλλα,535944.25,113094.0,422850.25
+69,"Manufactures of metals, n.e.s.","Είδη από μέταλλο, μη κατονομαζόμενα",3185478.3333333335,334913.6666666667,2850564.666666667
+71,Power-generating machinery and equipment,Μηχανήματα και εξοπλισμός παραγωγής ενέργειας,1529076.0,287970.0,1241106.0
+72,Machinery specialized for particular industries,Μηχανήματα ειδικά για ορισμένες βιομηχανίες,1129907.5,3416495.5,-2286588.0
+73,Metalworking machinery,Μηχανήματα κατεργασίας μετάλλων,90456.33333333333,,
+74,"General industrial machinery and equipment, n.e.s., and machine parts, n.e.s.","Γενικός βιομηχανικός εξοπλισμός, μηχανήματα και μέρη αυτών, μη κατονομαζόμενα",375942.25,138679.66666666666,237262.58333333334
+75,Office machines and automatic data-processing machines,Μηχανές γραφείου και μηχανές αυτόματης επεξεργασίας στοιχείων,97263.5,573.6666666666666,96689.83333333333
+76,Telecommunications and sound-recording and reproducing apparatus and equipment,Συσκευές και εξοπλισμός τηλεπικοινωνιών και εγγραφής και αναπαραγωγής του ήχου,74611.66666666667,74456.5,155.16666666667152
+77,"Electrical machinery, apparatus and appliances, n.e.s., and electrical parts thereof (including nonelectrical counterparts, n.e.s., of electrical household-type equipment)","Ηλεκτρικά μηχανήματα, συσκευές, υλικά μη κατονομαζόμενα και ηλεκτρικά μέρη αυτών (περιλαμβάνονται τα αντίστοιχα μη ηλεκτρικά είδη, τα μη κατονομαζόμενα του οικιακού εξοπλισμού)",225341.25,289637.5,-64296.25
+78,Road vehicles (including air-cushion vehicles),Οχήματα για δρόμους,6847.0,100179.5,-93332.5
+79,Other transport equipment,Λοιπό μεταφορικό υλικό,187788.0,16951.0,170837.0
+81,"Prefabricated buildings; sanitary plumbing, heating and lighting fixtures and fittings, n.e.s.","Προκατασκευασμένα κτίρια, συσκευές υγιεινής, θέρμανσης και φωτισμού, μη κατονομαζόμενα",21266.0,,
+82,"Furniture and parts thereof; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings","Έπιπλα και μέρη αυτών, κρεβάτια, στρώματα, υποστηρίγματα στρωμάτων, μαξιλάρια και παρόμοιος εξοπλισμός επίπλωση",1570.0,273043.0,-271473.0
+83,"Travel goods, handbags and similar containers","Είδη ταξιδιού, σακίδια χεριού και παρόμοια είδη",68299.0,23709.0,44590.0
+84,Articles of apparel and clothing accessories,Είδη ενδυμασίας και συμπληρώματα ένδυσης,81145.5,162777.33333333334,-81631.83333333334
+85,Footwear,Υποδήματα,21846.5,2691256.0,-2669409.5
+87,"Professional, scientific and controlling instruments and apparatus, n.e.s.","Όργανα και συσκευές επαγγελματικές, επιστημονικές και ελέγχου μ.α.κ.",1251591.25,76773.75,1174817.5
+88,"Photographic apparatus, equipment and supplies and optical goods, n.e.s.; watches and clocks","Φωτογραφικές συσκευές και εφόδια για τη φωτογράφιση, είδη οπτικής, μη κατονομαζόμενα, ωρολόγια χεριού και τοίχου",25158.0,1386.5,23771.5
+89,"Miscellaneous manufactured articles, n.e.s.","Διάφορα βιομηχανικά είδη, μη κατονομαζόμενα",191322.75,322883.25,-131560.5
+97,"Gold, non- monetary (excluding gold, ores and concentrates)",Χρυσός μη νομισματικός,,207.0,
