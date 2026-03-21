@@ -1,7 +1,7 @@
 Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 00,Live animals other than animals of division 03,Ζωντανά ζώα,,681538.0,
 01,Meat and meat preparations,Κρέας και παρασκευάσματα κρέατος,,49815.0,
-02,Dairy products and birds' eggs,Γαλακτοκομικά προϊόντα και αυγά πτηνών,15164495.0,1296.0,15163199.0
+02,Dairy products and birds' eggs,Γαλακτοκομικά προϊόντα και αυγά πτηνών,15274600.0,1296.0,15273304.0
 03,"Fish (not marine mammals), crustaceans, molluscs and aquatic invertebrates and preparations thereof","Ψάρια (μη θαλάσσια θηλαστικά), μαλακόστρακα, μαλάκια και υδρόβια, ασπόνδυλα και τα παρασκευάσματά τους",923794.0,35096909.0,-34173115.0
 04,Cereals and cereal preparations,Δημητριακά και παρασκευάσματα δημητριακών,1339272.0,1081947.0,257325.0
 05,Vegetables and fruit,Λαχανικά και φρούτα,3828232.0,34381330.0,-30553098.0
@@ -9,7 +9,7 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 07,"Coffee, tea, cocoa, spices, and manufactures thereof","Καφές, τσάι, κακάο, μπαχαρικά, υλικά και προϊόντα τους",12553.0,3160746.0,-3148193.0
 08,Feeding stuff for animals (not including unmilled cereals),Ζωοτροφές,,9350314.0,
 09,Miscellaneous edible products and preparations,Διάφορα βρώσιμα προϊόντα και παρασκευάσματα,71798.0,4429450.0,-4357652.0
-11,Beverages,Ποτά,811068.0,87032.0,724036.0
+11,Beverages,Ποτά,810180.0,87032.0,723148.0
 12,Tobacco and tobacco manufactures,Καπνός και προϊόντα καπνού,192302.0,9673369.0,-9481067.0
 21,"Hides, skins and furskins, raw","Δορές, δέρματα και γουναρικά ακατέργαστα",,6682.0,
 22,Oil-seeds and oleaginous fruits,Ελαιόσποροι και ελαιώδεις καρποί,128797.0,7584412.0,-7455615.0
@@ -18,10 +18,10 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 25,Pulp and waste paper,Πολτός και απορρίμματα χαρτιού,,749.0,
 26,Textile fibres (other than wool tops and other combed wool) and their wastes (not manufactured into yarn or fabric),"Υφαντικές ίνες (εκτός από μάλλινα νήματα και άλλο ακατέργαστο μαλλί) και απορρίμματα αυτών, μη μεταποιημένα σε κλωστές ή υφάσματα",,4332395.0,
 27,"Crude fertilizers, other than those of division 56, and crude minerals (excluding coal, petroleum and precious stones)","Λιπάσματα ακατέργαστα και ορυκτά ακατέργαστα (εκτός από άνθρακα, πετρέλαιο και πολύτιμους λίθους)",78889558.0,3290176.0,75599382.0
-28,Metalliferous ores and metal scrap,Μεταλλεύματα και απορρίμματα μετάλλων,120330212.0,97966.0,120232246.0
+28,Metalliferous ores and metal scrap,Μεταλλεύματα και απορρίμματα μετάλλων,120330212.0,96761.0,120233451.0
 29,"Crude animal and vegetable materials, n.e.s.","Ακατέργαστες ύλες ζωικής ή φυτικής προέλευσης, μη κατονομαζόμενες",454962.0,3406059.0,-2951097.0
 32,"Coal, coke and briquettes","Άνθρακας, οπτάνθρακας (κωκ) και μπρικέτες",106223.0,355520.0,-249297.0
-33,"Petroleum, petroleum products and related materials",Πετρέλαιο και προϊόντα πετρελαίου,278465145.0,2075638.0,276389507.0
+33,"Petroleum, petroleum products and related materials",Πετρέλαιο και προϊόντα πετρελαίου,279035967.0,2075638.0,276960329.0
 41,Animal oils and fats,Λάδια και λίπη ζωικής προέλευσης,,1846571.0,
 42,"Fixed vegetable fats and oils, crude, refined or fractionated","Λάδια και λίπη σταθεράς φυτικής προέλευσης, ακατέργαστα και εξευγενισμένα",1752895.0,43168.0,1709727.0
 43,"Animal or vegetable fats and oils, processed; waxes of animal or vegetable origin; inedible mixtures or preparations of animal or vegetable fats or oils, n.e.s.","Λάδια και λίπη επεξεργασμένα και κερί ζωικής ή φυτικής προέλευσης, μη εδώδιμα μείγματα ή παρασκευάσματα από ζωικά ή φυτικά λίπη και έλαια, μη κατονομαζόμενα",,1685359.0,
@@ -46,11 +46,11 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 71,Power-generating machinery and equipment,Μηχανήματα και εξοπλισμός παραγωγής ενέργειας,11450360.0,148226700.0,-136776340.0
 72,Machinery specialized for particular industries,Μηχανήματα ειδικά για ορισμένες βιομηχανίες,1500425.0,155413342.0,-153912917.0
 73,Metalworking machinery,Μηχανήματα κατεργασίας μετάλλων,50284.0,29234043.0,-29183759.0
-74,"General industrial machinery and equipment, n.e.s., and machine parts, n.e.s.","Γενικός βιομηχανικός εξοπλισμός, μηχανήματα και μέρη αυτών, μη κατονομαζόμενα",16862628.0,544352291.0,-527489663.0
+74,"General industrial machinery and equipment, n.e.s., and machine parts, n.e.s.","Γενικός βιομηχανικός εξοπλισμός, μηχανήματα και μέρη αυτών, μη κατονομαζόμενα",16862628.0,544357759.0,-527495131.0
 75,Office machines and automatic data-processing machines,Μηχανές γραφείου και μηχανές αυτόματης επεξεργασίας στοιχείων,4935078.0,333960678.0,-329025600.0
 76,Telecommunications and sound-recording and reproducing apparatus and equipment,Συσκευές και εξοπλισμός τηλεπικοινωνιών και εγγραφής και αναπαραγωγής του ήχου,2952093.0,303169098.0,-300217005.0
-77,"Electrical machinery, apparatus and appliances, n.e.s., and electrical parts thereof (including nonelectrical counterparts, n.e.s., of electrical household-type equipment)","Ηλεκτρικά μηχανήματα, συσκευές, υλικά μη κατονομαζόμενα και ηλεκτρικά μέρη αυτών (περιλαμβάνονται τα αντίστοιχα μη ηλεκτρικά είδη, τα μη κατονομαζόμενα του οικιακού εξοπλισμού)",7535395.0,1493258349.0,-1485722954.0
-78,Road vehicles (including air-cushion vehicles),Οχήματα για δρόμους,320195.0,282869158.0,-282548963.0
+77,"Electrical machinery, apparatus and appliances, n.e.s., and electrical parts thereof (including nonelectrical counterparts, n.e.s., of electrical household-type equipment)","Ηλεκτρικά μηχανήματα, συσκευές, υλικά μη κατονομαζόμενα και ηλεκτρικά μέρη αυτών (περιλαμβάνονται τα αντίστοιχα μη ηλεκτρικά είδη, τα μη κατονομαζόμενα του οικιακού εξοπλισμού)",7535395.0,1493308332.0,-1485772937.0
+78,Road vehicles (including air-cushion vehicles),Οχήματα για δρόμους,320206.0,282869158.0,-282548952.0
 79,Other transport equipment,Λοιπό μεταφορικό υλικό,77806.0,32215116.0,-32137310.0
 81,"Prefabricated buildings; sanitary plumbing, heating and lighting fixtures and fittings, n.e.s.","Προκατασκευασμένα κτίρια, συσκευές υγιεινής, θέρμανσης και φωτισμού, μη κατονομαζόμενα",722545.0,154366722.0,-153644177.0
 82,"Furniture and parts thereof; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings","Έπιπλα και μέρη αυτών, κρεβάτια, στρώματα, υποστηρίγματα στρωμάτων, μαξιλάρια και παρόμοιος εξοπλισμός επίπλωση",639602.0,161398965.0,-160759363.0
