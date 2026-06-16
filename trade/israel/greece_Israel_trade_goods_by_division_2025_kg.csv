@@ -7,8 +7,8 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 06,"Sugars, sugar preparations and honey","Ζάχαρη, παρασκευάσματα ζάχαρης και μέλι",1629215.0,14879.0,1614336.0
 07,"Coffee, tea, cocoa, spices, and manufactures thereof","Καφές, τσάι, κακάο, μπαχαρικά, υλικά και προϊόντα τους",254912.0,,
 08,Feeding stuff for animals (not including unmilled cereals),Ζωοτροφές,51863274.0,1558975.0,50304299.0
-09,Miscellaneous edible products and preparations,Διάφορα βρώσιμα προϊόντα και παρασκευάσματα,4496677.0,32552.0,4464125.0
-11,Beverages,Ποτά,14361588.0,6522.0,14355066.0
+09,Miscellaneous edible products and preparations,Διάφορα βρώσιμα προϊόντα και παρασκευάσματα,4503657.0,32552.0,4471105.0
+11,Beverages,Ποτά,14384605.0,6522.0,14378083.0
 12,Tobacco and tobacco manufactures,Καπνός και προϊόντα καπνού,2830.0,,
 22,Oil-seeds and oleaginous fruits,Ελαιόσποροι και ελαιώδεις καρποί,,90001.0,
 23,Crude rubber (including synthetic and reclaimed),Καουτσούκ ακατέργαστο (περιλαμβάνεται το συνθετικό και το αναγεννημένο),69726.0,32000.0,37726.0
@@ -19,7 +19,7 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 28,Metalliferous ores and metal scrap,Μεταλλεύματα και απορρίμματα μετάλλων,2954.0,71927314.0,-71924360.0
 29,"Crude animal and vegetable materials, n.e.s.","Ακατέργαστες ύλες ζωικής ή φυτικής προέλευσης, μη κατονομαζόμενες",767698.0,18490.0,749208.0
 32,"Coal, coke and briquettes","Άνθρακας, οπτάνθρακας (κωκ) και μπρικέτες",1036246.0,,
-33,"Petroleum, petroleum products and related materials",Πετρέλαιο και προϊόντα πετρελαίου,216501464.0,225523002.0,-9021538.0
+33,"Petroleum, petroleum products and related materials",Πετρέλαιο και προϊόντα πετρελαίου,216520574.0,225523002.0,-9002428.0
 34,"Gas, natural and manufactured","Φωταέριο, φυσικό και βιομηχανικό",45708.0,,
 42,"Fixed vegetable fats and oils, crude, refined or fractionated","Λάδια και λίπη σταθεράς φυτικής προέλευσης, ακατέργαστα και εξευγενισμένα",2959063.0,1525.0,2957538.0
 43,"Animal or vegetable fats and oils, processed; waxes of animal or vegetable origin; inedible mixtures or preparations of animal or vegetable fats or oils, n.e.s.","Λάδια και λίπη επεξεργασμένα και κερί ζωικής ή φυτικής προέλευσης, μη εδώδιμα μείγματα ή παρασκευάσματα από ζωικά ή φυτικά λίπη και έλαια, μη κατονομαζόμενα",107620.0,,
@@ -31,11 +31,11 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 56,Fertilizers (other than those of group 272),Βιομηχανικά λιπάσματα (εκτός αυτών της κατηγορίας 27),1346100.0,28066245.0,-26720145.0
 57,Plastics in primary forms,Πλαστικές ύλες σε πρωτογενή μορφή,14603606.0,15158467.0,-554861.0
 58,Plastics in non-primary forms,Πλαστικές ύλες σε μη πρωτογενή μορφή,3841105.0,3815066.0,26039.0
-59,"Chemical materials and products, n.e.s.","Χημικές ύλες και προϊόντα, μη κατονομαζόμενα",13051024.0,1021764.0,12029260.0
+59,"Chemical materials and products, n.e.s.","Χημικές ύλες και προϊόντα, μη κατονομαζόμενα",13159024.0,1021764.0,12137260.0
 61,"Leather, leather manufactures, n.e.s., and dressed furskins","Δέρματα, είδη από δέρμα, μη κατονομαζόμενα, και γουναρικά κατεργασμένα",74942.0,115.0,74827.0
 62,"Rubber manufactures, n.e.s.",Είδη από καουτσούκ,277822.0,13829.0,263993.0
 63,Cork and wood manufactures (excluding furniture),Είδη από φελλό και ξύλο (εκτός επίπλων),2555818.0,122753.0,2433065.0
-64,"Paper, paperboard and articles of paper pulp, of paper or of paperboard","Χαρτί, χαρτόνια και είδη από χαρτοπολτό, χαρτί ή χαρτόνι",32286811.0,10151542.0,22135269.0
+64,"Paper, paperboard and articles of paper pulp, of paper or of paperboard","Χαρτί, χαρτόνια και είδη από χαρτοπολτό, χαρτί ή χαρτόνι",32353126.0,10151542.0,22201584.0
 65,"Textile yarn, fabrics, made-up articles, n.e.s., and related products","Υφαντικά νήματα, υφάσματα έτοιμα, προϊόντα μη κατονομαζόμενα και συναφή προϊόντα",926667.0,911451.0,15216.0
 66,"Non-metallic mineral manufactures, n.e.s.","Είδη από μη μεταλλικά ορυκτά, μη κατονομαζόμενα",635363582.0,2441128.0,632922454.0
 67,Iron and steel,Σίδηρος και χάλυβας,97272501.0,61812.0,97210689.0
