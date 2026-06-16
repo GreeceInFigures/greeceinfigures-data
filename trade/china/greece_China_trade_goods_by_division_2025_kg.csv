@@ -1,7 +1,7 @@
 Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 00,Live animals other than animals of division 03,Ζωντανά ζώα,,24888.0,
 01,Meat and meat preparations,Κρέας και παρασκευάσματα κρέατος,,11280.0,
-02,Dairy products and birds' eggs,Γαλακτοκομικά προϊόντα και αυγά πτηνών,3006271.0,1.0,3006270.0
+02,Dairy products and birds' eggs,Γαλακτοκομικά προϊόντα και αυγά πτηνών,3006271.0,100.0,3006171.0
 03,"Fish (not marine mammals), crustaceans, molluscs and aquatic invertebrates and preparations thereof","Ψάρια (μη θαλάσσια θηλαστικά), μαλακόστρακα, μαλάκια και υδρόβια, ασπόνδυλα και τα παρασκευάσματά τους",128677.0,9994634.0,-9865957.0
 04,Cereals and cereal preparations,Δημητριακά και παρασκευάσματα δημητριακών,1321561.0,662217.0,659344.0
 05,Vegetables and fruit,Λαχανικά και φρούτα,2875949.0,18602367.0,-15726418.0
@@ -36,7 +36,7 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 59,"Chemical materials and products, n.e.s.","Χημικές ύλες και προϊόντα, μη κατονομαζόμενα",563105.0,9201398.0,-8638293.0
 61,"Leather, leather manufactures, n.e.s., and dressed furskins","Δέρματα, είδη από δέρμα, μη κατονομαζόμενα, και γουναρικά κατεργασμένα",114738.0,732771.0,-618033.0
 62,"Rubber manufactures, n.e.s.",Είδη από καουτσούκ,28126.0,27947149.0,-27919023.0
-63,Cork and wood manufactures (excluding furniture),Είδη από φελλό και ξύλο (εκτός επίπλων),301.0,38526264.0,-38525963.0
+63,Cork and wood manufactures (excluding furniture),Είδη από φελλό και ξύλο (εκτός επίπλων),301.0,38526327.0,-38526026.0
 64,"Paper, paperboard and articles of paper pulp, of paper or of paperboard","Χαρτί, χαρτόνια και είδη από χαρτοπολτό, χαρτί ή χαρτόνι",8089.0,75297852.0,-75289763.0
 65,"Textile yarn, fabrics, made-up articles, n.e.s., and related products","Υφαντικά νήματα, υφάσματα έτοιμα, προϊόντα μη κατονομαζόμενα και συναφή προϊόντα",170347.0,103050594.0,-102880247.0
 66,"Non-metallic mineral manufactures, n.e.s.","Είδη από μη μεταλλικά ορυκτά, μη κατονομαζόμενα",6648340.0,117935940.0,-111287600.0
