@@ -4,7 +4,7 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 02,Dairy products and birds' eggs,Γαλακτοκομικά προϊόντα και αυγά πτηνών,71750712.0,48.0,71750664.0
 03,"Fish (not marine mammals), crustaceans, molluscs and aquatic invertebrates and preparations thereof","Ψάρια (μη θαλάσσια θηλαστικά), μαλακόστρακα, μαλάκια και υδρόβια, ασπόνδυλα και τα παρασκευάσματά τους",32628241.0,4715117.0,27913124.0
 04,Cereals and cereal preparations,Δημητριακά και παρασκευάσματα δημητριακών,57759720.0,1811103.0,55948617.0
-05,Vegetables and fruit,Λαχανικά και φρούτα,396647261.0,45350329.0,351296932.0
+05,Vegetables and fruit,Λαχανικά και φρούτα,396651501.0,45350329.0,351301172.0
 06,"Sugars, sugar preparations and honey","Ζάχαρη, παρασκευάσματα ζάχαρης και μέλι",14416215.0,124749.0,14291466.0
 07,"Coffee, tea, cocoa, spices, and manufactures thereof","Καφές, τσάι, κακάο, μπαχαρικά, υλικά και προϊόντα τους",4753565.0,82579.0,4670986.0
 08,Feeding stuff for animals (not including unmilled cereals),Ζωοτροφές,41491.0,1035970.0,-994479.0
@@ -38,7 +38,7 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 62,"Rubber manufactures, n.e.s.",Είδη από καουτσούκ,333871.0,3918089.0,-3584218.0
 63,Cork and wood manufactures (excluding furniture),Είδη από φελλό και ξύλο (εκτός επίπλων),4131485.0,3637447.0,494038.0
 64,"Paper, paperboard and articles of paper pulp, of paper or of paperboard","Χαρτί, χαρτόνια και είδη από χαρτοπολτό, χαρτί ή χαρτόνι",11651686.0,14408703.0,-2757017.0
-65,"Textile yarn, fabrics, made-up articles, n.e.s., and related products","Υφαντικά νήματα, υφάσματα έτοιμα, προϊόντα μη κατονομαζόμενα και συναφή προϊόντα",15046913.0,2463346.0,12583567.0
+65,"Textile yarn, fabrics, made-up articles, n.e.s., and related products","Υφαντικά νήματα, υφάσματα έτοιμα, προϊόντα μη κατονομαζόμενα και συναφή προϊόντα",15046911.0,2463346.0,12583565.0
 66,"Non-metallic mineral manufactures, n.e.s.","Είδη από μη μεταλλικά ορυκτά, μη κατονομαζόμενα",90280715.0,4203365.0,86077350.0
 67,Iron and steel,Σίδηρος και χάλυβας,113589172.0,39099173.0,74489999.0
 68,Non-ferrous metals,Μη σιδηρούχα μέταλλα,202244602.0,2419668.0,199824934.0
@@ -55,7 +55,7 @@ Division_Code,Division_EN,Division_GR,Exports,Imports,Balance
 81,"Prefabricated buildings; sanitary plumbing, heating and lighting fixtures and fittings, n.e.s.","Προκατασκευασμένα κτίρια, συσκευές υγιεινής, θέρμανσης και φωτισμού, μη κατονομαζόμενα",2577468.0,728849.0,1848619.0
 82,"Furniture and parts thereof; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings","Έπιπλα και μέρη αυτών, κρεβάτια, στρώματα, υποστηρίγματα στρωμάτων, μαξιλάρια και παρόμοιος εξοπλισμός επίπλωση",6113271.0,1840551.0,4272720.0
 83,"Travel goods, handbags and similar containers","Είδη ταξιδιού, σακίδια χεριού και παρόμοια είδη",1554870.0,503961.0,1050909.0
-84,Articles of apparel and clothing accessories,Είδη ενδυμασίας και συμπληρώματα ένδυσης,20398382.0,2273593.0,18124789.0
+84,Articles of apparel and clothing accessories,Είδη ενδυμασίας και συμπληρώματα ένδυσης,20398434.0,2273593.0,18124841.0
 85,Footwear,Υποδήματα,4693682.0,656649.0,4037033.0
 87,"Professional, scientific and controlling instruments and apparatus, n.e.s.","Όργανα και συσκευές επαγγελματικές, επιστημονικές και ελέγχου μ.α.κ.",39827583.0,61173691.0,-21346108.0
 88,"Photographic apparatus, equipment and supplies and optical goods, n.e.s.; watches and clocks","Φωτογραφικές συσκευές και εφόδια για τη φωτογράφιση, είδη οπτικής, μη κατονομαζόμενα, ωρολόγια χεριού και τοίχου",1592244.0,1870985.0,-278741.0
