@@ -1,4 +1,5 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Party,Percent,Party_Gr,Party_En,Acronym
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,SYRIZA,0.011000000000000001,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,SYRIZA,0.013999999999999999,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,SYRIZA,0.016,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,SYRIZA,0.023,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
@@ -693,6 +694,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,SYRIZA,0.25,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,SYRIZA,0.215,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,SYRIZA,0.25,Συνασπισμός Ριζοσπαστικής Αριστεράς,SYRIZA,ΣΥΡΙΖΑ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,ND,0.295,Νέα Δημοκρατία,ND,ΝΔ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,ND,0.294,Νέα Δημοκρατία,ND,ΝΔ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,ND,0.293,Νέα Δημοκρατία,ND,ΝΔ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,ND,0.297,Νέα Δημοκρατία,ND,ΝΔ
@@ -1387,6 +1389,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ND,0.327,Νέα Δημοκρατία,ND,ΝΔ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ND,0.37,Νέα Δημοκρατία,ND,ΝΔ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ND,0.365,Νέα Δημοκρατία,ND,ΝΔ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,ChA,,Χρυσή Αυγή,ChA,ΧΑ
@@ -2081,6 +2084,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ChA,0.09300000000000001,Χρυσή Αυγή,ChA,ΧΑ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ChA,0.08,Χρυσή Αυγή,ChA,ΧΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ChA,0.085,Χρυσή Αυγή,ChA,ΧΑ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,PASOK-KINAL,0.111,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,PASOK-KINAL,0.11599999999999999,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,PASOK-KINAL,0.10800000000000001,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,PASOK-KINAL,0.114,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
@@ -2775,6 +2779,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,PASOK-KINAL,0.09699999999999999,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,PASOK-KINAL,0.13,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,PASOK-KINAL,0.1,Πανελλήνιο Σοσιαλιστικό Κίνημα,PASOK-KINAL,ΠΑΣΟΚ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,KKE,0.065,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,KKE,0.07400000000000001,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,KKE,0.091,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,KKE,0.069,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
@@ -3469,6 +3474,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,KKE,0.073,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,KKE,0.075,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,KKE,0.065,Κομμουνιστικό Κόμμα Ελλάδας,KKE,ΚΚΕ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
@@ -4163,6 +4169,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Potami,0.01,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Potami,,Το Ποτάμι,Potami,ΠΟΤΑΜΙ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,ANEL,,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
@@ -4857,6 +4864,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ANEL,0.028999999999999998,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ANEL,0.02,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ANEL,0.025,Ανεξάρτητοι Έλληνες,ANEL,ΑΝΕΛ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,EK,,Ένωση Κεντρώων,EK,ΕΚ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,EK,,Ένωση Κεντρώων,EK,ΕΚ
@@ -5551,6 +5559,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,EK,0.026000000000000002,Ένωση Κεντρώων,EK,ΕΚ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EK,0.02,Ένωση Κεντρώων,EK,ΕΚ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EK,0.025,Ένωση Κεντρώων,EK,ΕΚ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
@@ -6245,6 +6254,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,LAE - AA,0.04,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,LAE - AA,,Λαϊκή Ενότητα,LAE - AA,ΛΑΕ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,PE,0.032,Πλεύση Ελευθερίας,PE,ΠΕ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,PE,0.043,Πλεύση Ελευθερίας,PE,ΠΕ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,PE,0.046,Πλεύση Ελευθερίας,PE,ΠΕ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,PE,0.051,Πλεύση Ελευθερίας,PE,ΠΕ
@@ -6939,6 +6949,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,PE,,Πλεύση Ελευθερίας,PE,ΠΕ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,PE,,Πλεύση Ελευθερίας,PE,ΠΕ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,PE,,Πλεύση Ελευθερίας,PE,ΠΕ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,EL,0.098,Ελληνική Λύση,EL,ΕΛ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,EL,0.083,Ελληνική Λύση,EL,ΕΛ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,EL,0.091,Ελληνική Λύση,EL,ΕΛ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,EL,0.08,Ελληνική Λύση,EL,ΕΛ
@@ -7633,6 +7644,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,EL,,Ελληνική Λύση,EL,ΕΛ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EL,,Ελληνική Λύση,EL,ΕΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EL,,Ελληνική Λύση,EL,ΕΛ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,MeRA25,0.034,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,MeRA25,0.032,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,MeRA25,0.017,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,MeRA25,0.028999999999999998,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
@@ -8327,6 +8339,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,MeRA25,,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής,MeRA25,ΜέΡΑ25
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,EKE,,,,
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,EKE,,,,
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,EKE,,,,
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,EKE,,,,
@@ -9021,6 +9034,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,EKE,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EKE,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EKE,,,,
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,ED,,,,
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,ED,,,,
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,ED,,,,
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,ED,,,,
@@ -9715,6 +9729,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ED,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ED,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ED,,,,
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,EAN…,,,,
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,EAN…,,,,
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,EAN…,,,,
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,EAN…,,,,
@@ -10409,6 +10424,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,EAN…,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,EAN…,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,EAN…,,,,
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,Níki,0.003,ΝΙΚΗ,Níki,Νίκη
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,Níki,0.017,ΝΙΚΗ,Níki,Νίκη
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,Níki,0.017,ΝΙΚΗ,Níki,Νίκη
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,Níki,0.011000000000000001,ΝΙΚΗ,Níki,Νίκη
@@ -11103,6 +11119,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,Níki,,ΝΙΚΗ,Níki,Νίκη
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Níki,,ΝΙΚΗ,Níki,Νίκη
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Níki,,ΝΙΚΗ,Níki,Νίκη
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
@@ -11797,6 +11814,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,Spartiátes,,Σπαρτιάτες,Spartiátes,Σπαρτιάτες
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,NA,0.005,Νέα Αριστερά,NA,ΝΑ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,NA,,Νέα Αριστερά,NA,ΝΑ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,NA,,Νέα Αριστερά,NA,ΝΑ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,NA,,Νέα Αριστερά,NA,ΝΑ
@@ -12491,6 +12509,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,NA,,Νέα Αριστερά,NA,ΝΑ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,NA,,Νέα Αριστερά,NA,ΝΑ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,NA,,Νέα Αριστερά,NA,ΝΑ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,ANTARSYA,,,,
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,ANTARSYA,,,,
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,ANTARSYA,,,,
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,ANTARSYA,,,,
@@ -13185,6 +13204,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ANTARSYA,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ANTARSYA,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ANTARSYA,,,,
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,FL,0.033,Φωνή Λογικής,FL,ΦΛ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,FL,0.03,Φωνή Λογικής,FL,ΦΛ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,FL,0.032,Φωνή Λογικής,FL,ΦΛ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,FL,0.034,Φωνή Λογικής,FL,ΦΛ
@@ -13879,6 +13899,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,FL,,Φωνή Λογικής,FL,ΦΛ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,FL,,Φωνή Λογικής,FL,ΦΛ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,FL,,Φωνή Λογικής,FL,ΦΛ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,D,,,,
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,D,,,,
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,D,,,,
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,D,,,,
@@ -14573,6 +14594,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,D,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,D,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,D,,,,
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,DX,,,,
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,DX,,,,
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,DX,,,,
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,DX,,,,
@@ -15267,6 +15289,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,DX,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,DX,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,DX,,,,
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,K,,,,
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,K,,,,
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,K,,,,
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,K,,,,
@@ -15961,6 +15984,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,K,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,K,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,K,,,,
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,P-PE,,,,
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,P-PE,,,,
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,P-PE,,,,
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,P-PE,,,,
@@ -16655,6 +16679,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,P-PE,,,,
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,P-PE,,,,
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,P-PE,,,,
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,DPK,0.026000000000000002,Δημοκράτες - Προοδευτικό Κέντρο,DPK,Δημοκράτες
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,DPK,0.006,Δημοκράτες - Προοδευτικό Κέντρο,DPK,Δημοκράτες
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,DPK,,Δημοκράτες - Προοδευτικό Κέντρο,DPK,Δημοκράτες
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,DPK,0.011000000000000001,Δημοκράτες - Προοδευτικό Κέντρο,DPK,Δημοκράτες
@@ -17349,6 +17374,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,DPK,,Δημοκράτες - Προοδευτικό Κέντρο,DPK,Δημοκράτες
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,DPK,,Δημοκράτες - Προοδευτικό Κέντρο,DPK,Δημοκράτες
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,DPK,,Δημοκράτες - Προοδευτικό Κέντρο,DPK,Δημοκράτες
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,ELPIDA,0.057999999999999996,Ελπίδα για τη Δημοκρατία,ELPIDA,Ελπίδα
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,ELPIDA,0.077,Ελπίδα για τη Δημοκρατία,ELPIDA,Ελπίδα
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,ELPIDA,0.07,Ελπίδα για τη Δημοκρατία,ELPIDA,Ελπίδα
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,ELPIDA,0.086,Ελπίδα για τη Δημοκρατία,ELPIDA,Ελπίδα
@@ -18043,6 +18069,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ELPIDA,,Ελπίδα για τη Δημοκρατία,ELPIDA,Ελπίδα
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ELPIDA,,Ελπίδα για τη Δημοκρατία,ELPIDA,Ελπίδα
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ELPIDA,,Ελπίδα για τη Δημοκρατία,ELPIDA,Ελπίδα
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,ELAS,0.174,Ελληνική Αριστερή Συμπαράταξη,ELAS,ΕΛΑΣ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,ELAS,0.183,Ελληνική Αριστερή Συμπαράταξη,ELAS,ΕΛΑΣ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,ELAS,0.166,Ελληνική Αριστερή Συμπαράταξη,ELAS,ΕΛΑΣ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,ELAS,0.171,Ελληνική Αριστερή Συμπαράταξη,ELAS,ΕΛΑΣ
@@ -18737,6 +18764,7 @@ Pulse RC,Action 24,2018-01-25,2018-01-29,National,1518,Provided,Not Available,0.
 Alco,Ραδιόφωνο 24/7,2018-01-16,2018-01-18,National,1000,Provided,Not Available,0.1%,ELAS,,Ελληνική Αριστερή Συμπαράταξη,ELAS,ΕΛΑΣ
 Public Issue,,2018-01-08,2018-01-18,National,1010,Provided,Not Available,0.5%,ELAS,,Ελληνική Αριστερή Συμπαράταξη,ELAS,ΕΛΑΣ
 Pulse RC,bankingnews.gr,2018-01-08,2018-01-10,National,1207,Provided,Not Available,0.5%,ELAS,,Ελληνική Αριστερή Συμπαράταξη,ELAS,ΕΛΑΣ
+Interview,politic.gr,2026-07-15,2026-07-20,National,3419,Provided,91%,0.1%,Other,0.055,ΑΛΛΟ,Other,ΑΛΛΟ
 Alco,Η Εφημερίδα των Συντακτών,2026-07-06,2026-07-09,National,1000,Provided,83.6%,0.1%,Other,0.031,ΑΛΛΟ,Other,ΑΛΛΟ
 GPO,iefimerida.gr,2026-07-06,2026-07-09,National,1000,Provided,87.6%,0.1%,Other,0.053,ΑΛΛΟ,Other,ΑΛΛΟ
 Pulse RC,ΣΚΑΪ,2026-07-03,2026-07-07,National,1126,Provided,87.5%,0.5%,Other,0.023,ΑΛΛΟ,Other,ΑΛΛΟ
