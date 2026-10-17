@@ -9,6 +9,7 @@ Country,Household_Electricity_Price_excluding_tax_DC_2026-S1,Household_Electrici
 Εσθονία,0.1512,0.2118,EE,Estonia
 Ελλάδα,0.1967,0.2401,EL,Greece
 Ισπανία,0.1782,0.2509,ES,Spain
+E.E.,0.2027,0.2832,EU27_2020,E.U.
 Φινλανδία,0.1919,0.2694,FI,Finland
 Γαλλία,0.1726,0.2485,FR,France
 Κροατία,0.1474,0.1816,HR,Croatia
@@ -17,6 +18,7 @@ Country,Household_Electricity_Price_excluding_tax_DC_2026-S1,Household_Electrici
 Ιταλια,0.2356,0.3142,IT,Italy
 Λιθουανία,0.179,0.2162,LT,Lithuania
 Λουξεμβούργο,0.1873,0.2023,LU,Luxembourg
+Λετονία,0.1991,0.2415,LV,Latvia
 Μάλτα,0.1193,0.1268,MT,Malta
 Ολλανδία,0.2681,0.244,NL,Netherlands
 Πολωνία,0.1592,0.2999,PL,Poland
